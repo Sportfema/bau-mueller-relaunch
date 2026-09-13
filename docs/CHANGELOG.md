@@ -34,5 +34,6 @@
 | 2026-09-13 11:11 | Phase 3 | 2595 | Seite: NEU – Startseite | Vollständige V4-Container-Komposition (8 Sektionen, Apple Design, Glass-Cards) aufgebaut & gespeichert. |
 | 2026-09-13 11:12 | Phase 3 | 2595 | Seite: NEU – Startseite | Vorschau-Token erzeugt, Desktop- und Mobil-Screenshots in `docs/screenshots/nachher/` abgelegt. |
 | 2026-09-13 11:13 | Phase 3 | exports/ | Startseite JSON | `exports/neu-startseite-2595.json` gesichert. |
+| 2026-09-13 16:45 | Phase 3 | GitHub | Repo `bau-mueller-relaunch` | Lokales Repository initialisiert und erfolgreich nach `Sportfema/bau-mueller-relaunch` gepusht. |
 
 *(Hinweis: Bisher keine zerstörenden Operationen auf Live; alle neuen Inhalte werden als Entwürfe mit Präfix `NEU – ` angelegt.)*

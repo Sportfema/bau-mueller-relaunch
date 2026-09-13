@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Startseite",
+    "url": "https://bau-mueller.eu/",
+    "word_count": 492,
+    "h1": [
+      "Zimmerei &amp; Baugeschäft"
+    ],
+    "h2_count": 3,
+    "h2_sample": [
+      "HOLZ IST UNSERE\n\t\t\t\t\n\t\t\t\t\tLEIDENSCHAFT",
+      "Unsere Leistungen",
+      "Lassen Sie uns über Ihr nächstes Projekt sprechen"
+    ],
+    "h3_count": 4,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Über uns",
+    "url": "https://bau-mueller.eu/about/",
+    "word_count": 287,
+    "h1": [
+      "Baugeschäft Müller Tradition Seit 1920"
+    ],
+    "h2_count": 4,
+    "h2_sample": [
+      "Über Uns",
+      "1952",
+      "Seit 1996 &amp; heute in 4. Generation",
+      "Möchten Sie Ihr Projekt mit uns besprechen?"
+    ],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Leistungen",
+    "url": "https://bau-mueller.eu/leistungen/",
+    "word_count": 234,
+    "h1": [
+      "Unsere Leistungen"
+    ],
+    "h2_count": 6,
+    "h2_sample": [
+      "Hier möchten wir Ihnen einen Einblick in unsere Leistungen geben",
+      "Treppen- und Möbelbau",
+      "Zimmerei",
+      "Maurerarbeiten"
+    ],
+    "h3_count": 2,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Referenzen",
+    "url": "https://bau-mueller.eu/projects/",
+    "word_count": 83,
+    "h1": [
+      "Unsere Referenzen"
+    ],
+    "h2_count": 5,
+    "h2_sample": [
+      "Treppen",
+      "Zimmerei",
+      "Möbelbau",
+      "Maurerarbeiten"
+    ],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Kontakt",
+    "url": "https://bau-mueller.eu/contact/",
+    "word_count": 55,
+    "h1": [
+      "Kontakt &amp; Beratung"
+    ],
+    "h2_count": 2,
+    "h2_sample": [
+      "Let's Talk, Wir sind bereit",
+      "Kontaktdaten"
+    ],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": true
+  },
+  {
+    "name": "Aktuelles",
+    "url": "https://bau-mueller.eu/aktuelles/",
+    "word_count": 257,
+    "h1": [
+      "Aktuelles"
+    ],
+    "h2_count": 1,
+    "h2_sample": [
+      "Haben Sie Fragen zu unseren Projekten oder Holzbau-Leistungen?"
+    ],
+    "h3_count": 6,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Impressum",
+    "url": "https://bau-mueller.eu/impressum/",
+    "word_count": 484,
+    "h1": [
+      "Impressum"
+    ],
+    "h2_count": 3,
+    "h2_sample": [
+      "Impressum",
+      "Hinweis gem&auml;&szlig; Online-Streitbeilegungs-Verordnung",
+      "Disclaimer – rechtliche Hinweise"
+    ],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Datenschutz",
+    "url": "https://bau-mueller.eu/datenschutz/",
+    "word_count": 5686,
+    "h1": [
+      "Datenschutz"
+    ],
+    "h2_count": 0,
+    "h2_sample": [],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Werkstatt der Zukunft",
+    "url": "https://bau-mueller.eu/werkstatt-der-zukunft-praezision-trifft-tradition/",
+    "word_count": 619,
+    "h1": [
+      "Werkstatt der Zukunft – Präzision trifft Tradition",
+      "Werkstatt der Zukunft –Präzision trifft Tradition"
+    ],
+    "h2_count": 5,
+    "h2_sample": [
+      "Das Projekt: „Werkstatt der Zukunft – Präzision trifft Tradition\"",
+      "Welche Maschinen wurden beschafft?",
+      "Was hat sich für unsere Kunden verbessert?",
+      "Warum regionale Förderung Sinn ergibt"
+    ],
+    "h3_count": 3,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Altbausanierung",
+    "url": "https://bau-mueller.eu/denkmalgerechte-altbausanierung-holzarbeiten-an-historischen-gebaeuden/",
+    "word_count": 492,
+    "h1": [
+      "Denkmalgerechte Altbausanierung: Holzarbeiten an historischen Gebäuden"
+    ],
+    "h2_count": 0,
+    "h2_sample": [],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Pellets",
+    "url": "https://bau-mueller.eu/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/",
+    "word_count": 743,
+    "h1": [
+      "Wärme mit Stil – Unsere Pellets für Ihren Kamin",
+      "Die Vorzüge von Holzbriketts und Pellets als umweltfreundliche Heizoptionen"
+    ],
+    "h2_count": 6,
+    "h2_sample": [
+      "1. Was sind Holzbriketts und Pellets?",
+      "2. Vorteile von Holzbriketts und Pellets",
+      "3. Kostenvergleich: Holzbriketts vs. Pellets",
+      "4. Lagerung und Transport"
+    ],
+    "h3_count": 10,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Binderdachstuhl",
+    "url": "https://bau-mueller.eu/binderdachstuhl/",
+    "word_count": 196,
+    "h1": [
+      "BINDERDACHSTUHL"
+    ],
+    "h2_count": 0,
+    "h2_sample": [],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Lohnschnitt Sägewerk",
+    "url": "https://bau-mueller.eu/lohnschnitt-im-neuen-saegewerk/",
+    "word_count": 73,
+    "h1": [
+      "LOHNSCHNITT IM NEUEN SÄGEWERK"
+    ],
+    "h2_count": 0,
+    "h2_sample": [],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  },
+  {
+    "name": "Blog: Wärmedämmung Fassade",
+    "url": "https://bau-mueller.eu/waermedaemmung-fuer-meine-fassade/",
+    "word_count": 121,
+    "h1": [
+      "WAS KOSTET EINE WÄRMEDÄMMUNG FÜR MEINE FASSADE?"
+    ],
+    "h2_count": 0,
+    "h2_sample": [],
+    "h3_count": 0,
+    "has_tel": true,
+    "has_contact_link": true,
+    "has_form": false
+  }
+]

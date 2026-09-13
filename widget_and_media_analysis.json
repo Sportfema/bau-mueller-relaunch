@@ -1,0 +1,32 @@
+{
+  "media_count": 141,
+  "media_mime": {
+    "image/webp": 5,
+    "image/jpeg": 126,
+    "image/svg+xml": 1,
+    "image/png": 9
+  },
+  "media_missing_alt": 0,
+  "media_total_mb": 1.56,
+  "top_widgets": {
+    "heading": 29,
+    "image": 16,
+    "divider": 15,
+    "text-editor": 14,
+    "button": 9,
+    "image-box": 9,
+    "icon-list": 6,
+    "image-carousel": 5,
+    "icon-box": 3,
+    "posts": 2,
+    "html": 1,
+    "form": 1,
+    "google_maps": 1,
+    "animated-headline": 1,
+    "e-image": 1,
+    "e-paragraph": 1,
+    "e-button": 1,
+    "testimonial": 1
+  },
+  "third_party_widgets_per_page": {}
+}

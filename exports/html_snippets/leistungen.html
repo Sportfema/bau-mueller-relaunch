@@ -1,0 +1,321 @@
+<!-- SOMERVILLE ARCHITECTURAL CRAFT DESIGN: NEU – Leistungen -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+body {
+      font-family: 'Inter', sans-serif;
+      background-color: #F8F5EE;
+      color: #1A1918;
+      -webkit-font-smoothing: antialiased;
+    }
+    h1, h2, h3, h4, .font-heading {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      letter-spacing: -0.028em;
+    }
+    .bg-cream { background-color: #F8F5EE; }
+    .bg-charcoal { background-color: #1C1B1A; }
+    .bg-charcoal-card { background-color: #262523; }
+    .text-charcoal { color: #1A1918; }
+    .text-cream { color: #FAF7F2; }
+    .text-muted-dark { color: #9C968F; }
+    .accent-red { color: #E31936; }
+
+    .btn-pill-dark {
+      background-color: #1C1B1A;
+      color: #FAF7F2;
+      border-radius: 9999px;
+      padding: 12px 26px;
+      font-size: 14px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-dark:hover {
+      background-color: #2F2E2C;
+      transform: translateY(-1px);
+    }
+    .btn-pill-light {
+      background-color: #FAF7F2;
+      color: #1C1B1A;
+      border-radius: 9999px;
+      padding: 12px 26px;
+      font-size: 14px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-light:hover {
+      background-color: #FFFFFF;
+      transform: translateY(-1px);
+    }
+
+    .action-circle-badge {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+      width: 44px;
+      height: 44px;
+      background-color: #FFFFFF;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.14);
+      transition: transform 0.3s ease, background-color 0.3s ease;
+    }
+    .group:hover .action-circle-badge {
+      transform: scale(1.1);
+      background-color: #FAF7F2;
+    }
+    
+    .editorial-link-hover {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 0% 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size .3s ease;
+    }
+    .group:hover .editorial-link-hover {
+      background-size: 100% 2px;
+    }
+</style>
+
+<div class="somerville-container w-full bg-[#F8F5EE] text-[#1A1918] antialiased" style="font-family: 'Inter', sans-serif;">
+</div>
+
+      <div class="text-center">
+        <a href="somerville_prototype.html" class="inline-block">
+          <span class="block font-heading font-extrabold text-xl tracking-tight text-[#1A1918] uppercase">
+            Arthur Müller
+          </span>
+          <span class="block text-[9px] tracking-[0.25em] uppercase text-[#7A756E] font-medium">
+            Seit 1920 · Colditz
+          </span>
+        </a>
+      </div>
+
+      <div class="flex items-center gap-4">
+        <a href="tel:03438143370" class="hidden sm:inline-block text-xs font-semibold text-[#4A4641]">
+          034381 43370
+        </a>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Projekt anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO SECTION: LEISTUNGEN HUB -->
+  <section class="py-20 px-6 max-w-[1340px] mx-auto border-b border-[#E8E3D8]">
+    <span class="text-xs uppercase tracking-[0.2em] font-semibold text-[#E31936] block mb-3">
+      Gewerkeübergreifend · Alles aus einer Hand
+    </span>
+    <h1 class="font-heading font-extrabold text-4xl sm:text-6xl text-[#1A1918] leading-[1.1] max-w-4xl tracking-tight">
+      Handwerkliche Meisterschaft vom Holzbau bis zum Massivbau.
+    </h1>
+    <p class="mt-6 text-lg text-[#6E6963] max-w-2xl leading-relaxed">
+      Als kombinierte Zimmerei und Baugeschäft vereinen wir Planung, computergestützten Abbund, individuellen Treppenbau, Massivbau und nachhaltige Reststoffverwertung.
+    </p>
+  </section>
+
+  <!-- 5 GROSSE GEWERKE-KARTEN (SOMERVILLE STYLE: ECHTE BILDER) -->
+  <section class="py-20 max-w-[1340px] mx-auto px-6 space-y-16">
+    
+    <!-- 1. Zimmerei & Holzbau -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-6">
+        <div class="relative aspect-[16/10] rounded-[28px] overflow-hidden bg-[#EAE5D9] group">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg" 
+            alt="Zimmerei & Dachstühle" 
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="lg:col-span-6 lg:pl-6">
+        <span class="text-xs font-semibold tracking-wider text-[#E31936] uppercase block mb-2">Gewerk 01</span>
+        <h2 class="font-heading font-bold text-3xl text-[#1A1918] mb-4">Zimmerei & konstruktiver Holzbau</h2>
+        <p class="text-[#6E6963] text-base leading-relaxed mb-4">
+          Traditionelle und moderne Dachstühle, Sichtdachstühle, Carports, Gauben, Vordächer und gewerbliche Hallenkonstruktionen. Durch den eigenen Abbund in Colditz montieren wir zügig, passgenau und wetterunabhängig vorbereitet.
+        </p>
+        <ul class="text-xs font-semibold text-[#4A4641] space-y-2 mb-6 uppercase tracking-wider">
+          <li>✓ Millimetergenauer Werkstattabbund</li>
+          <li>✓ Sattel-, Walm- und Mansarddächer</li>
+          <li>✓ Carports & Holzfassaden</li>
+        </ul>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Dachstuhl anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- 2. Treppen- & Möbelbau -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-6 lg:order-2">
+        <div class="relative aspect-[16/10] rounded-[28px] overflow-hidden bg-[#EAE5D9] group">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg" 
+            alt="Treppenbau & Möbelbau" 
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="lg:col-span-6 lg:order-1 lg:pr-6">
+        <span class="text-xs font-semibold tracking-wider text-[#E31936] uppercase block mb-2">Gewerk 02</span>
+        <h2 class="font-heading font-bold text-3xl text-[#1A1918] mb-4">Treppen- & individueller Möbelbau</h2>
+        <p class="text-[#6E6963] text-base leading-relaxed mb-4">
+          Maßgefertigte Massivholztreppen verleihen Wohnräumen eine unvergleichliche Wärme. Wir fertigen gewendelte Wangentreppen, geradläufige Treppenanlagen, Geländer und passgenaue Möbel aus heimischer Eiche, Buche und Esche.
+        </p>
+        <ul class="text-xs font-semibold text-[#4A4641] space-y-2 mb-6 uppercase tracking-wider">
+          <li>✓ Gewendelte & gerade Massivholztreppen</li>
+          <li>✓ Individuelle Geländer & Staketen</li>
+          <li>✓ Passgenauer Innenausbau nach Maß</li>
+        </ul>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Treppenbau anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- 3. Sägewerk & Lohnschnitt (Echtes Foto start4.jpg) -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-6">
+        <div class="relative aspect-[16/10] rounded-[28px] overflow-hidden bg-[#EAE5D9] group">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg" 
+            alt="Sägewerk und Lohnschnitt Arthur Müller" 
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="lg:col-span-6 lg:pl-6">
+        <span class="text-xs font-semibold tracking-wider text-[#E31936] uppercase block mb-2">Kapazität 03</span>
+        <h2 class="font-heading font-bold text-3xl text-[#1A1918] mb-4">Eigenes Sägewerk & Lohnschnitt</h2>
+        <p class="text-[#6E6963] text-base leading-relaxed mb-4">
+          Unser neues Sägewerk verarbeitet Stämme aller Holzarten bis zu 80 cm Durchmesser und 9 m Länge. Wir sägen Kanthölzer, Bohlen, Bretter, Latten und Spezialschnitte für private Waldbesitzer, Bauherren und Handwerksbetriebe.
+        </p>
+        <ul class="text-xs font-semibold text-[#4A4641] space-y-2 mb-6 uppercase tracking-wider">
+          <li>✓ Stammdurchmesser bis 80 cm, Länge bis 9 m</li>
+          <li>✓ Lohnschnitt nach individueller Schnittliste</li>
+          <li>✓ Flexible Sondermaße während der Bearbeitung</li>
+        </ul>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Lohnschnitt anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- 4. Maurer- & Betonarbeiten -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-6 lg:order-2">
+        <div class="relative aspect-[16/10] rounded-[28px] overflow-hidden bg-[#EAE5D9] group">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Sichtmauerwerk-Röhrsdorf.jpeg" 
+            alt="Maurer- & Betonarbeiten" 
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="lg:col-span-6 lg:order-1 lg:pr-6">
+        <span class="text-xs font-semibold tracking-wider text-[#E31936] uppercase block mb-2">Gewerk 04</span>
+        <h2 class="font-heading font-bold text-3xl text-[#1A1918] mb-4">Maurer-, Beton- & Massivbauarbeiten</h2>
+        <p class="text-[#6E6963] text-base leading-relaxed mb-4">
+          Das feste Fundament für Ihr Bauwerk. Wir gießen Bodenplatten, mauern tragende Wände, führen Klinker- und Natursteinarbeiten aus und sanieren historische Kirchenmauern und Altbaufassaden nach Denkmalschutzstandards.
+        </p>
+        <ul class="text-xs font-semibold text-[#4A4641] space-y-2 mb-6 uppercase tracking-wider">
+          <li>✓ Fundamente & Stahlbeton-Bodenplatten</li>
+          <li>✓ Sichtmauerwerk & Klinkerfassaden</li>
+          <li>✓ Denkmalgerechte Putz- und Steinsanierung</li>
+        </ul>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Massivbau anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- 5. Pellets & Holzbriketts (Kreislauf) -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-6">
+        <div class="relative aspect-[16/10] rounded-[28px] overflow-hidden bg-[#EAE5D9] group">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg" 
+            alt="Holzreste werden zu Brennstoffen veredelt" 
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="lg:col-span-6 lg:pl-6">
+        <span class="text-xs font-semibold tracking-wider text-[#E31936] uppercase block mb-2">Nachhaltigkeit 05</span>
+        <h2 class="font-heading font-bold text-3xl text-[#1A1918] mb-4">Pellets & Holzbriketts ab Werk Colditz</h2>
+        <p class="text-[#6E6963] text-base leading-relaxed mb-4">
+          100 % regionaler Kreislauf. Späne und Resthölzer aus unserer Werkstatt und dem Sägewerk werden zu hochkalorischen, sauberen ENplus A1 Pellets und Kaminbriketts gepresst. Abholung direkt ab Werk oder bequeme Palettenlieferung.
+        </p>
+        <ul class="text-xs font-semibold text-[#4A4641] space-y-2 mb-6 uppercase tracking-wider">
+          <li>✓ ENplus A1 zertifizierte Qualität</li>
+          <li>✓ 15 kg Einzelsäcke oder ganze Paletten</li>
+          <li>✓ Günstige Vorbestellpreise ab Werk</li>
+        </ul>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Brennstoffe anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- CTA FOOTER SLAB -->
+</div>

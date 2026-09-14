@@ -39,3 +39,7 @@
 *(Hinweis: Bisher keine zerstörenden Operationen auf Live; alle neuen Inhalte werden als Entwürfe mit Präfix `NEU – ` angelegt.)*
 | 2026-09-14 13:19 | Phase 2/3 | Designsystem | `docs/02_DESIGN_SOMERVILLE.md` | Somerville Architectural Craft Designsystem spezifiziert, KI-Bilder entfernt, 100% echte Fotos (Tor mit Ken-Burns-Zoom, Sägewerk, Werkstatt) freigegeben. |
 | 2026-09-14 13:28 | Phase 3 | Seiten-Spezifikation | `docs/03_INHALTE/` | Referenzen (`08_referenzen.md`), Über uns (`09_ueber_uns.md`) und Einzelleistung Zimmerei im Somerville-Stil spezifiziert; interaktive Prototypen für alle 3 Seitentypen erstellt. |
+| 2026-09-14 13:50 | Phase 3 | Prototypes | `prototypes/` | Alle 5 interaktiven HTML-Prototypen (Startseite, Leistungen, Referenzen, Über uns, Zimmerei) im Repository gesichert. |
+| 2026-09-14 13:51 | Phase 3 | Exports | `exports/` | Vollständige REST-Payloads, Elementor-Templates (`exports/elementor_templates/`) und HTML-Snippets für alle 5 Entwürfe generiert. |
+| 2026-09-14 13:52 | Phase 3 | Automation | `scripts/` | Deployment-Skript `deploy_to_wordpress.py` und Generator `build_exports.py` erstellt. |
+| 2026-09-14 13:53 | Phase 3 | Dokumentation | `docs/04_WORDPRESS_MCP_DEPLOYMENT.md` | Schritt-für-Schritt-Anleitung für den abendlichen WordPress-Übertrag via MCP/Skript erstellt. |

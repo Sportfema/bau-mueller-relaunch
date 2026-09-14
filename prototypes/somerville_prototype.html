@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arthur Müller e.K. – Modern Architectural Craft (100% Echte Handwerksfotos)</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #F8F5EE;
+      color: #1A1918;
+      -webkit-font-smoothing: antialiased;
+    }
+    h1, h2, h3, h4, .font-heading {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      letter-spacing: -0.028em;
+    }
+    .bg-cream { background-color: #F8F5EE; }
+    .bg-cream-card { background-color: #F3EFE6; }
+    .bg-charcoal { background-color: #1C1B1A; }
+    .bg-charcoal-card { background-color: #262523; }
+    .text-charcoal { color: #1A1918; }
+    .text-cream { color: #FAF7F2; }
+    .text-muted-editorial { color: #6E6963; }
+    .text-muted-dark { color: #9C968F; }
+    .accent-red { color: #E31936; }
+    .bg-accent-red { background-color: #E31936; }
+
+    /* Pill Button Styles */
+    .btn-pill-dark {
+      background-color: #1C1B1A;
+      color: #FAF7F2;
+      border-radius: 9999px;
+      padding: 12px 26px;
+      font-size: 14px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-dark:hover {
+      background-color: #2F2E2C;
+      transform: translateY(-1px);
+    }
+    .btn-pill-light {
+      background-color: #FAF7F2;
+      color: #1C1B1A;
+      border-radius: 9999px;
+      padding: 12px 26px;
+      font-size: 14px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-light:hover {
+      background-color: #FFFFFF;
+      transform: translateY(-1px);
+    }
+
+    /* Floating Circle Action Badge */
+    .action-circle-badge {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+      width: 44px;
+      height: 44px;
+      background-color: #FFFFFF;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.14);
+      transition: transform 0.3s ease, background-color 0.3s ease;
+    }
+    .group:hover .action-circle-badge {
+      transform: scale(1.1);
+      background-color: #FAF7F2;
+    }
+    
+    /* Underline hover like Somerville */
+    .editorial-link-hover {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 0% 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size .3s ease;
+    }
+    .group:hover .editorial-link-hover {
+      background-size: 100% 2px;
+    }
+
+    /* Cinematic Ken Burns Zoom Animation for Hero Tor */
+    @keyframes kenBurnsZoom {
+      0% {
+        transform: scale(1.0);
+      }
+      50% {
+        transform: scale(1.10);
+      }
+      100% {
+        transform: scale(1.0);
+      }
+    }
+    .animate-hero-tor {
+      animation: kenBurnsZoom 20s ease-in-out infinite alternate;
+      transform-origin: center 40%;
+      will-change: transform;
+    }
+  </style>
+</head>
+<body class="selection:bg-[#1C1B1A] selection:text-white">
+
+  <!-- TOP HEADER (MINIMALIST, ARCHITECTURAL) -->
+  <header class="sticky top-0 z-50 bg-[#F8F5EE]/95 backdrop-blur-md border-b border-[#E8E3D8] transition-all">
+    <div class="max-w-[1400px] mx-auto px-6 py-4 flex items-center justify-between">
+      
+      <!-- Left: Minimalist Nav -->
+      <div class="flex items-center gap-8">
+        <button class="flex items-center gap-2.5 text-xs font-semibold tracking-wider uppercase text-[#1A1918] hover:text-[#E31936] transition-colors">
+          <span class="w-5 flex flex-col gap-1">
+            <span class="block w-5 h-0.5 bg-current"></span>
+            <span class="block w-3.5 h-0.5 bg-current"></span>
+          </span>
+          <span class="hidden md:inline">Menü</span>
+        </button>
+        <nav class="hidden lg:flex items-center gap-7 text-sm font-medium text-[#4A4641]">
+          <a href="#leistungen" class="hover:text-[#1A1918] transition-colors">Leistungen</a>
+          <a href="#werkstatt" class="hover:text-[#1A1918] transition-colors">Werkstatt & Sägewerk</a>
+          <a href="#projekte" class="hover:text-[#1A1918] transition-colors">Referenzen</a>
+          <a href="#nachhaltigkeit" class="hover:text-[#1A1918] transition-colors flex items-center gap-1.5">
+            Pellets <span class="text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-[#E31936] text-white">Öko</span>
+          </a>
+          <a href="#ueber-uns" class="hover:text-[#1A1918] transition-colors">Über uns</a>
+        </nav>
+      </div>
+
+      <!-- Center: Architectural Brand Identity -->
+      <div class="text-center">
+        <a href="#" class="inline-block">
+          <span class="block font-heading font-extrabold text-xl md:text-2xl tracking-tight text-[#1A1918] uppercase">
+            Arthur Müller
+          </span>
+          <span class="block text-[10px] tracking-[0.25em] uppercase text-[#7A756E] font-medium mt-0.5">
+            Zimmerei & Baugeschäft · Seit 1920
+          </span>
+        </a>
+      </div>
+
+      <!-- Right: Direct Phone CTA & Project Button -->
+      <div class="flex items-center gap-4">
+        <a href="tel:03438143370" class="hidden sm:inline-block text-xs font-semibold text-[#4A4641] hover:text-[#1A1918]">
+          034381 43370
+        </a>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Projekt anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- 1. HERO SECTION: DAS ECHTE TOR MIT CINEMATISCHEM KEN-BURNS REINZOOM -->
+  <section class="relative min-h-[85vh] flex flex-col justify-end px-4 sm:px-6 lg:px-10 pb-12 pt-16">
+    
+    <!-- Rounded Architectural Container with Zooming Tor Image -->
+    <div class="absolute inset-4 sm:inset-6 lg:inset-8 rounded-[32px] overflow-hidden bg-[#1C1B1A]">
+      <img 
+        src="https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg" 
+        alt="Eingangstor Zimmerei Arthur Müller Colditz" 
+        class="w-full h-full object-cover animate-hero-tor brightness-[0.78] contrast-[1.06]"
+      >
+      <!-- Subtle Ambient Dark Gradient Overlay for Typographic Contrast -->
+      <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/35 to-black/25"></div>
+      
+      <!-- Ambient "Live Camera / Video" Pill Badge -->
+      <div class="absolute top-6 left-6 z-20 flex items-center gap-2 px-3 py-1.5 rounded-full bg-black/40 backdrop-blur-md border border-white/15 text-white text-[11px] font-medium tracking-wide">
+        <span class="w-2 h-2 rounded-full bg-[#E31936] animate-pulse"></span>
+        <span>Geithainer Str. 32 · Colditz</span>
+      </div>
+    </div>
+
+    <!-- Hero Content Bottom Anchored (Somerville Style) -->
+    <div class="relative z-10 max-w-[1340px] mx-auto w-full px-4 sm:px-8">
+      <div class="max-w-4xl">
+        <span class="inline-block text-xs uppercase tracking-[0.2em] font-semibold text-[#FFFCF5]/80 mb-3">
+          Meisterbetrieb in 4. Generation · Meisterhaft seit 1920
+        </span>
+        <h1 class="font-heading font-extrabold text-3xl sm:text-5xl lg:text-6xl xl:text-7xl text-[#FFFCF5] leading-[1.08] tracking-tight">
+          Präziser Holzbau & solide Handwerkskunst.
+        </h1>
+      </div>
+
+      <!-- Hairline divider + subtitle like Somerville -->
+      <div class="mt-8 pt-6 border-t border-white/20 flex flex-col md:flex-row md:items-center justify-between gap-6">
+        <p class="text-sm sm:text-base text-[#FFFCF5]/85 max-w-2xl font-normal leading-relaxed">
+          Zimmerei, Abbund im eigenen Sägewerk, individuelle Massivholztreppen und anspruchsvoller Massivbau für Colditz, Grimma, Leipzig und ganz Sachsen.
+        </p>
+        <div class="flex items-center gap-3 shrink-0">
+          <a href="#leistungen" class="btn-pill-light">
+            <span>Leistungen entdecken</span>
+            <svg class="w-3.5 h-3.5 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. SERVICES SECTION (CREAM BACKGROUND, REAL PHOTO CARDS) -->
+  <section id="leistungen" class="py-24 max-w-[1340px] mx-auto px-6">
+    <div class="max-w-3xl mb-16">
+      <h2 class="font-heading font-bold text-3xl sm:text-4xl lg:text-5xl text-[#1A1918] leading-[1.15]">
+        Zimmerei, Holzbau, Maßtreppen und moderner Massivbau.
+      </h2>
+      <p class="mt-4 text-base text-[#6E6963] leading-relaxed">
+        Alles aus einer Hand: Vom computergestützten Dachstuhl-Abbund über denkmalgerechte Sanierung bis zu eigenen Pellets aus Restholz.
+      </p>
+    </div>
+
+    <!-- 3 Core Service Photo Cards (Somerville Style with Floating + Badges & 100% Real Photos) -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      
+      <!-- Card 1: Zimmerei & Holzbau (Echter Kirchendachstuhl Wildenhain) -->
+      <a href="#leistungen" class="group block">
+        <div class="relative aspect-[4/5] rounded-[24px] overflow-hidden bg-[#EAE5D9] mb-5">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg" 
+            alt="Dachstuhlsanierung Kirche Wildenhain - Zimmerei Müller" 
+            class="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+        <h3 class="font-heading font-bold text-2xl text-[#1A1918] inline-block editorial-link-hover">
+          Zimmerei & Holzbau
+        </h3>
+        <p class="mt-2 text-sm text-[#6E6963] leading-relaxed">
+          Dachstühle, Gauben, Carports und Hallenkonstruktionen – millimetergenau vorgefertigt im eigenen Abbundzentrum.
+        </p>
+      </a>
+
+      <!-- Card 2: Treppen- & Möbelbau (Echte viertelgewendelte Wangentreppe Koltzschen) -->
+      <a href="#leistungen" class="group block">
+        <div class="relative aspect-[4/5] rounded-[24px] overflow-hidden bg-[#EAE5D9] mb-5">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg" 
+            alt="Maßgefertigte Holztreppe Koltzschen - Zimmerei Müller" 
+            class="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+        <h3 class="font-heading font-bold text-2xl text-[#1A1918] inline-block editorial-link-hover">
+          Treppen- & Möbelbau
+        </h3>
+        <p class="mt-2 text-sm text-[#6E6963] leading-relaxed">
+          Individuelle Massivholztreppen, Wangentreppen und maßgefertigter Innenausbau mit edlen heimischen Hölzern.
+        </p>
+      </a>
+
+      <!-- Card 3: Massivbau & Denkmal (Echtes Sichtmauerwerk Röhrsdorf) -->
+      <a href="#leistungen" class="group block">
+        <div class="relative aspect-[4/5] rounded-[24px] overflow-hidden bg-[#EAE5D9] mb-5">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Sichtmauerwerk-Röhrsdorf.jpeg" 
+            alt="Sichtmauerwerk und Naturstein - Baugeschäft Müller" 
+            class="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+          >
+          <div class="action-circle-badge">
+            <svg class="w-4 h-4 text-[#E31936]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </div>
+        </div>
+        <h3 class="font-heading font-bold text-2xl text-[#1A1918] inline-block editorial-link-hover">
+          Massivbau & Denkmal
+        </h3>
+        <p class="mt-2 text-sm text-[#6E6963] leading-relaxed">
+          Maurer- und Betonarbeiten, Fundamente sowie denkmalgerechte Fachwerksanierung mit historischem Fingerspitzengefühl.
+        </p>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- 3. FLOATING DARK ARCHITECTURAL SLAB (SOMERVILLE USP SECTION: ECHTE WERKSTATT-FOTOS AUS DER ANLAGE) -->
+  <section id="werkstatt" class="px-4 sm:px-6 lg:px-8 py-6">
+    <div class="bg-charcoal text-cream rounded-[36px] px-8 sm:px-12 lg:px-16 py-20 lg:py-24 max-w-[1380px] mx-auto">
+      
+      <!-- Top split content -->
+      <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-8 pb-16 border-b border-white/10">
+        <div class="max-w-2xl">
+          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+            Echte Werkstattkapazitäten & Sägewerk
+          </span>
+          <h2 class="font-heading font-bold text-3xl sm:text-4xl lg:text-5xl text-[#FFFCF5] leading-tight">
+            Vom rohen Stamm zum präzisen Bauwerk.
+          </h2>
+          <p class="mt-4 text-base text-muted-dark leading-relaxed">
+            In unserer Werkstatt und dem eigenen Sägewerk in Colditz verarbeiten wir Stämme aller Holzarten – mit moderner Maschinentechnik und jahrzehntelanger Zimmerer-Erfahrung.
+          </p>
+        </div>
+        <div>
+          <a href="#ueber-uns" class="btn-pill-light">
+            <span>Über unsere Werkstatt</span>
+            <svg class="w-3.5 h-3.5 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- 3 Säulen mit den echten Werkstattbildern aus der Anlage (start4, start3, start2) -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-10 pt-16">
+        
+        <!-- Pillar 1: Sägewerk mit echtem Baumstammzuschnitt (start4.jpg) -->
+        <div>
+          <div class="aspect-[16/11] rounded-[20px] overflow-hidden bg-charcoal-card mb-6">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg" 
+              alt="Baumstamm-Zuschnitt im neuen Sägewerk Arthur Müller" 
+              class="w-full h-full object-cover object-center brightness-95 hover:scale-105 transition-transform duration-500"
+            >
+          </div>
+          <span class="text-[11px] font-semibold text-[#E31936] uppercase tracking-wider block mb-1">Neues Sägewerk</span>
+          <h3 class="font-heading font-bold text-xl text-[#FFFCF5] mb-2">
+            Lohnschnitt bis 80 cm & 9 m
+          </h3>
+          <p class="text-sm text-muted-dark leading-relaxed">
+            Unser Sägewerk schneidet Stämme aller Holzarten zu Balken, Brettern, Dielen, Latten und Kanthölzern – millimetergenau nach Kundenwunsch und mit Spezialschnitten.
+          </p>
+        </div>
+
+        <!-- Pillar 2: Tischsäge / Hobelbank (start3.jpg) -->
+        <div>
+          <div class="aspect-[16/11] rounded-[20px] overflow-hidden bg-charcoal-card mb-6">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg" 
+              alt="Präzisions-Zuschnitt an der Sägemaschine" 
+              class="w-full h-full object-cover object-center brightness-95 hover:scale-105 transition-transform duration-500"
+            >
+          </div>
+          <span class="text-[11px] font-semibold text-[#E31936] uppercase tracking-wider block mb-1">Präzisions-Abbund</span>
+          <h3 class="font-heading font-bold text-xl text-[#FFFCF5] mb-2">
+            Passgenauer Zuschnitt
+          </h3>
+          <p class="text-sm text-muted-dark leading-relaxed">
+            Ausgereifte Holzbearbeitungsmaschinen garantieren exakte Winkel und saubere Verbindungen für Dachstühle, Carports und tragende Holzkonstruktionen.
+          </p>
+        </div>
+
+        <!-- Pillar 3: Werkstatt mit Holzbock vor Fenstern (start2.jpg) -->
+        <div>
+          <div class="aspect-[16/11] rounded-[20px] overflow-hidden bg-charcoal-card mb-6">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2022/02/start2-768x513.jpg" 
+              alt="Werkstatt der Zimmerei Müller in Colditz" 
+              class="w-full h-full object-cover object-center brightness-95 hover:scale-105 transition-transform duration-500"
+            >
+          </div>
+          <span class="text-[11px] font-semibold text-[#E31936] uppercase tracking-wider block mb-1">Handwerkliche Fertigung</span>
+          <h3 class="font-heading font-bold text-xl text-[#FFFCF5] mb-2">
+            Traditionelle Werkstatt
+          </h3>
+          <p class="text-sm text-muted-dark leading-relaxed">
+            Hier entstehen maßgefertigte Holztreppen, individuelle Möbelstücke und Bauteile für die Altbausanierung. Echte Handarbeit mit Herzblut und Meisterbrief.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 4. EDITORIAL ASYMMETRIC SECTION (SOMERVILLE "CLOSING THE LOOP" PARALLEL MIT PELLETS & SÄGESPÄNEN) -->
+  <section id="nachhaltigkeit" class="py-24 max-w-[1340px] mx-auto px-6">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+      
+      <!-- Visual Side: Echtes Sägewerk-Detail -->
+      <div class="lg:col-span-6">
+        <div class="relative aspect-[4/3] rounded-[28px] overflow-hidden bg-[#EAE5D9]">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/02/start4-1025x1536.jpg" 
+            alt="Sägespäne und Holzverwertung ab Werk Colditz" 
+            class="w-full h-full object-cover object-center"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+          <div class="absolute bottom-6 left-6 text-white">
+            <span class="text-xs uppercase tracking-widest text-white/80 block">100 % Reststoffverwertung</span>
+            <p class="font-heading font-bold text-lg text-white mt-1">Aus Holzspänen wird regionale Heizwärme</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Text Side: Asymmetrische Editorial Story -->
+      <div class="lg:col-span-6 lg:pl-6">
+        <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+          Verantwortung & Kreislaufwirtschaft
+        </span>
+        <h2 class="font-heading font-bold text-3xl sm:text-4xl text-[#1A1918] leading-[1.2]">
+          Geschlossener Holzkreislauf direkt ab Werk Colditz.
+        </h2>
+        <p class="text-base text-[#4A4641] leading-relaxed mt-4 mb-4">
+          Holz ist der wertvollste Baustoff unserer Natur. Deshalb lassen wir keinen Span ungenutzt: Alle Hobelspäne und Resthölzer aus unserer Zimmerei und dem Sägewerk werden direkt zu hochwertigen Kaminpellets (ENplus A1) und Holzbriketts verarbeitet.
+        </p>
+        <p class="text-sm text-[#6E6963] leading-relaxed mb-6">
+          Kunden können Brennstoffe direkt bei uns in Colditz abholen oder bequem palettenweise anliefern lassen.
+        </p>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Pellets & Briketts anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 5. PORTFOLIO SHOWCASE (SOMERVILLE ASYMMETRIC GALLERY GRID MIT ECHTEN PROJEKTEN) -->
+  <section id="projekte" class="px-4 sm:px-6 lg:px-8 py-6">
+    <div class="bg-charcoal text-cream rounded-[36px] px-8 sm:px-12 py-20 max-w-[1380px] mx-auto">
+      
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-14">
+        <div>
+          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-2">
+            Referenzen & Handwerksbelege
+          </span>
+          <h2 class="font-heading font-bold text-3xl sm:text-4xl text-[#FFFCF5]">
+            Ausgewählte Bauvorhaben & Holzbau-Projekte
+          </h2>
+        </div>
+        <a href="#projekte" class="btn-pill-light">
+          <span>Alle Referenzen ansehen</span>
+          <svg class="w-3.5 h-3.5 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Asymmetric Grid of Project Cards -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <!-- Project 1: Kirchendachstuhl Wildenhain -->
+        <div class="group relative rounded-[24px] overflow-hidden bg-charcoal-card aspect-[4/3] cursor-pointer">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg" 
+            alt="Dachstuhlsanierung Kirche Wildenhain" 
+            class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+          <div class="absolute bottom-6 left-6 right-6 flex items-end justify-between">
+            <div>
+              <span class="text-xs text-[#FFFCF5]/70 font-medium">Zimmerei · Wildenhain</span>
+              <h3 class="font-heading font-bold text-lg text-white mt-1">Dachstuhlsanierung Kirche</h3>
+            </div>
+            <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#E31936] shrink-0">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 2: Wangentreppe Koltzschen -->
+        <div class="group relative rounded-[24px] overflow-hidden bg-charcoal-card aspect-[4/3] cursor-pointer">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg" 
+            alt="Massivholztreppe Koltzschen" 
+            class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+          <div class="absolute bottom-6 left-6 right-6 flex items-end justify-between">
+            <div>
+              <span class="text-xs text-[#FFFCF5]/70 font-medium">Treppenbau · Koltzschen</span>
+              <h3 class="font-heading font-bold text-lg text-white mt-1">Viertelgewendelte Wangentreppe</h3>
+            </div>
+            <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#E31936] shrink-0">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 3: Kirchturmsanierung Zschirla -->
+        <div class="group relative rounded-[24px] overflow-hidden bg-charcoal-card aspect-[4/3] cursor-pointer">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Putzsanierung-Kirchturm-Zschirla.jpeg" 
+            alt="Putzsanierung Kirchturm Zschirla" 
+            class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
+          <div class="absolute bottom-6 left-6 right-6 flex items-end justify-between">
+            <div>
+              <span class="text-xs text-[#FFFCF5]/70 font-medium">Denkmal · Zschirla</span>
+              <h3 class="font-heading font-bold text-lg text-white mt-1">Putz- & Turmsanierung</h3>
+            </div>
+            <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#E31936] shrink-0">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 6. HERITAGE & ÜBER UNS (ECHTES HISTORISCHES ZIMMERER-FOTO UBERUNSSW.JPG) -->
+  <section id="ueber-uns" class="py-24 max-w-[1340px] mx-auto px-6">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+      
+      <div class="lg:col-span-5">
+        <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+          Familienbetrieb seit 1920
+        </span>
+        <h2 class="font-heading font-bold text-3xl sm:text-4xl text-[#1A1918] leading-tight mb-6">
+          Vier Generationen Handwerksehre in Colditz.
+        </h2>
+        <p class="text-base text-[#4A4641] leading-relaxed mb-4">
+          Gegründet vor über einem Jahrhundert, wird die Zimmerei & das Baugeschäft Arthur Müller heute von Dipl.-Ing. Tobias Müller in vierter Generation geführt.
+        </p>
+        <p class="text-sm text-[#6E6963] leading-relaxed mb-6">
+          Wir vereinen den traditionellen Zimmererschlag und alte Holzverbindungstechniken mit modernster CAD-Planung und maschinellem Abbund im eigenen Sägewerk.
+        </p>
+        <a href="#kontakt" class="btn-pill-dark">
+          <span>Gespräch mit Tobias Müller vereinbaren</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+
+      <div class="lg:col-span-7">
+        <div class="relative rounded-[28px] overflow-hidden bg-[#EAE5D9] aspect-[16/10]">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg" 
+            alt="Historisches Foto: Handwerker der Zimmerei Arthur Müller" 
+            class="w-full h-full object-cover grayscale contrast-110"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+          <div class="absolute bottom-6 left-6 right-6 text-white text-xs">
+            <p class="font-medium text-white/90">Zimmerer-Mannschaft vor dem Betrieb in Colditz · Handwerkstradition seit über 100 Jahren</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
+  <footer id="kontakt" class="bg-charcoal text-cream pt-20 pb-12 rounded-t-[40px]">
+    <div class="max-w-[1340px] mx-auto px-6 lg:px-10">
+      
+      <!-- Big Bold CTA Headline -->
+      <div class="pb-16 border-b border-white/10 flex flex-col md:flex-row md:items-end justify-between gap-8">
+        <div class="max-w-2xl">
+          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+            Kontakt & Vorhaben besprechen
+          </span>
+          <h2 class="font-heading font-bold text-3xl sm:text-5xl text-[#FFFCF5] leading-tight">
+            Bereit für Ihr nächstes Bauvorhaben? Sprechen Sie mit uns.
+          </h2>
+        </div>
+        <div>
+          <a href="tel:03438143336" class="btn-pill-light text-base">
+            <span>034381-43336 anrufen</span>
+            <svg class="w-4 h-4 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- Navigation & Info Columns -->
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-10 py-16 text-sm">
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Standort</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Zimmerei & Baugeschäft Arthur Müller e.K.<br>
+            Geithainer Str. 32<br>
+            04680 Colditz<br>
+            Inhaber: Dipl.-Ing. Tobias Müller
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Gewerke</h4>
+          <ul class="space-y-2.5 text-muted-dark">
+            <li><a href="#" class="hover:text-white transition-colors">Zimmerei & Holzbau</a></li>
+            <li><a href="#" class="hover:text-white transition-colors">Treppen- & Möbelbau</a></li>
+            <li><a href="#" class="hover:text-white transition-colors">Maurer- & Betonarbeiten</a></li>
+            <li><a href="#" class="hover:text-white transition-colors">Altbausanierung & Denkmal</a></li>
+            <li><a href="#" class="hover:text-white transition-colors">Pellets & Holzbriketts</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Öffnungszeiten</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Montag – Freitag: 08:00 – 15:30 Uhr<br>
+            Pellet-Verkauf & Abholung ab Werk.<br>
+            Telefon: 034381-43336
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Förderhinweis (SAB/EU)</h4>
+          <p class="text-[12px] text-muted-dark leading-relaxed">
+            Gefördert durch die Europäische Union und den Freistaat Sachsen im Rahmen der regionalen Wirtschaftsförderung (EFRE / SAB).
+          </p>
+        </div>
+      </div>
+
+      <!-- Bottom Bar & Copyright -->
+      <div class="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-muted-dark">
+        <p>© 2026 Arthur Müller e.K. · Meisterbetrieb seit 1920</p>
+        <div class="flex items-center gap-6">
+          <a href="#" class="hover:text-white transition-colors">Impressum</a>
+          <a href="#" class="hover:text-white transition-colors">Datenschutz</a>
+          <a href="#" class="hover:text-white transition-colors">Cookie-Einstellungen</a>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+</body>
+</html>

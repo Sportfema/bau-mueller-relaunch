@@ -51,6 +51,7 @@ Relaunch des Webauftritts der traditionsreichen Zimmerei und des Baugeschäfts A
 │   └── bilder_inventar.csv          # Inventar aller 141 Medien der WordPress-Mediathek
 ├── docs/
 │   ├── 01_AUDIT.md                  # Vollständiger Bestandsaudit (Technik, UX, SEO)
+│   ├── 02_DESIGN_SOMERVILLE.md      # Somerville Architectural Craft Designsystem (Referenz somervilles.co.uk)
 │   ├── 02_KONZEPT.md                # Relaunch-Konzept, Sitemap, Stilrichtungen, Tokens
 │   ├── 03_INHALTE/                  # 14 vollständige redaktionelle Textvorlagen
 │   │   ├── 01_startseite.md
@@ -67,18 +68,34 @@ Relaunch des Webauftritts der traditionsreichen Zimmerei und des Baugeschäfts A
 │   │   ├── 12_404.md
 │   │   ├── 13_impressum.md
 │   │   └── 14_datenschutz.md
+│   ├── 04_WORDPRESS_MCP_DEPLOYMENT.md # Deployment-Leitfaden für die WordPress-Übertragung
 │   ├── 05_GOLIVE.md                 # Go-Live-Checkliste & 301-Redirect-Mapping-Tabelle
 │   ├── CHANGELOG.md                 # Lückenloses Protokoll aller Schreiboperationen
 │   ├── OFFENE_FRAGEN.md             # Klärungspunkte für Kunde & Agentur
 │   └── screenshots/
 │       └── nachher/                 # Desktop- und Mobil-Screenshots der neuen Entwürfe
-├── exports/                         # Gesicherte Elementor-JSON-Dateien
-│   ├── neu-header-2589.json
-│   ├── neu-footer-2590.json
-│   └── neu-startseite-2595.json
+├── prototypes/                      # 5 Interaktive HTML-Prototypen (im Browser testbar)
+│   ├── somerville_prototype.html    # Startseite mit Ken-Burns-Tor-Zoom & Werkstatt-Slab
+│   ├── leistungen_prototype.html    # Leistungs-Hub (5 Gewerke)
+│   ├── referenzen_prototype.html    # Filterbare Projektgalerie
+│   ├── ueberuns_prototype.html      # 100+ Jahre Historie & Werkstattrundgang
+│   └── zimmerei_prototype.html      # Einzelleistung Zimmerei & Holzbau
+├── exports/                         # Gesicherte Elementor- und WordPress-Dateien
+│   ├── neu-startseite-2595.json     # Aktualisierter Entwurf für Startseite (ID 2595)
+│   ├── neu-leistungen.json          # Entwurf für Leistungs-Hub
+│   ├── neu-referenzen.json          # Entwurf für Referenzen
+│   ├── neu-ueber-uns.json           # Entwurf für Über uns
+│   ├── neu-zimmerei-holzbau.json    # Entwurf für Zimmerei & Holzbau
+│   ├── neu-header-2589.json         # Header-Template (ID 2589)
+│   ├── neu-footer-2590.json         # Footer-Template (ID 2590)
+│   ├── elementor_templates/         # Vorlagen für direkten Elementor-Import
+│   └── html_snippets/               # Reines HTML/Tailwind für Gutenberg/Elementor
+├── scripts/
+│   ├── deploy_to_wordpress.py       # Automatischer Sync aller Entwürfe zu WordPress
+│   └── build_exports.py             # Generator für Exports aus Prototypen
 ├── content_audit.json               # Rohdaten-Audit der alten Seiten
 ├── inventory_raw.json               # Mediathek-Rohdaten
-├── widget_and_media_analysis.json   # Widget- und Addon-Nutzungsanalyse
+├── widget_and_media_analysis.json   # Analyse der alten Elementor-Widgets und Addon-Nutzungsanalyse
 ├── PROMPT.md                        # Projektauftrag und Arbeitsregeln
 └── README.md                        # Diese Dokumentation
 ```

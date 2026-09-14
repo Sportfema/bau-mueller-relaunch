@@ -37,3 +37,4 @@
 | 2026-09-13 16:45 | Phase 3 | GitHub | Repo `bau-mueller-relaunch` | Lokales Repository initialisiert und erfolgreich nach `Sportfema/bau-mueller-relaunch` gepusht. |
 
 *(Hinweis: Bisher keine zerstörenden Operationen auf Live; alle neuen Inhalte werden als Entwürfe mit Präfix `NEU – ` angelegt.)*
+| 2026-09-14 13:19 | Phase 2/3 | Designsystem | `docs/02_DESIGN_SOMERVILLE.md` | Somerville Architectural Craft Designsystem spezifiziert, KI-Bilder entfernt, 100% echte Fotos (Tor mit Ken-Burns-Zoom, Sägewerk, Werkstatt) freigegeben. |

@@ -2,6 +2,10 @@
 import json
 import re
 import os
+import sys
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 os.makedirs("exports/elementor_templates", exist_ok=True)
 os.makedirs("exports/html_snippets", exist_ok=True)
@@ -56,8 +60,14 @@ for p in pages:
     style_match = re.search(r"<style>(.*?)</style>", html, re.DOTALL)
     style_content = style_match.group(1).strip() if style_match else ""
 
+    # Replace fax number typo with real phone number
+    html = html.replace("tel:03438143370", "tel:+493438143336")
+    html = html.replace("034381 43370", "034381 43336")
+
     body_content = html
-    if "<nav" in body_content and "</nav>" in body_content:
+    if "</header>" in body_content:
+        body_content = body_content.split("</header>", 1)[1]
+    elif "<nav" in body_content and "</nav>" in body_content:
         body_content = body_content.split("</nav>", 1)[1]
 
     if "<footer" in body_content:

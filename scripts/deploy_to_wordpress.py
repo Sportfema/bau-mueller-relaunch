@@ -12,6 +12,9 @@ import sys
 import urllib.request
 import urllib.error
 
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+
 DEFAULT_WP_URL = "https://bau-mueller.eu"
 
 PAGE_SPECS = [

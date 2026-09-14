@@ -38,3 +38,4 @@
 
 *(Hinweis: Bisher keine zerstörenden Operationen auf Live; alle neuen Inhalte werden als Entwürfe mit Präfix `NEU – ` angelegt.)*
 | 2026-09-14 13:19 | Phase 2/3 | Designsystem | `docs/02_DESIGN_SOMERVILLE.md` | Somerville Architectural Craft Designsystem spezifiziert, KI-Bilder entfernt, 100% echte Fotos (Tor mit Ken-Burns-Zoom, Sägewerk, Werkstatt) freigegeben. |
+| 2026-09-14 13:28 | Phase 3 | Seiten-Spezifikation | `docs/03_INHALTE/` | Referenzen (`08_referenzen.md`), Über uns (`09_ueber_uns.md`) und Einzelleistung Zimmerei im Somerville-Stil spezifiziert; interaktive Prototypen für alle 3 Seitentypen erstellt. |

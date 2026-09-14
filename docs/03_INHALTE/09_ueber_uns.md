@@ -45,3 +45,11 @@
 ## 6. Kontakt-CTA
 * **H2**: Möchten Sie Ihr Bauvorhaben mit uns planen?
 * [Jetzt persönlichen Gesprächstermin vereinbaren](/kontakt/)
+
+---
+
+## 7. Bildzuweisung (100 % Echte Fotos aus Betrieb & Archiv)
+* **Historisches Team**: `uberunssw.jpg` (Original-Mannschaft vor der Werkstatt)
+* **Sägewerk & Lohnschnitt**: `start4.jpg` (Baumstamm-Zuschnitt)
+* **Präzisionsmaschinen**: `start3.jpg` (Tischkreissäge & Hobelbank)
+* **Werkstatt Colditz**: `start2.jpg` (Handwerkliche Fertigung mit Holzböcken)

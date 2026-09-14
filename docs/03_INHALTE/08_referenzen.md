@@ -37,3 +37,11 @@
 * **Vorher-/Nachher-Bildergalerie**: Großzügige Lightbox mit optimierten WebP-Bildern.
 * **Kunden-Stimme / Feedback**: Kurzes Zitat des zufriedenen Bauherrn.
 * **CTA-Box**: *„Haben Sie ein ähnliches Projekt im Sinn? Sprechen Sie mit uns über Ihr Bauvorhaben.“* $ightarrow$ [Jetzt Projekt anfragen](/kontakt/)
+
+---
+
+## 4. Bildzuweisung (100 % Echte Projektfotos)
+* **Zimmerei / Dachstühle**: `Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg`, `Dachreiter-Neubau-Leipzig.jpeg`, `Neubau-Dachstuhl-Grimma.jpeg`
+* **Treppenbau**: `Wangentreppe-viertelgewendelt-Koltzschen.jpeg`, `Bild-7-1.jpeg` (Wendeltreppe Leipzig)
+* **Maurer- & Massivbau**: `Sichtmauerwerk-Röhrsdorf.jpeg`, `Klinkermauerwerk-Kirchfenster-Leipzig.jpeg`
+* **Denkmalpflege**: `Putzsanierung-Kirchturm-Zschirla.jpeg`, `Tor-Zimmerei-Mueller.jpeg`

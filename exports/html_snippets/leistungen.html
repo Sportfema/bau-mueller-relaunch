@@ -561,4 +561,106 @@ body {
 
     </div>
   </footer>
+
+
+  <!-- FEEDBACK / VOTING POPUP (ERSCHEINT NACH 8 SEKUNDEN) -->
+  <aside id="feedback-voting-popup" aria-label="Feedback zur neuen Website" class="fixed bottom-6 right-6 z-50 max-w-sm w-[calc(100%-3rem)] sm:w-96 bg-[#1C1B1A]/95 text-[#F8F5EE] backdrop-blur-lg rounded-[24px] p-6 shadow-2xl border border-white/15 transform translate-y-20 opacity-0 pointer-events-none transition-all duration-500 ease-out">
+    
+    <!-- Close Button -->
+    <button id="feedback-popup-close" class="absolute top-4 right-4 w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white/70 hover:text-white transition-colors focus:outline-none" aria-label="Feedback-Fenster schließen">
+      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+      </svg>
+    </button>
+
+    <!-- Initial State -->
+    <div id="voting-initial-state">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="w-2 h-2 rounded-full bg-[#E31936] animate-pulse"></span>
+        <span class="text-[11px] font-semibold tracking-wider uppercase text-[#E31936]">Neuer Webauftritt</span>
+      </div>
+      <h3 class="font-heading font-bold text-lg text-white mb-1.5 leading-snug">
+        Wie gefällt Ihnen unsere neue Website?
+      </h3>
+      <p class="text-xs text-[#A39E93] mb-4 leading-relaxed">
+        Ihre Meinung zählt: Wie gefällt Ihnen das neue Design unseres Meisterbetriebs?
+      </p>
+
+      <div class="grid grid-cols-3 gap-2">
+        <button class="vote-btn py-2.5 px-2 rounded-xl bg-white/10 hover:bg-[#E31936] text-white text-xs font-semibold flex flex-col items-center gap-1 transition-all" data-vote="super">
+          <span class="text-base">😍</span>
+          <span>Begeistert</span>
+        </button>
+        <button class="vote-btn py-2.5 px-2 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-semibold flex flex-col items-center gap-1 transition-all" data-vote="gut">
+          <span class="text-base">👍</span>
+          <span>Sehr gut</span>
+        </button>
+        <button class="vote-btn py-2.5 px-2 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-semibold flex flex-col items-center gap-1 transition-all" data-vote="feedback">
+          <span class="text-base">💬</span>
+          <span>Geht so</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Thank You State -->
+    <div id="voting-thankyou-state" class="hidden py-4 text-center">
+      <span class="text-3xl block mb-2">🪵✨</span>
+      <h4 class="font-heading font-bold text-base text-white mb-1">Vielen Dank für Ihre Stimme!</h4>
+      <p class="text-xs text-[#A39E93]">Ihr Feedback hilft uns, den Auftritt unseres Meisterbetriebs stetig zu verfeinern.</p>
+    </div>
+
+  </aside>
+
+  <script>
+    // FEEDBACK VOTING POPUP LOGIC (Trigger nach 8 Sekunden)
+    (function() {
+      const popup = document.getElementById('feedback-voting-popup');
+      if (!popup) return;
+      
+      // Prüfen ob bereits abgestimmt oder geschlossen
+      if (localStorage.getItem('mueller_website_voted') || sessionStorage.getItem('mueller_popup_dismissed')) {
+        return;
+      }
+
+      const closeBtn = document.getElementById('feedback-popup-close');
+      const initialState = document.getElementById('voting-initial-state');
+      const thankYouState = document.getElementById('voting-thankyou-state');
+      const voteBtns = document.querySelectorAll('.vote-btn');
+
+      function showPopup() {
+        popup.classList.remove('translate-y-20', 'opacity-0', 'pointer-events-none');
+        popup.classList.add('translate-y-0', 'opacity-100', 'pointer-events-auto');
+      }
+
+      function hidePopup() {
+        popup.classList.remove('translate-y-0', 'opacity-100', 'pointer-events-auto');
+        popup.classList.add('translate-y-20', 'opacity-0', 'pointer-events-none');
+      }
+
+      // Erscheint nach 8 Sekunden
+      setTimeout(showPopup, 8000);
+
+      if (closeBtn) {
+        closeBtn.addEventListener('click', function() {
+          hidePopup();
+          sessionStorage.setItem('mueller_popup_dismissed', 'true');
+        });
+      }
+
+      voteBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+          const vote = btn.getAttribute('data-vote');
+          localStorage.setItem('mueller_website_voted', vote);
+          
+          if (initialState && thankYouState) {
+            initialState.classList.add('hidden');
+            thankYouState.classList.remove('hidden');
+          }
+          
+          // Nach 3 Sekunden automatisch sanft ausblenden
+          setTimeout(hidePopup, 3000);
+        });
+      });
+    })();
+  </script>
 </div>

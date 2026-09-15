@@ -44,6 +44,14 @@ pages = [
         "desc": "Über uns Seite mit 100+ Jahre Chronik (seit 1920), historischem Foto uberunssw.jpg, Werkstattrundgang und GRW-Infra Fördersignet."
     },
     {
+        "key": "aktuelles",
+        "id": None,
+        "title": "NEU – Aktuelles",
+        "slug": "aktuelles-neu",
+        "prototype": "prototypes/aktuelles_prototype.html",
+        "desc": "Magazin & Beitragsübersicht mit Filter-Pills, 6 echten Beiträgen, SAB/EU-Förderprojekt und Werkstatt-Meldungen."
+    },
+    {
         "key": "zimmerei-holzbau",
         "id": None,
         "title": "NEU – Zimmerei & Holzbau",

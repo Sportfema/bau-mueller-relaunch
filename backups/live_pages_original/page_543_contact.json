@@ -1,0 +1,467 @@
+{
+  "id": 543,
+  "date": "2018-11-27T09:17:56",
+  "date_gmt": "2018-11-27T09:17:56",
+  "guid": {
+    "rendered": "https://xn--bau-mller-u9a.eu/contact/",
+    "raw": "https://xn--bau-mller-u9a.eu/contact/"
+  },
+  "modified": "2026-09-12T12:58:26",
+  "modified_gmt": "2026-09-12T10:58:26",
+  "password": "",
+  "slug": "contact",
+  "status": "publish",
+  "type": "page",
+  "link": "https://bau-mueller.eu/contact/",
+  "title": {
+    "raw": "Kontakt & Beratung",
+    "rendered": "Kontakt &#038; Beratung"
+  },
+  "content": {
+    "raw": "<h1>Kontakt & Beratung</h1>\t\t\n\t\t\t<h2>Let's Talk, Wir sind bereit</h2>\t\t\n\t\t\t<h2>Kontaktdaten</h2>\t\t\n\t\t\t\t\t\t\t\t\t<h5>\n\t\t\t\t\t\t\tAdresse\t\t\t\t\t\t\n\t\t\t\t\t</h5>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t04680 Colditz, Geithainer Str. 32\n\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<h5>\n\t\t\t\t\t\t\tE-Mail\t\t\t\t\t\t\n\t\t\t\t\t</h5>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tinfo@bau-mueller.eu\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<h5>\n\t\t\t\t\t\t\tTelefon\t\t\t\t\t\t\n\t\t\t\t\t</h5>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t034381-43336\t\t\t\t\t</p>\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyCv7KW0NabmOdQ2VCsYF8b3iCCADXysvhA&#038;q=Geithainer%20Str.%2032%2C%2004680%20Colditz&#038;zoom=15\"\n\t\t\t\t\ttitle=\"Geithainer Str. 32, 04680 Colditz\"\n\t\t\t\t\taria-label=\"Geithainer Str. 32, 04680 Colditz\"\n\t\t\t></iframe>",
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"543\" class=\"elementor elementor-543\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e9b3a20 e-flex e-con-boxed e-con e-parent\" data-id=\"e9b3a20\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-f6b6978 e-con-full e-flex e-con e-child\" data-id=\"f6b6978\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-af9e296 elementor-widget elementor-widget-heading\" data-id=\"af9e296\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Kontakt &amp; Beratung</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2480ffb e-flex e-con-boxed e-con e-parent\" data-id=\"2480ffb\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-a9c2518 e-con-full e-flex e-con e-child\" data-id=\"a9c2518\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a4e3265 elementor-widget elementor-widget-heading\" data-id=\"a4e3265\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Let's Talk, Wir sind bereit</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-bd16807 elementor-button-align-stretch elementor-widget elementor-widget-form\" data-id=\"bd16807\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;step_next_label&quot;:&quot;N\\u00e4chster&quot;,&quot;step_previous_label&quot;:&quot;Voriger&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"form.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<form class=\"elementor-form\" method=\"post\" name=\"Neues Formular\" aria-label=\"Neues Formular\">\n\t\t\t<input type=\"hidden\" name=\"post_id\" value=\"543\"/>\n\t\t\t<input type=\"hidden\" name=\"form_id\" value=\"bd16807\"/>\n\t\t\t<input type=\"hidden\" name=\"referer_title\" value=\"Zimmerei &amp; Baugeschäft Müller\" />\n\n\t\t\t\n\t\t\t<div class=\"elementor-form-fields-wrapper elementor-labels-above\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-name\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tName\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"text\" name=\"form_fields[name]\" id=\"form-field-name\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" placeholder=\"Name\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required elementor-mark-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-email\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tE-Mail\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"email\" name=\"form_fields[email]\" id=\"form-field-email\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" placeholder=\"E-Mail\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-message\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tNachricht\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t<textarea class=\"elementor-field-textual elementor-field  elementor-size-sm\" name=\"form_fields[message]\" id=\"form-field-message\" rows=\"4\" placeholder=\"Nachricht\"></textarea>\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_ef1fc0f elementor-col-100 elementor-field-required elementor-mark-required\">\n\t\t\t\t\t\t\t<div class=\"elementor-field-subgroup\">\n\t\t\t<span class=\"elementor-field-option\">\n\t\t\t\t<input type=\"checkbox\" name=\"form_fields[field_ef1fc0f]\" id=\"form-field-field_ef1fc0f\" class=\"elementor-field elementor-size-sm  elementor-acceptance-field\" required=\"required\">\n\t\t\t\t<label for=\"form-field-field_ef1fc0f\">Ich bin damit einverstanden, dass meine Daten gespeichert werden. Weitere Informationen finden Sie in der Datenschutzerklärung.  <a href=\"https://bau-müller.eu/datenschutz\" target=\"_blank\">Datenschutzseite</a></label>\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-text\">\n\t\t\t\t\t<input size=\"1\" type=\"text\" name=\"form_fields[field_32f4d7f]\" id=\"form-field-field_32f4d7f\" class=\"elementor-field elementor-size-sm \" style=\"display:none !important;\">\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-recaptcha_v3 elementor-field-group elementor-column elementor-field-group-field_65d18ce elementor-col-100 recaptcha_v3-bottomright\">\n\t\t\t\t\t<div class=\"elementor-field\" id=\"form-field-field_65d18ce\"><div class=\"elementor-g-recaptcha\" data-sitekey=\"6LeYc_MfAAAAAD2DYka2ayTwhSB9hY4VOGfL4Oqo\" data-type=\"v3\" data-action=\"Form\" data-badge=\"bottomright\" data-size=\"invisible\"></div></div>\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons\">\n\t\t\t\t\t<button class=\"elementor-button elementor-size-sm\" type=\"submit\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Senden</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</form>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-d32f42b e-con-full e-flex e-con e-child\" data-id=\"d32f42b\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-43c8157 elementor-widget elementor-widget-heading\" data-id=\"43c8157\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Kontaktdaten</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c863feb elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"c863feb\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon\">\n\t\t\t\t\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h5 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tAdresse\t\t\t\t\t\t</span>\n\t\t\t\t\t</h5>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\t04680 Colditz, Geithainer Str. 32\n\n\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0f813f0 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"0f813f0\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon\">\n\t\t\t\t\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h5 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tE-Mail\t\t\t\t\t\t</span>\n\t\t\t\t\t</h5>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\tinfo@bau-mueller.eu\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-77dea76 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"77dea76\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon\">\n\t\t\t\t\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h5 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tTelefon\t\t\t\t\t\t</span>\n\t\t\t\t\t</h5>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\t034381-43336\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-c5eae5d e-con-full e-flex e-con e-parent\" data-id=\"c5eae5d\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-36a5c70 e-con-full e-flex e-con e-child\" data-id=\"36a5c70\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-bf07f44 elementor-widget elementor-widget-google_maps\" data-id=\"bf07f44\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyCEadeutydGW3OlAGclqGr-71nGxAVcpKQ&#038;q=Geithainer%20Str.%2032%2C%2004680%20Colditz&#038;zoom=15\"\n\t\t\t\t\ttitle=\"Geithainer Str. 32, 04680 Colditz\"\n\t\t\t\t\taria-label=\"Geithainer Str. 32, 04680 Colditz\"\n\t\t\t></iframe>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "Nehmen Sie Kontakt auf mit der Zimmerei & Baugeschäft Müller in Colditz. Ihr Meisterbetrieb für Holzbau, Sanierung und Massivbau. Jetzt anfragen!",
+    "rendered": "<p>Nehmen Sie Kontakt auf mit der Zimmerei &#038; Baugeschäft Müller in Colditz. Ihr Meisterbetrieb für Holzbau, Sanierung und Massivbau. Jetzt anfragen!</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "postBodyCss": "",
+    "postBodyMargin": [],
+    "postBodyPadding": [],
+    "postBodyBackground": {
+      "backgroundType": "classic",
+      "gradient": ""
+    },
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "full-width-container",
+    "site-content-style": "unboxed",
+    "site-sidebar-style": "unboxed",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "disabled",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "enabled",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "set",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "wp-post",
+    "_elementor_data": "[{\"id\": \"e9b3a20\", \"elType\": \"container\", \"settings\": {\"background_background\": \"classic\", \"background_image\": {\"id\": 576, \"url\": \"https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34.jpeg\", \"alt\": \"Zimmerei\", \"source\": \"library\", \"size\": \"\"}, \"background_position\": \"center center\", \"background_repeat\": \"no-repeat\", \"background_size\": \"cover\", \"background_overlay_background\": \"classic\", \"background_overlay_opacity\": {\"unit\": \"px\", \"size\": 0.2}, \"padding\": {\"unit\": \"px\", \"top\": \"230\", \"right\": \"0\", \"bottom\": \"230\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"100\", \"right\": \"50\", \"bottom\": \"100\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"90\", \"right\": \"20\", \"bottom\": \"90\", \"left\": \"20\", \"isLinked\": false}, \"__globals__\": {\"background_overlay_color\": \"globals/colors?id=astglobalcolor2\"}, \"boxed_width\": {\"unit\": \"px\", \"size\": 800, \"sizes\": []}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}, \"flex_justify_content\": \"center\"}, \"elements\": [{\"id\": \"f6b6978\", \"elType\": \"container\", \"settings\": {\"_column_size\": 100, \"width\": {\"size\": null, \"unit\": \"%\"}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"af9e296\", \"elType\": \"widget\", \"settings\": {\"title\": \"Kontakt & Beratung\", \"header_size\": \"h1\", \"align\": \"center\", \"__globals__\": {\"title_color\": \"\"}, \"title_color\": \"#000000\"}, \"elements\": [], \"widgetType\": \"heading\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"2480ffb\", \"elType\": \"container\", \"settings\": {\"padding\": {\"unit\": \"px\", \"top\": \"120\", \"right\": \"0\", \"bottom\": \"050\", \"left\": \"0\", \"isLinked\": false}, \"background_background\": \"classic\", \"background_position\": \"bottom left\", \"background_size\": \"cover\", \"margin_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": 0, \"bottom\": \"0\", \"left\": 0, \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"80\", \"right\": \"50\", \"bottom\": \"80\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"20\", \"bottom\": \"60\", \"left\": \"20\", \"isLinked\": false}, \"structure\": \"22\", \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"a9c2518\", \"elType\": \"container\", \"settings\": {\"_column_size\": 66, \"width\": {\"size\": 54.332, \"unit\": \"%\"}, \"margin\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"60\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"45\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": 0, \"bottom\": \"0\", \"left\": 0, \"isLinked\": true}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"width_tablet\": {\"size\": 55, \"unit\": \"%\"}, \"background_overlay_color\": \"#ffffff\", \"border_radius\": {\"unit\": \"px\", \"top\": \"5\", \"right\": \"5\", \"bottom\": \"5\", \"left\": \"5\", \"isLinked\": true}, \"__globals__\": {\"background_color\": \"\"}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"a4e3265\", \"elType\": \"widget\", \"settings\": {\"title\": \"Let's Talk, Wir sind bereit\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"left\", \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"bd16807\", \"elType\": \"widget\", \"settings\": {\"form_name\": \"Neues Formular\", \"form_fields\": [{\"custom_id\": \"name\", \"field_label\": \"Name\", \"placeholder\": \"Name\", \"dynamic\": {\"active\": true}, \"_id\": \"25ac463\"}, {\"custom_id\": \"email\", \"field_type\": \"email\", \"required\": \"true\", \"field_label\": \"E-Mail\", \"placeholder\": \"E-Mail\", \"_id\": \"53df199\"}, {\"custom_id\": \"message\", \"field_type\": \"textarea\", \"field_label\": \"Nachricht\", \"placeholder\": \"Nachricht\", \"_id\": \"aad981b\"}, {\"_id\": \"ef1fc0f\", \"field_type\": \"acceptance\", \"required\": \"true\", \"acceptance_text\": \"Ich bin damit einverstanden, dass meine Daten gespeichert werden. Weitere Informationen finden Sie in der Datenschutzerklärung.  <a href=\\\"https://bau-müller.eu/datenschutz\\\" target=\\\"_blank\\\">Datenschutzseite</a>\", \"custom_id\": \"field_ef1fc0f\"}, {\"_id\": \"32f4d7f\", \"field_type\": \"honeypot\", \"custom_id\": \"field_32f4d7f\"}, {\"_id\": \"65d18ce\", \"field_type\": \"recaptcha_v3\", \"custom_id\": \"field_65d18ce\"}], \"mark_required\": \"yes\", \"step_next_label\": \"Nächster\", \"step_previous_label\": \"Voriger\", \"button_text\": \"Senden\", \"email_to\": \"info@bau-mueller.eu\", \"email_subject\": \"neue Anfrage über das Kontaktformular\", \"email_content\": \"[all-fields]\", \"email_from\": \"[field id=\\\"email\\\"]\", \"email_to_2\": \"[field id=\\\"email\\\"]\", \"email_subject_2\": \"Ihre Anfrage wurde erfolgreich übermittelt!\", \"email_content_2\": \"Ihre Nachricht wurde erfolgreich übermittelt. Wir melden uns in den nächsten 48 Stunden!\", \"email_from_2\": \"info@bau-mueller.eu\", \"email_reply_to_2\": \"info@bau-mueller.eu\", \"mailchimp_fields_map\": [], \"drip_fields_map\": [], \"activecampaign_fields_map\": [], \"getresponse_fields_map\": [], \"convertkit_fields_map\": [], \"mailerlite_fields_map\": [], \"success_message\": \"Die Nachricht wurde erfolgreich versendet!\", \"error_message\": \"Your submission failed because of an error.\", \"server_message\": \"Your submission failed because of a server error.\", \"invalid_message\": \"Your submission failed because the form is invalid.\", \"required_field_message\": \"Dieses Feld ist erforderlich.\", \"email_from_name\": \"[field id=\\\"name\\\"]\", \"form_metadata\": [\"date\", \"time\", \"page_url\"], \"custom_messages\": \"yes\", \"submit_actions\": [\"save-to-database\", \"email\", \"email2\"], \"email_from_name_2\": \"Tobias Müller\"}, \"elements\": [], \"widgetType\": \"form\"}], \"isInner\": true}, {\"id\": \"d32f42b\", \"elType\": \"container\", \"settings\": {\"_column_size\": 33, \"width\": {\"size\": 45, \"unit\": \"%\"}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"40\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"43c8157\", \"elType\": \"widget\", \"settings\": {\"title\": \"Kontaktdaten\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"left\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"c863feb\", \"elType\": \"widget\", \"settings\": {\"icon\": \"\", \"title_text\": \"Adresse\", \"description_text\": \"04680 Colditz, Geithainer Str. 32\\n\\n\", \"icon_space\": {\"unit\": \"px\", \"size\": 12}, \"title_bottom_space\": {\"unit\": \"px\", \"size\": 5}, \"position\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 22}, \"text_align\": \"left\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"description_typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"description_typography_line_height\": {\"unit\": \"px\", \"size\": \"\"}, \"title_size\": \"h5\", \"text_align_mobile\": \"left\", \"title_bottom_space_tablet\": {\"unit\": \"px\", \"size\": 10}, \"title_bottom_space_mobile\": {\"unit\": \"px\", \"size\": 8}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"selected_icon\": {\"value\": \"far fa-address-card\", \"library\": \"fa-regular\"}, \"content_vertical_alignment\": \"middle\", \"__globals__\": {\"primary_color\": \"globals/colors?id=secondary\"}}, \"elements\": [], \"widgetType\": \"icon-box\"}, {\"id\": \"0f813f0\", \"elType\": \"widget\", \"settings\": {\"icon\": \"\", \"title_text\": \"E-Mail\", \"description_text\": \"info@bau-mueller.eu\", \"icon_space\": {\"unit\": \"px\", \"size\": 12}, \"title_bottom_space\": {\"unit\": \"px\", \"size\": 5}, \"position\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 22}, \"text_align\": \"left\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"description_typography_line_height\": {\"unit\": \"px\", \"size\": \"\"}, \"title_size\": \"h5\", \"text_align_mobile\": \"left\", \"title_bottom_space_tablet\": {\"unit\": \"px\", \"size\": 10}, \"title_bottom_space_mobile\": {\"unit\": \"px\", \"size\": 8}, \"selected_icon\": {\"value\": \"fas fa-mail-bulk\", \"library\": \"fa-solid\"}, \"description_typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"shape\": \"square\", \"content_vertical_alignment\": \"middle\", \"__globals__\": {\"primary_color\": \"globals/colors?id=secondary\"}}, \"elements\": [], \"widgetType\": \"icon-box\"}, {\"id\": \"77dea76\", \"elType\": \"widget\", \"settings\": {\"icon\": \"\", \"title_text\": \"Telefon\", \"description_text\": \"034381-43336\", \"icon_space\": {\"unit\": \"px\", \"size\": 12}, \"title_bottom_space\": {\"unit\": \"px\", \"size\": 5}, \"position\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 25}, \"text_align\": \"left\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"description_typography_line_height\": {\"unit\": \"px\", \"size\": \"\"}, \"title_size\": \"h5\", \"text_align_mobile\": \"left\", \"title_bottom_space_tablet\": {\"unit\": \"px\", \"size\": 10}, \"title_bottom_space_mobile\": {\"unit\": \"px\", \"size\": 8}, \"selected_icon\": {\"value\": \"fas fa-phone\", \"library\": \"fa-solid\"}, \"description_typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_vertical_alignment\": \"middle\", \"__globals__\": {\"primary_color\": \"globals/colors?id=secondary\"}}, \"elements\": [], \"widgetType\": \"icon-box\"}, {\"id\": \"616cf23\", \"elType\": \"widget\", \"settings\": {\"title\": \"\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"left\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"header_size\": \"h5\"}, \"elements\": [], \"widgetType\": \"heading\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"c5eae5d\", \"elType\": \"container\", \"settings\": {\"layout\": \"full_width\", \"flex_gap\": {\"size\": 0, \"unit\": \"px\"}, \"min_height\": {\"unit\": \"px\", \"size\": 500, \"sizes\": []}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"content_width\": \"full\"}, \"elements\": [{\"id\": \"36a5c70\", \"elType\": \"container\", \"settings\": {\"_column_size\": 100, \"width\": {\"size\": null, \"unit\": \"%\"}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"bf07f44\", \"elType\": \"widget\", \"settings\": {\"address\": \"Geithainer Str. 32, 04680 Colditz\", \"zoom\": {\"unit\": \"px\", \"size\": 15, \"sizes\": []}, \"height\": {\"unit\": \"px\", \"size\": 500, \"sizes\": []}}, \"elements\": [], \"widgetType\": \"google_maps\"}], \"isInner\": true}], \"isInner\": false}]",
+    "_elementor_page_settings": {
+      "astra_sites_main_color": "var(--ast-global-color-0)",
+      "astra_sites_heading_base_color": "var(--ast-global-color-2)",
+      "astra_sites_link_color": "var(--ast-global-color-0)",
+      "astra_sites_link_hover_color": "var(--ast-global-color-1)",
+      "astra_sites_text_color": "var(--ast-global-color-3)",
+      "astra_sites_body_typography": "custom",
+      "astra_sites_body_font_size": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_body_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_body_line_height": {
+        "unit": "em",
+        "size": 1.7
+      },
+      "astra_sites_body_font_family": "Noto Sans",
+      "astra_sites_body_font_weight": "400",
+      "astra_sites_heading_1_typography": "custom",
+      "astra_sites_heading_1_font_size": {
+        "unit": "px",
+        "size": 64
+      },
+      "astra_sites_heading_1_font_size_tablet": {
+        "unit": "px",
+        "size": 44
+      },
+      "astra_sites_heading_1_font_size_mobile": {
+        "unit": "px",
+        "size": 30
+      },
+      "astra_sites_default_heading_font_family": "'Montserrat', sans-serif",
+      "astra_sites_heading_1_font_family": "'Montserrat'",
+      "astra_sites_heading_1_font_weight": "700",
+      "astra_sites_heading_1_text_transform": "uppercase",
+      "astra_sites_heading_2_typography": "custom",
+      "astra_sites_heading_2_font_size": {
+        "unit": "px",
+        "size": 34
+      },
+      "astra_sites_heading_2_font_size_tablet": {
+        "unit": "px",
+        "size": 32
+      },
+      "astra_sites_heading_2_font_size_mobile": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_2_line_height": {
+        "unit": "em",
+        "size": 1.4
+      },
+      "astra_sites_heading_2_font_family": "'Montserrat'",
+      "astra_sites_heading_2_font_weight": "700",
+      "astra_sites_heading_2_text_transform": "uppercase",
+      "astra_sites_heading_3_typography": "custom",
+      "astra_sites_heading_3_font_size": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_3_font_family": "'Montserrat'",
+      "astra_sites_heading_3_font_weight": "700",
+      "astra_sites_heading_4_typography": "custom",
+      "astra_sites_heading_4_font_size": {
+        "unit": "px",
+        "size": 20
+      },
+      "astra_sites_heading_4_font_size_mobile": {
+        "unit": "px",
+        "size": 19
+      },
+      "astra_sites_heading_4_font_family": "'Montserrat'",
+      "astra_sites_heading_4_font_weight": "700",
+      "astra_sites_heading_5_typography": "custom",
+      "astra_sites_heading_5_font_size": {
+        "unit": "px",
+        "size": 18
+      },
+      "astra_sites_heading_5_font_size_mobile": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_heading_5_font_family": "'Montserrat'",
+      "astra_sites_heading_5_font_weight": "700",
+      "astra_sites_heading_6_typography": "custom",
+      "astra_sites_heading_6_font_size": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_family": "'Montserrat'",
+      "astra_sites_heading_6_font_weight": "700",
+      "astra_sites_page_setting_enable": "",
+      "ha_grid_number": "",
+      "ha_grid_zindex": "1000",
+      "eael_ext_toc_title": "Table of Contents"
+    },
+    "_elementor_conditions": []
+  },
+  "permalink_template": "https://bau-mueller.eu/%pagename%/",
+  "generated_slug": "kontakt-beratung",
+  "class_list": [
+    "post-543",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Kontakt &amp; Beratung | Zimmerei &amp; Baugeschäft Müller Colditz</title>\n<meta name=\"description\" content=\"Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://bau-mueller.eu/contact/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kontakt &amp; Beratung | Zimmerei &amp; Baugeschäft Müller Colditz\" />\n<meta property=\"og:description\" content=\"Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.\" />\n<meta property=\"og:url\" content=\"https://bau-mueller.eu/contact/\" />\n<meta property=\"og:site_name\" content=\"Zimmerei &amp; Baugeschäft Müller\" />\n<meta property=\"article:modified_time\" content=\"2026-09-12T10:58:26+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Geschätzte Lesezeit\" />\n\t<meta name=\"twitter:data1\" content=\"1 Minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/contact\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/contact\\/\",\"name\":\"Kontakt & Beratung | Zimmerei & Baugeschäft Müller Colditz\",\"isPartOf\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\"},\"datePublished\":\"2018-11-27T09:17:56+00:00\",\"dateModified\":\"2026-09-12T10:58:26+00:00\",\"description\":\"Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/contact\\/#breadcrumb\"},\"inLanguage\":\"de\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bau-mueller.eu\\/contact\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/contact\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https:\\/\\/bau-mueller.eu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kontakt &#038; Beratung\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"name\":\"Zimmerei &amp; Baugeschäft Müller\",\"description\":\"Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz\",\"publisher\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bau-mueller.eu\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"de\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\",\"name\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"contentUrl\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"width\":512,\"height\":384,\"caption\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Kontakt & Beratung | Zimmerei & Baugeschäft Müller Colditz",
+    "description": "Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://bau-mueller.eu/contact/",
+    "og_locale": "de_DE",
+    "og_type": "article",
+    "og_title": "Kontakt & Beratung | Zimmerei & Baugeschäft Müller Colditz",
+    "og_description": "Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.",
+    "og_url": "https://bau-mueller.eu/contact/",
+    "og_site_name": "Zimmerei &amp; Baugeschäft Müller",
+    "article_modified_time": "2026-09-12T10:58:26+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Geschätzte Lesezeit": "1 Minute"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bau-mueller.eu/contact/",
+          "url": "https://bau-mueller.eu/contact/",
+          "name": "Kontakt & Beratung | Zimmerei & Baugeschäft Müller Colditz",
+          "isPartOf": {
+            "@id": "https://bau-mueller.eu/#website"
+          },
+          "datePublished": "2018-11-27T09:17:56+00:00",
+          "dateModified": "2026-09-12T10:58:26+00:00",
+          "description": "Planen Sie ein Bau- oder Holzbau-Projekt? Kontaktieren Sie Meisterbetrieb Arthur Müller e.K. in Colditz telefonisch unter 034381-43336 oder online.",
+          "breadcrumb": {
+            "@id": "https://bau-mueller.eu/contact/#breadcrumb"
+          },
+          "inLanguage": "de",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bau-mueller.eu/contact/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bau-mueller.eu/contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Startseite",
+              "item": "https://bau-mueller.eu/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Kontakt &#038; Beratung"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bau-mueller.eu/#website",
+          "url": "https://bau-mueller.eu/",
+          "name": "Zimmerei &amp; Baugeschäft Müller",
+          "description": "Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz",
+          "publisher": {
+            "@id": "https://bau-mueller.eu/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bau-mueller.eu/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "de"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://bau-mueller.eu/#organization",
+          "name": "Zimmerei & Baugeschäft Arthur Müller e.K.",
+          "url": "https://bau-mueller.eu/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "de",
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/",
+            "url": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "contentUrl": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "width": 512,
+            "height": 384,
+            "caption": "Zimmerei & Baugeschäft Arthur Müller e.K."
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/comments?post=543"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2566,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543/revisions/2566"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/media?parent=543"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/543"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

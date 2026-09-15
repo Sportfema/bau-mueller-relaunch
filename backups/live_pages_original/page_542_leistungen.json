@@ -1,0 +1,489 @@
+{
+  "id": 542,
+  "date": "2018-11-27T09:17:28",
+  "date_gmt": "2018-11-27T09:17:28",
+  "guid": {
+    "rendered": "https://xn--bau-mller-u9a.eu/services/",
+    "raw": "https://xn--bau-mller-u9a.eu/services/"
+  },
+  "modified": "2026-09-12T13:36:17",
+  "modified_gmt": "2026-09-12T11:36:17",
+  "password": "",
+  "slug": "leistungen",
+  "status": "publish",
+  "type": "page",
+  "link": "https://bau-mueller.eu/leistungen/",
+  "title": {
+    "raw": "Leistungen im Holz- & Massivbau",
+    "rendered": "Leistungen im Holz- &#038; Massivbau"
+  },
+  "content": {
+    "raw": "<h1>Unsere Leistungen</h1>\t\t\n\t\t\t<h2>Hier möchten wir Ihnen einen Einblick in unsere Leistungen geben</h2>\t\t\n\t\t<p>Baugeschäft Müller – Ihr Spezialist für Holzbau, Maurer- und Betonarbeiten. Seit mehr als 100 Jahren ist das Baugeschäft Müller in Familienbesitz und wird bereits in der vierten Generation von uns geführt. Wir sind ein Meisterbetrieb und bieten unseren Kunden ein umfangreiches Leistungsspektrum insbesondere im Bereich des Holzbaues an. Unser Angebot reicht vom einfachen Carport über Gartenhäuser bis hin zu kompletten Einfamilienhäusern aus Holz. Darüber hinaus sind wir auch im Treppen- und Möbelbau tätig. Unsere langjährige Erfahrung, unser handwerkliches Können sowie unser moderner Maschinenpark garantieren Ihnen höchste Qualität.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"200\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg\" alt=\"Zimmerei\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg 300w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-1024x683.jpeg 1024w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-768x512.jpeg 768w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-1536x1025.jpeg 1536w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34.jpeg 1980w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Treppen- und Möbelbau</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tTreppen\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMöbel\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tTüren\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tFenster\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tRestauration\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"200\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei-300x200.jpg\" alt=\"\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei-300x200.jpg 300w, https://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei.jpg 560w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Zimmerei</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDachstühle\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tAbbundarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tCar-Ports\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBalkone und Terrassen\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tRekonstruktion vorhandener Holzbauten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"560\" height=\"373\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten.jpg\" alt=\"maurer colditz\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Maurerarbeiten</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNatursteinmauern\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tEntwässerungsarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tInnen- &amp; Außenputz\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tWärmedämmung &amp; Wärmedämmfassaden\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tGerüstbauarbeiten \n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"560\" height=\"373\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu.jpg\" alt=\"Betonarbeiten Colditz\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Beton- und Stahlbetonarbeiten</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tFundamenarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tErdreich- &amp; Aushubarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBewährungsarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tStützwände\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tSchalarbeiten\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h3>Warum sind wir der richtige Partner\n</h3>\t\t\n\t\t<p>Unsere langjährige Erfahrung und unser Know-how garantieren Ihnen eine individuelle Betreuung.</p>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tUmfassende Beratung\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKomplettarbeiten aus einer Hand\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tService von A bis Z\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h3>Was können wir Ihnen bieten\n</h3>\t\t\n\t\t<p>Wenn Sie also einen professionellen Zimmerer, Maurer oder Betonbauer suchen, der mit Kompetenz und Herzblut arbeitet, dann sind Sie bei uns genau richtig!</p>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tErfahrung\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKompetenz\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tQualität\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\n<div class=\"apple-card\" style=\"margin-top: 60px; margin-bottom: 30px; padding: 50px 30px; background: linear-gradient(135deg, #18202f 0%, #101520 100%); border-radius: 16px; text-align: center; color: #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.15);\">\n  <h2 style=\"color: #ffffff; margin-bottom: 14px; font-size: 28px; letter-spacing: -0.02em;\">Haben Sie ein konkretes Bauvorhaben?</h2>\n  <p style=\"color: #cbd5e1; font-size: 17px; max-width: 680px; margin: 0 auto 26px; line-height: 1.6;\">Ob Zimmerei &amp; Dachstuhl, Massivholztreppen, Mauerwerk oder denkmalgerechte Sanierung – wir beraten Sie fachkundig und erstellen Ihnen ein transparentes Angebot.</p>\n  <div style=\"display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;\">\n    <a href=\"https://bau-mueller.eu/contact/\" class=\"elementor-button apple-interactive\" style=\"display: inline-block; background-color: #15779b; color: #ffffff; padding: 14px 28px; border-radius: 30px; font-weight: 600; text-decoration: none; font-size: 16px;\">Jetzt Projekt anfragen</a>\n    <a href=\"tel:+493438143336\" class=\"elementor-button apple-interactive\" style=\"display: inline-block; background-color: rgba(255,255,255,0.12); color: #ffffff; padding: 14px 24px; border-radius: 30px; font-weight: 600; text-decoration: none; font-size: 16px; border: 1px solid rgba(255,255,255,0.2);\">Direkt anrufen: 034381-43336</a>\n  </div>\n</div>\n\n\n<!-- cta_leistungen_section -->\n<div class=\"elementor-element elementor-element-cta_leistungen_section e-con-boxed e-flex e-con e-parent\" data-id=\"cta_leistungen_section\" data-element_type=\"container\" data-e-type=\"container\">\n  <div class=\"e-con-inner\">\n    <div class=\"elementor-element elementor-element-cta_leist_h2 elementor-widget elementor-widget-heading\" data-id=\"cta_leist_h2\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n      <div class=\"elementor-widget-container\">\n        <h2 class=\"elementor-heading-title elementor-size-default\">Haben Sie ein konkretes Bauvorhaben?</h2>\n      </div>\n    </div>\n    <div class=\"elementor-element elementor-element-cta_leist_p elementor-widget elementor-widget-text-editor\" data-id=\"cta_leist_p\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n      <div class=\"elementor-widget-container\">\n        <p style=\"text-align: center; max-width: 620px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\">Ob Dachstuhl, Treppenbau, Massivbau oder denkmalgerechte Sanierung – wir beraten Sie fachkundig und erstellen Ihnen ein transparentes Angebot.</p>\n      </div>\n    </div>\n    <div class=\"elementor-element elementor-element-cta_leist_btn elementor-widget elementor-widget-button\" data-id=\"cta_leist_btn\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n      <div class=\"elementor-widget-container\">\n        <div class=\"elementor-button-wrapper\" style=\"text-align: center;\">\n          <a class=\"elementor-button elementor-size-md\" role=\"button\" href=\"https://bau-mueller.eu/contact/\">\n            <span class=\"elementor-button-content-wrapper\">\n              <span class=\"elementor-button-text\">Jetzt Projekt unverbindlich anfragen</span>\n            </span>\n          </a>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n",
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"542\" class=\"elementor elementor-542\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-823eb5c e-con-full e-flex e-con e-parent\" data-id=\"823eb5c\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t<div class=\"elementor-element elementor-element-33668ef animated-slow e-flex e-con-boxed elementor-invisible e-con e-child\" data-id=\"33668ef\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;animation&quot;:&quot;fadeInLeft&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-db59f94 elementor-widget elementor-widget-heading\" data-id=\"db59f94\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Unsere Leistungen</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-e9a588c e-flex e-con-boxed e-con e-parent\" data-id=\"e9a588c\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-b2148a3 e-con-full e-flex e-con e-child\" data-id=\"b2148a3\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-410ce55 elementor-widget elementor-widget-heading\" data-id=\"410ce55\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Hier möchten wir Ihnen einen Einblick in unsere Leistungen geben</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f1bd1ba elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"f1bd1ba\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-203a98c elementor-widget elementor-widget-text-editor\" data-id=\"203a98c\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p><span data-slate-fragment=\"JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlppbW1lcmVpJTIwU2NobWl0dCUyMCVFMiU4MCU5MyUyMElociUyMFNwZXppYWxpc3QlMjBmJUMzJUJDciUyMEhvbHpiYXUlMjB1bmQlMjBEYWNoZGVja2VyYXJiZWl0ZW4lNUNuJTVDblNlaXQlMjBtZWhyJTIwYWxzJTIwMTAwJTIwSmFocmVuJTIwaXN0JTIwZGllJTIwWmltbWVyZWklMjBTY2htaXR0JTIwaW4lMjBGYW1pbGllbmJlc2l0eiUyMHVuZCUyMHdpcmQlMjBiZXJlaXRzJTIwaW4lMjBkZXIlMjBkcml0dGVuJTIwR2VuZXJhdGlvbiUyMHZvbiUyMHVucyUyMGdlZiVDMyVCQ2hydC4lMjBXaXIlMjBzaW5kJTIwZWluJTIwTWVpc3RlcmJldHJpZWIlMjB1bmQlMjBiaWV0ZW4lMjB1bnNlcmVuJTIwS3VuZGVuJTIwZWluJTIwdW1mYW5ncmVpY2hlcyUyMExlaXN0dW5nc3NwZWt0cnVtJTIwaW0lMjBCZXJlaWNoJTIwZGVzJTIwSG9semJhdWVzJTIwYW4uJTIwVW5zZXIlMjBBbmdlYm90JTIwcmVpY2h0JTIwdm9tJTIwZWluZmFjaGVuJTIwQ2FycG9ydCUyMCVDMyVCQ2JlciUyMEdhcnRlbmglQzMlQTR1c2VyJTIwYmlzJTIwaGluJTIwenUlMjBrb21wbGV0dGVuJTIwRWluZmFtaWxpZW5oJUMzJUE0dXNlcm4lMjBhdXMlMjBIb2x6LiUyMERhciVDMyVCQ2JlciUyMGhpbmF1cyUyMHNpbmQlMjB3aXIlMjBhdWNoJTIwYWxzJTIwRGFjaGRlY2tlciUyMHQlQzMlQTR0aWclMjB1bmQlMjByZXBhcmllcmVuJTIwb2RlciUyMHNhbmllcmVuJTIwYWxsZSUyMEFydGVuJTIwdm9uJTIwRCVDMyVBNGNoZXJuLiUyMFVuc2VyZSUyMGxhbmdqJUMzJUE0aHJpZ2UlMjBFcmZhaHJ1bmclMkMlMjB1bnNlciUyMGhhbmR3ZXJrbGljaGVzJTIwSyVDMyVCNm5uZW4lMjBzb3dpZSUyMHVuc2VyJTIwbW9kZXJuZXMlMjBNYXNjaGluZW5wYXJrJTIwZ2FyYW50aWVyZW4lMjBJaG5lbiUyMGglQzMlQjZjaHN0ZSUyMFF1YWxpdCUyMiU3RCU1RCU3RCU1RA==\">Baugeschäft Müller – Ihr Spezialist für Holzbau, Maurer- und Betonarbeiten. Seit mehr als 100 Jahren ist das Baugeschäft Müller in Familienbesitz und wird bereits in der vierten Generation von uns geführt. Wir sind ein Meisterbetrieb und bieten unseren Kunden ein umfangreiches Leistungsspektrum insbesondere im Bereich des Holzbaues an. Unser Angebot reicht vom einfachen Carport über Gartenhäuser bis hin zu kompletten Einfamilienhäusern aus Holz. Darüber hinaus sind wir auch im Treppen- und Möbelbau tätig. Unsere langjährige Erfahrung, unser handwerkliches Können sowie unser moderner Maschinenpark garantieren Ihnen höchste Qualität.</span></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-5ff2141 e-flex e-con-boxed e-con e-parent\" data-id=\"5ff2141\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-3afc4e0 e-con-full e-flex e-con e-child\" data-id=\"3afc4e0\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e71b012 elementor-widget elementor-widget-image\" data-id=\"e71b012\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg\" class=\"attachment-medium size-medium wp-image-576\" alt=\"Zimmerei\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg 300w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-1024x683.jpeg 1024w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-768x512.jpeg 768w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-1536x1025.jpeg 1536w, https://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34.jpeg 1980w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-aaa4dc3 elementor-widget elementor-widget-heading\" data-id=\"aaa4dc3\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Treppen- und Möbelbau</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-51f6fe1 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"51f6fe1\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Treppen</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Möbel</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Türen</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Fenster</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Restauration</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-0ed2ed8 e-con-full e-flex e-con e-child\" data-id=\"0ed2ed8\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d0719d2 elementor-widget elementor-widget-image\" data-id=\"d0719d2\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"300\" height=\"200\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei-300x200.jpg\" class=\"attachment-medium size-medium wp-image-882\" alt=\"Eine Holzwerkstatt mit Holzbrettern, Sägeböcken und Werkzeugen, die verstreut herumliegen. Das Sonnenlicht fällt durch die Fenster und erhellt den Arbeitsbereich. Die Szene vermittelt eine rustikale, fleißige Atmosphäre.\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei-300x200.jpg 300w, https://bau-mueller.eu/wp-content/uploads/2022/03/zimmerei.jpg 560w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-fa52229 elementor-widget elementor-widget-heading\" data-id=\"fa52229\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Zimmerei</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a295094 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"a295094\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Dachstühle</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Abbundarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Car-Ports</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Balkone und Terrassen</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Rekonstruktion vorhandener Holzbauten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-e858f67 e-flex e-con-boxed e-con e-parent\" data-id=\"e858f67\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-29c192c e-con-full e-flex e-con e-child\" data-id=\"29c192c\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-797ee6e elementor-widget elementor-widget-image\" data-id=\"797ee6e\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"560\" height=\"373\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten.jpg\" class=\"attachment-large size-large wp-image-932\" alt=\"maurer colditz\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/maurerarbeiten-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e2bed75 elementor-widget elementor-widget-heading\" data-id=\"e2bed75\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Maurerarbeiten</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-de40f5c elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"de40f5c\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Natursteinmauern</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Entwässerungsarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Innen- &amp; Außenputz</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Wärmedämmung &amp; Wärmedämmfassaden</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Gerüstbauarbeiten </span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-a8e27ef e-con-full e-flex e-con e-child\" data-id=\"a8e27ef\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a92074e elementor-widget elementor-widget-image\" data-id=\"a92074e\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"373\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu.jpg\" class=\"attachment-large size-large wp-image-940\" alt=\"Betonarbeiten Colditz\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/Betonarbeitenneu-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8091005 elementor-widget elementor-widget-heading\" data-id=\"8091005\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Beton- und Stahlbetonarbeiten</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6348c77 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"6348c77\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Fundamenarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Erdreich- &amp; Aushubarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Bewährungsarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Stützwände</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-check\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Schalarbeiten</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-5b90c9b e-flex e-con-boxed e-con e-parent\" data-id=\"5b90c9b\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-60685b3 e-flex e-con-boxed e-con e-child\" data-id=\"60685b3\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-eea352b elementor-widget elementor-widget-heading\" data-id=\"eea352b\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Warum sind wir der richtige Partner\n</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-314be99 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"314be99\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-23cfedb elementor-widget elementor-widget-text-editor\" data-id=\"23cfedb\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Unsere langjährige Erfahrung und unser Know-how garantieren Ihnen eine individuelle Betreuung.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5d9c066 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"5d9c066\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Umfassende Beratung</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Komplettarbeiten aus einer Hand</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Service von A bis Z</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-fe6df0c e-flex e-con-boxed e-con e-child\" data-id=\"fe6df0c\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c632290 elementor-widget elementor-widget-heading\" data-id=\"c632290\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Was können wir Ihnen bieten\n</h3>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-637e26a elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"637e26a\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1c6d645 elementor-widget elementor-widget-text-editor\" data-id=\"1c6d645\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Wenn Sie also einen professionellen Zimmerer, Maurer oder Betonbauer suchen, der mit Kompetenz und Herzblut arbeitet, dann sind Sie bei uns genau richtig!</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9982dea elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"9982dea\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"icon-list.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<ul class=\"elementor-icon-list-items\">\n\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Erfahrung</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Kompetenz</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li class=\"elementor-icon-list-item\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-icon\">\n\t\t\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-minus\"></i>\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-icon-list-text\">Qualität</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-cta_leistungen_section e-con-boxed e-flex e-con e-parent\" data-id=\"cta_leistungen_section\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-cta_leist_inner e-flex e-con-boxed e-con e-child\" data-id=\"cta_leist_inner\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_leist_h2 elementor-widget elementor-widget-heading\" data-id=\"cta_leist_h2\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Haben Sie ein konkretes Bauvorhaben?</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_leist_p elementor-widget elementor-widget-text-editor\" data-id=\"cta_leist_p\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p style=\"text-align: center; max-width: 620px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\">Ob Dachstuhl, Treppenbau, Massivbau oder denkmalgerechte Sanierung – wir beraten Sie fachkundig und erstellen Ihnen ein transparentes Angebot.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_leist_btn elementor-align-center elementor-widget elementor-widget-button\" data-id=\"cta_leist_btn\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-md\" href=\"https://bau-mueller.eu/contact/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Jetzt Projekt unverbindlich anfragen</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Unsere Leistungen Hier möchten wir Ihnen einen Einblick in unsere Leistungen geben Baugeschäft Müller – Ihr Spezialist für Holzbau, Maurer- und Betonarbeiten. Seit mehr als 100 Jahren ist das Baugeschäft Müller in Familienbesitz und wird bereits in der vierten Generation von uns geführt. Wir sind ein Meisterbetrieb und bieten unseren Kunden ein umfangreiches Leistungsspektrum insbesondere [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "postBodyCss": "",
+    "postBodyMargin": [],
+    "postBodyPadding": [],
+    "postBodyBackground": {
+      "backgroundType": "classic",
+      "gradient": ""
+    },
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "disabled",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "enabled",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "wp-post",
+    "_elementor_data": "[{\"id\": \"823eb5c\", \"elType\": \"container\", \"settings\": {\"background_background\": \"classic\", \"background_image\": {\"id\": 600, \"url\": \"http://bau-mueller.eu/wp-content/uploads/2022/02/start2.jpg\", \"alt\": \"\", \"source\": \"library\", \"size\": \"\"}, \"background_position\": \"center center\", \"background_repeat\": \"no-repeat\", \"background_size\": \"cover\", \"background_overlay_background\": \"classic\", \"background_overlay_opacity\": {\"unit\": \"px\", \"size\": 0.2}, \"padding\": {\"unit\": \"px\", \"top\": \"230\", \"right\": \"0\", \"bottom\": \"230\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"100\", \"right\": \"50\", \"bottom\": \"100\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"90\", \"right\": \"20\", \"bottom\": \"90\", \"left\": \"20\", \"isLinked\": false}, \"__globals__\": {\"background_overlay_color\": \"globals/colors?id=astglobalcolor2\"}, \"boxed_width\": {\"unit\": \"px\", \"size\": 800, \"sizes\": []}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}, \"content_width\": \"full\", \"min_height\": {\"unit\": \"px\", \"size\": 400, \"sizes\": []}, \"flex_direction_mobile\": \"column\", \"flex_justify_content_mobile\": \"center\", \"flex_align_items_mobile\": \"center\"}, \"elements\": [{\"id\": \"33668ef\", \"elType\": \"container\", \"settings\": {\"_column_size\": 100, \"width\": {\"size\": 100, \"unit\": \"%\"}, \"animation\": \"fadeInLeft\", \"animation_duration\": \"slow\", \"flex_direction\": \"column\", \"flex_direction_mobile\": \"column\", \"flex_justify_content_mobile\": \"center\", \"flex_gap_mobile\": {\"unit\": \"px\", \"size\": 10, \"sizes\": []}, \"flex_justify_content_tablet\": \"center\"}, \"elements\": [{\"id\": \"db59f94\", \"elType\": \"widget\", \"settings\": {\"title\": \"Unsere Leistungen\", \"header_size\": \"h1\", \"align\": \"center\", \"__globals__\": {\"title_color\": \"globals/colors?id=astglobalcolor5\"}, \"_flex_align_self_tablet\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"e9a588c\", \"elType\": \"container\", \"settings\": {\"padding\": {\"unit\": \"px\", \"top\": \"90\", \"right\": \"0\", \"bottom\": \"50\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"50\", \"bottom\": \"50\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"boxed_width\": {\"unit\": \"px\", \"size\": 800, \"sizes\": []}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"b2148a3\", \"elType\": \"container\", \"settings\": {\"_column_size\": 100, \"width\": {\"size\": null, \"unit\": \"%\"}, \"width_tablet\": {\"size\": 100, \"unit\": \"%\"}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"410ce55\", \"elType\": \"widget\", \"settings\": {\"title\": \"Hier möchten wir Ihnen einen Einblick in unsere Leistungen geben\", \"align\": \"center\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"typography_line_height\": {\"unit\": \"em\", \"size\": \"\"}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"f1bd1ba\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 12}, \"align\": \"center\", \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 17}, \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"203a98c\", \"elType\": \"widget\", \"settings\": {\"editor\": \"<p><span data-slate-fragment=\\\"JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlppbW1lcmVpJTIwU2NobWl0dCUyMCVFMiU4MCU5MyUyMElociUyMFNwZXppYWxpc3QlMjBmJUMzJUJDciUyMEhvbHpiYXUlMjB1bmQlMjBEYWNoZGVja2VyYXJiZWl0ZW4lNUNuJTVDblNlaXQlMjBtZWhyJTIwYWxzJTIwMTAwJTIwSmFocmVuJTIwaXN0JTIwZGllJTIwWmltbWVyZWklMjBTY2htaXR0JTIwaW4lMjBGYW1pbGllbmJlc2l0eiUyMHVuZCUyMHdpcmQlMjBiZXJlaXRzJTIwaW4lMjBkZXIlMjBkcml0dGVuJTIwR2VuZXJhdGlvbiUyMHZvbiUyMHVucyUyMGdlZiVDMyVCQ2hydC4lMjBXaXIlMjBzaW5kJTIwZWluJTIwTWVpc3RlcmJldHJpZWIlMjB1bmQlMjBiaWV0ZW4lMjB1bnNlcmVuJTIwS3VuZGVuJTIwZWluJTIwdW1mYW5ncmVpY2hlcyUyMExlaXN0dW5nc3NwZWt0cnVtJTIwaW0lMjBCZXJlaWNoJTIwZGVzJTIwSG9semJhdWVzJTIwYW4uJTIwVW5zZXIlMjBBbmdlYm90JTIwcmVpY2h0JTIwdm9tJTIwZWluZmFjaGVuJTIwQ2FycG9ydCUyMCVDMyVCQ2JlciUyMEdhcnRlbmglQzMlQTR1c2VyJTIwYmlzJTIwaGluJTIwenUlMjBrb21wbGV0dGVuJTIwRWluZmFtaWxpZW5oJUMzJUE0dXNlcm4lMjBhdXMlMjBIb2x6LiUyMERhciVDMyVCQ2JlciUyMGhpbmF1cyUyMHNpbmQlMjB3aXIlMjBhdWNoJTIwYWxzJTIwRGFjaGRlY2tlciUyMHQlQzMlQTR0aWclMjB1bmQlMjByZXBhcmllcmVuJTIwb2RlciUyMHNhbmllcmVuJTIwYWxsZSUyMEFydGVuJTIwdm9uJTIwRCVDMyVBNGNoZXJuLiUyMFVuc2VyZSUyMGxhbmdqJUMzJUE0aHJpZ2UlMjBFcmZhaHJ1bmclMkMlMjB1bnNlciUyMGhhbmR3ZXJrbGljaGVzJTIwSyVDMyVCNm5uZW4lMjBzb3dpZSUyMHVuc2VyJTIwbW9kZXJuZXMlMjBNYXNjaGluZW5wYXJrJTIwZ2FyYW50aWVyZW4lMjBJaG5lbiUyMGglQzMlQjZjaHN0ZSUyMFF1YWxpdCUyMiU3RCU1RCU3RCU1RA==\\\">Baugeschäft Müller – Ihr Spezialist für Holzbau, Maurer- und Betonarbeiten. Seit mehr als 100 Jahren ist das Baugeschäft Müller in Familienbesitz und wird bereits in der vierten Generation von uns geführt. Wir sind ein Meisterbetrieb und bieten unseren Kunden ein umfangreiches Leistungsspektrum insbesondere im Bereich des Holzbaues an. Unser Angebot reicht vom einfachen Carport über Gartenhäuser bis hin zu kompletten Einfamilienhäusern aus Holz. Darüber hinaus sind wir auch im Treppen- und Möbelbau tätig. Unsere langjährige Erfahrung, unser handwerkliches Können sowie unser moderner Maschinenpark garantieren Ihnen höchste Qualität.</span></p>\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align\": \"center\", \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"80\", \"bottom\": \"0\", \"left\": \"80\", \"isLinked\": false}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"5ff2141\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"40\", \"left\": \"50\", \"isLinked\": false}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"40\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"3afc4e0\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": 100, \"unit\": \"%\"}, \"width_tablet\": {\"size\": 50, \"unit\": \"%\"}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"e71b012\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 576, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/02/2021-11-07-16.34.jpeg\", \"alt\": \"Zimmerei\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 88}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 103}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 81}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 336}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"width_mobile\": {\"unit\": \"%\", \"size\": 100, \"sizes\": []}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"image_size\": \"medium\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"image\"}, {\"id\": \"aaa4dc3\", \"elType\": \"widget\", \"settings\": {\"title\": \"Treppen- und Möbelbau\", \"align\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"51f6fe1\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Treppen\", \"_id\": \"32caa6c\"}, {\"text\": \"Möbel\", \"_id\": \"0136ae9\"}, {\"text\": \"Türen\", \"_id\": \"3a3b6f0\"}, {\"text\": \"Fenster\", \"_id\": \"9a2029c\"}, {\"text\": \"Restauration\", \"_id\": \"f0e119f\"}], \"space_between\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"icon_align\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 18, \"sizes\": []}, \"icon_self_align\": \"center\", \"text_indent\": {\"unit\": \"px\", \"size\": 23, \"sizes\": []}, \"_margin\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"80\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}, {\"id\": \"0ed2ed8\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"width_tablet\": {\"size\": 50, \"unit\": \"%\"}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"d0719d2\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 882, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/03/zimmerei.jpg\", \"alt\": \"\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 88}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 103}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 81}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 336}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"width_mobile\": {\"unit\": \"%\", \"size\": 100, \"sizes\": []}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"image_size\": \"medium\"}, \"elements\": [], \"widgetType\": \"image\"}, {\"id\": \"fa52229\", \"elType\": \"widget\", \"settings\": {\"title\": \"Zimmerei\", \"align\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"a295094\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Dachstühle\", \"_id\": \"32caa6c\"}, {\"text\": \"Abbundarbeiten\", \"_id\": \"0136ae9\"}, {\"text\": \"Car-Ports\", \"_id\": \"3a3b6f0\"}, {\"text\": \"Balkone und Terrassen\", \"_id\": \"9a2029c\"}, {\"text\": \"Rekonstruktion vorhandener Holzbauten\", \"_id\": \"f0e119f\"}], \"space_between\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"icon_align\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 18, \"sizes\": []}, \"icon_self_align\": \"center\", \"text_indent\": {\"unit\": \"px\", \"size\": 23, \"sizes\": []}, \"_margin\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"80\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"e858f67\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"60\", \"left\": \"50\", \"isLinked\": false}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"120\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": 0, \"bottom\": \"0\", \"left\": 0, \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"29c192c\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"width_tablet\": {\"size\": 50, \"unit\": \"%\"}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"797ee6e\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 932, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/03/maurerarbeiten.jpg\", \"alt\": \"maurer colditz\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 88}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 103}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 81}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 336}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"width_mobile\": {\"unit\": \"%\", \"size\": 100, \"sizes\": []}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"image\"}, {\"id\": \"e2bed75\", \"elType\": \"widget\", \"settings\": {\"title\": \"Maurerarbeiten\", \"align\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"de40f5c\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Natursteinmauern\", \"_id\": \"32caa6c\"}, {\"text\": \"Entwässerungsarbeiten\", \"_id\": \"0136ae9\"}, {\"text\": \"Innen- &amp; Außenputz\", \"_id\": \"3a3b6f0\"}, {\"text\": \"Wärmedämmung &amp; Wärmedämmfassaden\", \"_id\": \"9a2029c\"}, {\"text\": \"Gerüstbauarbeiten \", \"_id\": \"f0e119f\"}], \"space_between\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"icon_align\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 18, \"sizes\": []}, \"icon_self_align\": \"center\", \"text_indent\": {\"unit\": \"px\", \"size\": 23, \"sizes\": []}, \"_margin\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"80\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}, {\"id\": \"a8e27ef\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"width_tablet\": {\"size\": 50, \"unit\": \"%\"}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"a92074e\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 940, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/03/Betonarbeitenneu.jpg\", \"alt\": \"Betonarbeiten Colditz\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 88}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 103}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 81}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 336}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"width_mobile\": {\"unit\": \"%\", \"size\": 100, \"sizes\": []}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"image\"}, {\"id\": \"8091005\", \"elType\": \"widget\", \"settings\": {\"title\": \"Beton- und Stahlbetonarbeiten\", \"align\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"6348c77\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Fundamenarbeiten\", \"_id\": \"32caa6c\"}, {\"text\": \"Erdreich- &amp; Aushubarbeiten\", \"_id\": \"0136ae9\"}, {\"text\": \"Bewährungsarbeiten\", \"_id\": \"3a3b6f0\"}, {\"text\": \"Stützwände\", \"_id\": \"9a2029c\"}, {\"text\": \"Schalarbeiten\", \"_id\": \"f0e119f\"}], \"space_between\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"icon_align\": \"left\", \"icon_size\": {\"unit\": \"px\", \"size\": 18, \"sizes\": []}, \"icon_self_align\": \"center\", \"text_indent\": {\"unit\": \"px\", \"size\": 23, \"sizes\": []}, \"_margin\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"80\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"5b90c9b\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"background_background\": \"classic\", \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"110\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"50\", \"bottom\": \"60\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"20\", \"bottom\": \"50\", \"left\": \"20\", \"isLinked\": false}, \"__globals__\": {\"background_color\": \"globals/colors?id=astglobalcolor4\"}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"60685b3\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [{\"id\": \"eea352b\", \"elType\": \"widget\", \"settings\": {\"title\": \"Warum sind wir der richtige Partner\\n\", \"header_size\": \"h3\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\", \"typography_line_height_mobile\": {\"unit\": \"em\", \"size\": \"\"}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"314be99\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"align\": \"left\", \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 18}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"23cfedb\", \"elType\": \"widget\", \"settings\": {\"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"editor\": \"<p>Unsere langjährige Erfahrung und unser Know-how garantieren Ihnen eine individuelle Betreuung.</p>\"}, \"elements\": [], \"widgetType\": \"text-editor\"}, {\"id\": \"5d9c066\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Umfassende Beratung\", \"icon\": \"fa fa-minus\", \"_id\": \"cd48abc\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}, {\"text\": \"Komplettarbeiten aus einer Hand\", \"icon\": \"fa fa-minus\", \"_id\": \"670c158\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}, {\"text\": \"Service von A bis Z\", \"icon\": \"fa fa-minus\", \"_id\": \"a2a8a49\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}], \"space_between\": {\"unit\": \"px\", \"size\": 8}, \"text_indent\": {\"unit\": \"px\", \"size\": 10}, \"icon_typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}, \"icon_typography_font_size_mobile\": {\"unit\": \"px\", \"size\": \"\"}, \"__globals__\": {\"icon_color\": \"globals/colors?id=astglobalcolor0\", \"text_color\": \"globals/colors?id=astglobalcolor2\"}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}, {\"id\": \"fe6df0c\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [{\"id\": \"c632290\", \"elType\": \"widget\", \"settings\": {\"title\": \"Was können wir Ihnen bieten\\n\", \"header_size\": \"h3\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"637e26a\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"align\": \"left\", \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 18}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"1c6d645\", \"elType\": \"widget\", \"settings\": {\"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"editor\": \"<p>Wenn Sie also einen professionellen Zimmerer, Maurer oder Betonbauer suchen, der mit Kompetenz und Herzblut arbeitet, dann sind Sie bei uns genau richtig!</p>\"}, \"elements\": [], \"widgetType\": \"text-editor\"}, {\"id\": \"9982dea\", \"elType\": \"widget\", \"settings\": {\"icon_list\": [{\"text\": \"Erfahrung\", \"icon\": \"fa fa-minus\", \"_id\": \"cd48abc\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}, {\"text\": \"Kompetenz\", \"icon\": \"fa fa-minus\", \"_id\": \"670c158\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}, {\"text\": \"Qualität\", \"icon\": \"fa fa-minus\", \"_id\": \"a2a8a49\", \"selected_icon\": {\"value\": \"fas fa-minus\", \"library\": \"fa-solid\"}, \"__fa4_migrated\": {\"selected_icon\": true}}], \"space_between\": {\"unit\": \"px\", \"size\": 8}, \"text_indent\": {\"unit\": \"px\", \"size\": 10}, \"icon_typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}, \"icon_typography_font_size_mobile\": {\"unit\": \"px\", \"size\": \"\"}, \"__globals__\": {\"icon_color\": \"globals/colors?id=astglobalcolor0\", \"text_color\": \"globals/colors?id=astglobalcolor2\"}}, \"elements\": [], \"widgetType\": \"icon-list\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"cta_leistungen_section\", \"elType\": \"container\", \"isInner\": false, \"settings\": {\"content_width\": \"boxed\", \"background_background\": \"classic\", \"background_color\": \"#f8f9fa\", \"padding\": {\"unit\": \"px\", \"top\": \"70\", \"right\": \"20\", \"bottom\": \"70\", \"left\": \"20\", \"isLinked\": false}, \"border_border\": \"solid\", \"border_width\": {\"unit\": \"px\", \"top\": \"1\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"border_color\": \"#e9ecef\"}, \"elements\": [{\"id\": \"cta_leist_inner\", \"elType\": \"container\", \"isInner\": true, \"settings\": {\"flex_direction\": \"column\", \"flex_align_items\": \"center\", \"flex_justify_content\": \"center\"}, \"elements\": [{\"id\": \"cta_leist_h2\", \"elType\": \"widget\", \"widgetType\": \"heading\", \"isInner\": false, \"settings\": {\"title\": \"Haben Sie ein konkretes Bauvorhaben?\", \"header_size\": \"h2\", \"align\": \"center\", \"title_color\": \"#212529\", \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": -0.5}}, \"elements\": []}, {\"id\": \"cta_leist_p\", \"elType\": \"widget\", \"widgetType\": \"text-editor\", \"isInner\": false, \"settings\": {\"editor\": \"<p style=\\\"text-align: center; max-width: 620px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\\\">Ob Dachstuhl, Treppenbau, Massivbau oder denkmalgerechte Sanierung – wir beraten Sie fachkundig und erstellen Ihnen ein transparentes Angebot.</p>\", \"align\": \"center\"}, \"elements\": []}, {\"id\": \"cta_leist_btn\", \"elType\": \"widget\", \"widgetType\": \"button\", \"isInner\": false, \"settings\": {\"text\": \"Jetzt Projekt unverbindlich anfragen\", \"link\": {\"url\": \"https://bau-mueller.eu/contact/\", \"is_external\": \"\", \"nofollow\": \"\", \"custom_attributes\": \"\"}, \"align\": \"center\", \"size\": \"md\", \"button_text_color\": \"#ffffff\", \"background_color\": \"#15779b\", \"border_radius\": {\"unit\": \"px\", \"top\": \"30\", \"right\": \"30\", \"bottom\": \"30\", \"left\": \"30\", \"isLinked\": true}, \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\"}, \"elements\": []}]}]}]",
+    "_elementor_page_settings": {
+      "astra_sites_main_color": "var(--ast-global-color-0)",
+      "astra_sites_heading_base_color": "var(--ast-global-color-2)",
+      "astra_sites_link_color": "var(--ast-global-color-0)",
+      "astra_sites_link_hover_color": "var(--ast-global-color-1)",
+      "astra_sites_text_color": "var(--ast-global-color-3)",
+      "astra_sites_body_typography": "custom",
+      "astra_sites_body_font_size": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_body_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_body_line_height": {
+        "unit": "em",
+        "size": 1.7
+      },
+      "astra_sites_body_font_family": "Noto Sans",
+      "astra_sites_body_font_weight": "400",
+      "astra_sites_heading_1_typography": "custom",
+      "astra_sites_heading_1_font_size": {
+        "unit": "px",
+        "size": 64
+      },
+      "astra_sites_heading_1_font_size_tablet": {
+        "unit": "px",
+        "size": 44
+      },
+      "astra_sites_heading_1_font_size_mobile": {
+        "unit": "px",
+        "size": 30
+      },
+      "astra_sites_default_heading_font_family": "'Montserrat', sans-serif",
+      "astra_sites_heading_1_font_family": "'Montserrat'",
+      "astra_sites_heading_1_font_weight": "700",
+      "astra_sites_heading_1_text_transform": "uppercase",
+      "astra_sites_heading_2_typography": "custom",
+      "astra_sites_heading_2_font_size": {
+        "unit": "px",
+        "size": 34
+      },
+      "astra_sites_heading_2_font_size_tablet": {
+        "unit": "px",
+        "size": 32
+      },
+      "astra_sites_heading_2_font_size_mobile": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_2_line_height": {
+        "unit": "em",
+        "size": 1.4
+      },
+      "astra_sites_heading_2_font_family": "'Montserrat'",
+      "astra_sites_heading_2_font_weight": "700",
+      "astra_sites_heading_2_text_transform": "uppercase",
+      "astra_sites_heading_3_typography": "custom",
+      "astra_sites_heading_3_font_size": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_3_font_family": "'Montserrat'",
+      "astra_sites_heading_3_font_weight": "700",
+      "astra_sites_heading_4_typography": "custom",
+      "astra_sites_heading_4_font_size": {
+        "unit": "px",
+        "size": 20
+      },
+      "astra_sites_heading_4_font_size_mobile": {
+        "unit": "px",
+        "size": 19
+      },
+      "astra_sites_heading_4_font_family": "'Montserrat'",
+      "astra_sites_heading_4_font_weight": "700",
+      "astra_sites_heading_5_typography": "custom",
+      "astra_sites_heading_5_font_size": {
+        "unit": "px",
+        "size": 18
+      },
+      "astra_sites_heading_5_font_size_mobile": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_heading_5_font_family": "'Montserrat'",
+      "astra_sites_heading_5_font_weight": "700",
+      "astra_sites_heading_6_typography": "custom",
+      "astra_sites_heading_6_font_size": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_family": "'Montserrat'",
+      "astra_sites_heading_6_font_weight": "700",
+      "astra_sites_page_setting_enable": "",
+      "ha_grid_number": "",
+      "ha_grid_zindex": "1000",
+      "eael_ext_toc_title": "Table of Contents"
+    },
+    "_elementor_conditions": []
+  },
+  "permalink_template": "https://bau-mueller.eu/%pagename%/",
+  "generated_slug": "leistungen-im-holz-massivbau",
+  "class_list": [
+    "post-542",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Leistungen im Holz- &amp; Massivbau | Zimmerei Müller Colditz</title>\n<meta name=\"description\" content=\"Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz &amp; Region.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://bau-mueller.eu/leistungen/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Leistungen im Holz- &amp; Massivbau | Zimmerei Müller Colditz\" />\n<meta property=\"og:description\" content=\"Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz &amp; Region.\" />\n<meta property=\"og:url\" content=\"https://bau-mueller.eu/leistungen/\" />\n<meta property=\"og:site_name\" content=\"Zimmerei &amp; Baugeschäft Müller\" />\n<meta property=\"article:modified_time\" content=\"2026-09-12T11:36:17+00:00\" />\n<meta property=\"og:image\" content=\"http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Geschätzte Lesezeit\" />\n\t<meta name=\"twitter:data1\" content=\"3 Minuten\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/\",\"name\":\"Leistungen im Holz- & Massivbau | Zimmerei Müller Colditz\",\"isPartOf\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/#primaryimage\"},\"thumbnailUrl\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/02\\/2021-11-07-16.34-300x200.jpeg\",\"datePublished\":\"2018-11-27T09:17:28+00:00\",\"dateModified\":\"2026-09-12T11:36:17+00:00\",\"description\":\"Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz & Region.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/#breadcrumb\"},\"inLanguage\":\"de\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bau-mueller.eu\\/leistungen\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/#primaryimage\",\"url\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/02\\/2021-11-07-16.34-300x200.jpeg\",\"contentUrl\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/02\\/2021-11-07-16.34-300x200.jpeg\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/leistungen\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https:\\/\\/bau-mueller.eu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Leistungen im Holz- &#038; Massivbau\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"name\":\"Zimmerei &amp; Baugeschäft Müller\",\"description\":\"Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz\",\"publisher\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bau-mueller.eu\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"de\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\",\"name\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"contentUrl\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"width\":512,\"height\":384,\"caption\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Leistungen im Holz- & Massivbau | Zimmerei Müller Colditz",
+    "description": "Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz & Region.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://bau-mueller.eu/leistungen/",
+    "og_locale": "de_DE",
+    "og_type": "article",
+    "og_title": "Leistungen im Holz- & Massivbau | Zimmerei Müller Colditz",
+    "og_description": "Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz & Region.",
+    "og_url": "https://bau-mueller.eu/leistungen/",
+    "og_site_name": "Zimmerei &amp; Baugeschäft Müller",
+    "article_modified_time": "2026-09-12T11:36:17+00:00",
+    "og_image": [
+      {
+        "url": "http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg",
+        "type": "",
+        "width": "",
+        "height": ""
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Geschätzte Lesezeit": "3 Minuten"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bau-mueller.eu/leistungen/",
+          "url": "https://bau-mueller.eu/leistungen/",
+          "name": "Leistungen im Holz- & Massivbau | Zimmerei Müller Colditz",
+          "isPartOf": {
+            "@id": "https://bau-mueller.eu/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bau-mueller.eu/leistungen/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/leistungen/#primaryimage"
+          },
+          "thumbnailUrl": "http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg",
+          "datePublished": "2018-11-27T09:17:28+00:00",
+          "dateModified": "2026-09-12T11:36:17+00:00",
+          "description": "Alles aus einer Hand: Zimmerei, Dachstühle, Massivholztreppen, Mauerwerk, Betonbau und Altbausanierung. Meisterhafte Ausführung in Colditz & Region.",
+          "breadcrumb": {
+            "@id": "https://bau-mueller.eu/leistungen/#breadcrumb"
+          },
+          "inLanguage": "de",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bau-mueller.eu/leistungen/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "de",
+          "@id": "https://bau-mueller.eu/leistungen/#primaryimage",
+          "url": "http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg",
+          "contentUrl": "http://bau-mueller.eu/wp-content/uploads/2022/02/2021-11-07-16.34-300x200.jpeg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bau-mueller.eu/leistungen/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Startseite",
+              "item": "https://bau-mueller.eu/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Leistungen im Holz- &#038; Massivbau"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bau-mueller.eu/#website",
+          "url": "https://bau-mueller.eu/",
+          "name": "Zimmerei &amp; Baugeschäft Müller",
+          "description": "Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz",
+          "publisher": {
+            "@id": "https://bau-mueller.eu/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bau-mueller.eu/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "de"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://bau-mueller.eu/#organization",
+          "name": "Zimmerei & Baugeschäft Arthur Müller e.K.",
+          "url": "https://bau-mueller.eu/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "de",
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/",
+            "url": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "contentUrl": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "width": 512,
+            "height": 384,
+            "caption": "Zimmerei & Baugeschäft Arthur Müller e.K."
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/comments?post=542"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2581,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542/revisions/2581"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/media?parent=542"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/542"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

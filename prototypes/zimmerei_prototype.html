@@ -80,6 +80,7 @@
           <a href="/leistungen/" class="hover:text-[#1A1918] transition-colors">Alle Leistungen</a>
           <a href="/leistungen/zimmerei-holzbau/" class="text-[#1A1918] font-bold border-b-2 border-[#1A1918] pb-0.5">Zimmerei & Holzbau</a>
           <a href="/projects/" class="hover:text-[#1A1918] transition-colors">Referenzen</a>
+          <a href="/aktuelles/" class="hover:text-[#1A1918] transition-colors">Aktuelles</a>
           <a href="/about/" class="hover:text-[#1A1918] transition-colors">Über uns</a>
         </nav>
       </div>
@@ -149,6 +150,7 @@
             <span>Referenzen & Bauten</span>
             <span class="text-xs text-[#E31936]">04</span>
           </a>
+          <a href="/aktuelles/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors"><span>Aktuelles & Magazin</span><span class="text-xs text-[#E31936]">04</span></a>
           <a href="/about/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
             <span>Über uns (4. Generation)</span>
             <span class="text-xs text-[#E31936]">05</span>
@@ -357,28 +359,109 @@
   </section>
 
   <!-- FOOTER -->
+    <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
   <footer id="kontakt" class="bg-charcoal text-cream pt-20 pb-12 rounded-t-[40px]">
-    <div class="max-w-[1340px] mx-auto px-6 lg:px-10 text-center">
-      <h2 class="font-heading font-bold text-3xl sm:text-5xl text-[#FFFCF5] mb-6">
-        Dachstuhl oder Holzbauvorhaben planen?
-      </h2>
-      <p class="text-muted-dark text-base max-w-xl mx-auto mb-8">
-        Sprechen Sie mit Dipl.-Ing. Tobias Müller. Wir beraten Sie persönlich und kalkulieren fair.
-      </p>
-      <div class="flex items-center justify-center gap-4 flex-wrap">
-        <a href="tel:+493438143336" class="btn-pill-light text-base">
-          <span>034381-43336 anrufen</span>
-          <svg class="w-4 h-4 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
-          </svg>
-        </a>
-        <a href="leistungen_prototype.html" class="btn-pill-dark border border-white/20 text-base">
-          <span>Zurück zur Übersicht</span>
-        </a>
+    <div class="max-w-[1340px] mx-auto px-6 lg:px-10">
+      
+      <!-- Big Bold CTA Headline -->
+      <div class="pb-16 border-b border-white/10 flex flex-col md:flex-row md:items-end justify-between gap-8">
+        <div class="max-w-2xl">
+          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+            Kontakt & Vorhaben besprechen
+          </span>
+          <h2 class="font-heading font-bold text-3xl sm:text-5xl text-[#FFFCF5] leading-tight">
+            Bereit für Ihr nächstes Bauvorhaben? Sprechen Sie mit uns.
+          </h2>
+        </div>
+        <div>
+          <a href="tel:+493438143336" class="btn-pill-light text-base">
+            <span>034381-43336 anrufen</span>
+            <svg class="w-4 h-4 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
       </div>
-      <p class="text-xs text-muted-dark mt-16 pt-8 border-t border-white/10">
-        © 2026 Zimmerei & Baugeschäft Arthur Müller e.K. · Geithainer Str. 32, 04680 Colditz
-      </p>
+
+      <!-- Offizieller Fördermittelhinweis (SAB & EU / EFRE) -->
+      <div class="my-12 p-6 sm:p-8 rounded-[24px] bg-white text-[#1A1918] shadow-2xl border border-white/20">
+        <div class="flex flex-col lg:flex-row items-center justify-between gap-8">
+          <!-- Offizielles Signet: EU & Freistaat Sachsen -->
+          <div class="w-full lg:w-5/12 flex-shrink-0 flex items-center justify-center lg:justify-start">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg" 
+              alt="Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)" 
+              class="max-w-full h-auto max-h-[85px] object-contain"
+              loading="lazy"
+            >
+          </div>
+          
+          <!-- Fördertext & Button -->
+          <div class="w-full lg:w-7/12 flex flex-col sm:flex-row sm:items-center justify-between gap-6">
+            <p class="text-sm sm:text-[15px] italic text-[#3A3632] leading-relaxed">
+              „Unser Projekt <strong>„Werkstatt der Zukunft – Präzision trifft Tradition“</strong> wird durch die Europäische Union und den Freistaat Sachsen unterstützt. Die Maßnahme wird über die Sächsische Aufbaubank (SAB) gefördert.“
+            </p>
+            <a 
+              href="/werkstatt-der-zukunft-praezision-trifft-tradition/" 
+              class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-medium text-sm transition-all duration-200 shrink-0 shadow-md hover:shadow-lg"
+            >
+              <span>Hier geht es zum Artikel</span>
+              <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Navigation & Info Columns -->
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-10 py-16 text-sm">
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Standort</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Zimmerei & Baugeschäft Arthur Müller e.K.<br>
+            Geithainer Str. 32<br>
+            04680 Colditz<br>
+            Inhaber: Dipl.-Ing. Tobias Müller
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Gewerke</h4>
+          <ul class="space-y-2.5 text-muted-dark">
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Zimmerei & Holzbau</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Treppen- & Möbelbau</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Maurer- & Betonarbeiten</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Altbausanierung & Denkmal</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Pellets & Holzbriketts</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Öffnungszeiten</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Montag – Freitag: 08:00 – 15:30 Uhr<br>
+            Pellet-Verkauf & Abholung ab Werk.<br>
+            Telefon: 034381-43336
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Aktuelles & Magazin</h4>
+          <ul class="space-y-2.5 text-muted-dark">
+            <li><a href="/aktuelles/" class="hover:text-white transition-colors">Werkstatt & Sägewerk</a></li>
+            <li><a href="/aktuelles/" class="hover:text-white transition-colors">Pellet-Verfügbarkeit</a></li>
+            <li><a href="/werkstatt-der-zukunft-praezision-trifft-tradition/" class="hover:text-white transition-colors">SAB-Förderprojekt</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Bottom Bar & Copyright -->
+      <div class="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-muted-dark">
+        <p>© 2026 Arthur Müller e.K. · Meisterbetrieb seit 1920</p>
+        <div class="flex items-center gap-6">
+          <a href="/impressum/" class="hover:text-white transition-colors">Impressum</a>
+          <a href="/datenschutz/" class="hover:text-white transition-colors">Datenschutz</a>
+        </div>
+      </div>
+
     </div>
   </footer>
 

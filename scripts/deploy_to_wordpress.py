@@ -47,6 +47,13 @@ PAGE_SPECS = [
         "file": "exports/neu-ueber-uns.json"
     },
     {
+        "key": "aktuelles",
+        "existing_id": None,
+        "title": "NEU – Aktuelles",
+        "slug": "aktuelles-neu",
+        "file": "exports/neu-aktuelles.json"
+    },
+    {
         "key": "zimmerei-holzbau",
         "existing_id": None,
         "title": "NEU – Zimmerei & Holzbau",

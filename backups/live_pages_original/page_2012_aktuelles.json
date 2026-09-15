@@ -1,0 +1,467 @@
+{
+  "id": 2012,
+  "date": "2022-11-03T17:37:37",
+  "date_gmt": "2022-11-03T16:37:37",
+  "guid": {
+    "rendered": "https://bau-mueller.eu/?page_id=2012",
+    "raw": "https://bau-mueller.eu/?page_id=2012"
+  },
+  "modified": "2026-09-12T13:36:53",
+  "modified_gmt": "2026-09-12T11:36:53",
+  "password": "",
+  "slug": "aktuelles",
+  "status": "publish",
+  "type": "page",
+  "link": "https://bau-mueller.eu/aktuelles/",
+  "title": {
+    "raw": "Aktuelles & Einblicke",
+    "rendered": "Aktuelles &#038; Einblicke"
+  },
+  "content": {
+    "raw": "<h1>Aktuelles</h1><!-- update -->",
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"2023\" class=\"elementor elementor-2023\" data-elementor-post-type=\"post\">\n\t\t\t\t<div class=\"elementor-element elementor-element-48215d1 e-flex e-con-boxed e-con e-parent\" data-id=\"48215d1\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-fa72bf3 e-flex e-con-boxed e-con e-parent\" data-id=\"fa72bf3\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4edb33f elementor-widget elementor-widget-text-editor\" data-id=\"4edb33f\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\n<p class=\"wp-block-paragraph\">1. Warum sollte ich meine Fassade dämmen? 2. Welche Kosten kommen auf mich zu? 3. Welche Fördermittel gibt es? 4. Wie hoch ist der Return on Investment? 5. Beispiele für erfolgreiche Dämmungsmaßnahmen:</p>\n<p>Eine Fassadendämmung erhöht nicht nur den Wohnkomfort, sondern auch die Energieeffizienz Ihres Hauses. Durch eine gute Wärmedämmung kann man bis zu 30% der Heizkosten sparen. Außerdem schont eine thermisch optimierte Fassade die Umwelt, da weniger CO2 Emissionen anfallen. Für ein optimales Ergebnis sollten Sie bei der Planung Ihrer Dämmung jedoch auf mehrere Kriterien achten: Die Art des Gebäudes, das Klima und selbstverständlich Ihr Budget.</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Aktuelles</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "postBodyCss": "",
+    "postBodyMargin": [],
+    "postBodyPadding": [],
+    "postBodyBackground": {
+      "backgroundType": "classic",
+      "gradient": ""
+    },
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "full-width-container",
+    "site-content-style": "unboxed",
+    "site-sidebar-style": "unboxed",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "disabled",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "enabled",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "set",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "wp-page",
+    "_elementor_data": "[{\"id\": \"f85fb7c\", \"elType\": \"container\", \"settings\": {\"background_background\": \"classic\", \"background_overlay_background\": \"classic\", \"padding\": {\"unit\": \"px\", \"top\": \"200\", \"right\": \"0\", \"bottom\": \"150\", \"left\": \"0\", \"isLinked\": false}, \"background_color_b\": \"#212121\", \"background_overlay_position\": \"bottom center\", \"background_overlay_attachment\": \"fixed\", \"background_overlay_size\": \"cover\", \"background_overlay_opacity\": {\"unit\": \"px\", \"size\": 0.3}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 80}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 102}, \"shape_divider_bottom_height\": {\"unit\": \"px\", \"size\": 49}, \"margin_tablet\": {\"unit\": \"px\", \"top\": \"\", \"right\": 0, \"bottom\": \"\", \"left\": 0, \"isLinked\": true}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"120\", \"right\": \"0\", \"bottom\": \"100\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"120\", \"right\": \"0\", \"bottom\": \"60\", \"left\": \"0\", \"isLinked\": false}, \"background_image\": {\"id\": 1813, \"url\": \"https://bau-mueller.eu/wp-content/uploads/2022/10/2021-11-07-16.32-1.jpeg\", \"alt\": \"Baugeschäft Müller Colditz\", \"source\": \"library\"}, \"background_position\": \"center center\", \"background_repeat\": \"no-repeat\", \"background_size\": \"cover\", \"__globals__\": {\"background_overlay_color\": \"\"}, \"boxed_width\": {\"unit\": \"px\", \"size\": 1140, \"sizes\": []}, \"background_overlay_color\": \"#101218F7\", \"min_height\": {\"size\": \"\", \"unit\": \"px\"}, \"flex_direction\": \"column\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}, \"animation\": \"none\", \"content_width\": \"full\", \"min_height_tablet\": {\"unit\": \"vh\", \"size\": \"\", \"sizes\": []}, \"min_height_mobile\": {\"unit\": \"vh\", \"size\": \"\", \"sizes\": []}, \"flex_gap_tablet\": {\"unit\": \"%\", \"size\": \"\", \"sizes\": []}, \"flex_gap_mobile\": {\"unit\": \"%\", \"size\": \"\", \"sizes\": []}, \"flex_justify_content_mobile\": \"center\"}, \"elements\": [{\"id\": \"09e4bc2\", \"elType\": \"widget\", \"settings\": {\"title\": \"Aktuelles\", \"header_size\": \"h1\", \"align\": \"center\", \"title_color\": \"#FFFFFF\"}, \"elements\": [], \"widgetType\": \"heading\"}], \"isInner\": false}, {\"id\": \"e5e360d\", \"elType\": \"container\", \"settings\": {\"flex_direction\": \"column\", \"padding\": {\"unit\": \"px\", \"top\": \"30\", \"right\": \"0\", \"bottom\": \"30\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [{\"id\": \"68f5826\", \"elType\": \"widget\", \"settings\": {\"classic_masonry\": \"yes\", \"classic_meta_separator\": \"///\", \"classic_read_more_text\": \"Weiterlesen »\", \"cards_meta_separator\": \"•\", \"cards_read_more_text\": \"Weiterlesen »\", \"full_content_meta_separator\": \"///\", \"pagination_page_limit\": \"5\", \"pagination_prev_label\": \"&laquo; Voriger\", \"pagination_next_label\": \"Nächster &raquo;\", \"text\": \"Load More\", \"load_more_no_posts_custom_message\": \"No more posts to show\"}, \"elements\": [], \"widgetType\": \"posts\"}], \"isInner\": false}, {\"id\": \"cta_aktuelles_section\", \"elType\": \"container\", \"isInner\": false, \"settings\": {\"content_width\": \"boxed\", \"background_background\": \"classic\", \"background_color\": \"#f8f9fa\", \"padding\": {\"unit\": \"px\", \"top\": \"70\", \"right\": \"20\", \"bottom\": \"70\", \"left\": \"20\", \"isLinked\": false}, \"border_border\": \"solid\", \"border_width\": {\"unit\": \"px\", \"top\": \"1\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"border_color\": \"#e9ecef\"}, \"elements\": [{\"id\": \"cta_akt_inner\", \"elType\": \"container\", \"isInner\": true, \"settings\": {\"flex_direction\": \"column\", \"flex_align_items\": \"center\", \"flex_justify_content\": \"center\"}, \"elements\": [{\"id\": \"cta_akt_h2\", \"elType\": \"widget\", \"widgetType\": \"heading\", \"isInner\": false, \"settings\": {\"title\": \"Haben Sie Fragen zu unseren Projekten oder Holzbau-Leistungen?\", \"header_size\": \"h2\", \"align\": \"center\", \"title_color\": \"#212529\", \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": -0.5}}, \"elements\": []}, {\"id\": \"cta_akt_p\", \"elType\": \"widget\", \"widgetType\": \"text-editor\", \"isInner\": false, \"settings\": {\"editor\": \"<p style=\\\"text-align: center; max-width: 620px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\\\">Wir stehen Ihnen mit meisterhafter Erfahrung zur Seite – ob Lohnschnitt, Kaminpellets oder individuelle Bau- und Sanierungsprojekte.</p>\", \"align\": \"center\"}, \"elements\": []}, {\"id\": \"cta_akt_btn\", \"elType\": \"widget\", \"widgetType\": \"button\", \"isInner\": false, \"settings\": {\"text\": \"Jetzt unverbindlich anfragen\", \"link\": {\"url\": \"https://bau-mueller.eu/contact/\", \"is_external\": \"\", \"nofollow\": \"\", \"custom_attributes\": \"\"}, \"align\": \"center\", \"size\": \"md\", \"button_text_color\": \"#ffffff\", \"background_color\": \"#15779b\", \"border_radius\": {\"unit\": \"px\", \"top\": \"30\", \"right\": \"30\", \"bottom\": \"30\", \"left\": \"30\", \"isLinked\": true}, \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\"}, \"elements\": []}]}]}]",
+    "_elementor_page_settings": {
+      "astra_sites_main_color": "var(--ast-global-color-0)",
+      "astra_sites_heading_base_color": "var(--ast-global-color-2)",
+      "astra_sites_link_color": "var(--ast-global-color-0)",
+      "astra_sites_link_hover_color": "var(--ast-global-color-1)",
+      "astra_sites_text_color": "var(--ast-global-color-3)",
+      "astra_sites_body_typography": "custom",
+      "astra_sites_body_font_size": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_body_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_body_line_height": {
+        "unit": "em",
+        "size": 1.7
+      },
+      "astra_sites_body_font_family": "Noto Sans",
+      "astra_sites_body_font_weight": "400",
+      "astra_sites_heading_1_typography": "custom",
+      "astra_sites_heading_1_font_size": {
+        "unit": "px",
+        "size": 64
+      },
+      "astra_sites_heading_1_font_size_tablet": {
+        "unit": "px",
+        "size": 44
+      },
+      "astra_sites_heading_1_font_size_mobile": {
+        "unit": "px",
+        "size": 30
+      },
+      "astra_sites_default_heading_font_family": "'Montserrat', sans-serif",
+      "astra_sites_heading_1_font_family": "'Montserrat'",
+      "astra_sites_heading_1_font_weight": "700",
+      "astra_sites_heading_1_text_transform": "uppercase",
+      "astra_sites_heading_2_typography": "custom",
+      "astra_sites_heading_2_font_size": {
+        "unit": "px",
+        "size": 34
+      },
+      "astra_sites_heading_2_font_size_tablet": {
+        "unit": "px",
+        "size": 32
+      },
+      "astra_sites_heading_2_font_size_mobile": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_2_line_height": {
+        "unit": "em",
+        "size": 1.4
+      },
+      "astra_sites_heading_2_font_family": "'Montserrat'",
+      "astra_sites_heading_2_font_weight": "700",
+      "astra_sites_heading_2_text_transform": "uppercase",
+      "astra_sites_heading_3_typography": "custom",
+      "astra_sites_heading_3_font_size": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_3_font_family": "'Montserrat'",
+      "astra_sites_heading_3_font_weight": "700",
+      "astra_sites_heading_4_typography": "custom",
+      "astra_sites_heading_4_font_size": {
+        "unit": "px",
+        "size": 20
+      },
+      "astra_sites_heading_4_font_size_mobile": {
+        "unit": "px",
+        "size": 19
+      },
+      "astra_sites_heading_4_font_family": "'Montserrat'",
+      "astra_sites_heading_4_font_weight": "700",
+      "astra_sites_heading_5_typography": "custom",
+      "astra_sites_heading_5_font_size": {
+        "unit": "px",
+        "size": 18
+      },
+      "astra_sites_heading_5_font_size_mobile": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_heading_5_font_family": "'Montserrat'",
+      "astra_sites_heading_5_font_weight": "700",
+      "astra_sites_heading_6_typography": "custom",
+      "astra_sites_heading_6_font_size": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_family": "'Montserrat'",
+      "astra_sites_heading_6_font_weight": "700",
+      "astra_sites_page_setting_enable": "",
+      "ha_grid_number": "",
+      "ha_grid_zindex": "1000",
+      "eael_ext_toc_title": "Table of Contents"
+    },
+    "_elementor_conditions": []
+  },
+  "permalink_template": "https://bau-mueller.eu/%pagename%/",
+  "generated_slug": "aktuelles-einblicke",
+  "class_list": [
+    "post-2012",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Aktuelles &amp; Einblicke aus der Werkstatt | Baugeschäft Müller</title>\n<meta name=\"description\" content=\"Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://bau-mueller.eu/aktuelles/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Aktuelles &amp; Einblicke aus der Werkstatt | Baugeschäft Müller\" />\n<meta property=\"og:description\" content=\"Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.\" />\n<meta property=\"og:url\" content=\"https://bau-mueller.eu/aktuelles/\" />\n<meta property=\"og:site_name\" content=\"Zimmerei &amp; Baugeschäft Müller\" />\n<meta property=\"article:modified_time\" content=\"2026-09-12T11:36:53+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Geschätzte Lesezeit\" />\n\t<meta name=\"twitter:data1\" content=\"4 Minuten\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/aktuelles\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/aktuelles\\/\",\"name\":\"Aktuelles & Einblicke aus der Werkstatt | Baugeschäft Müller\",\"isPartOf\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\"},\"datePublished\":\"2022-11-03T16:37:37+00:00\",\"dateModified\":\"2026-09-12T11:36:53+00:00\",\"description\":\"Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/aktuelles\\/#breadcrumb\"},\"inLanguage\":\"de\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bau-mueller.eu\\/aktuelles\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/aktuelles\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https:\\/\\/bau-mueller.eu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Aktuelles &#038; Einblicke\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"name\":\"Zimmerei &amp; Baugeschäft Müller\",\"description\":\"Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz\",\"publisher\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bau-mueller.eu\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"de\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\",\"name\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"contentUrl\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"width\":512,\"height\":384,\"caption\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Aktuelles & Einblicke aus der Werkstatt | Baugeschäft Müller",
+    "description": "Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://bau-mueller.eu/aktuelles/",
+    "og_locale": "de_DE",
+    "og_type": "article",
+    "og_title": "Aktuelles & Einblicke aus der Werkstatt | Baugeschäft Müller",
+    "og_description": "Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.",
+    "og_url": "https://bau-mueller.eu/aktuelles/",
+    "og_site_name": "Zimmerei &amp; Baugeschäft Müller",
+    "article_modified_time": "2026-09-12T11:36:53+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Geschätzte Lesezeit": "4 Minuten"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bau-mueller.eu/aktuelles/",
+          "url": "https://bau-mueller.eu/aktuelles/",
+          "name": "Aktuelles & Einblicke aus der Werkstatt | Baugeschäft Müller",
+          "isPartOf": {
+            "@id": "https://bau-mueller.eu/#website"
+          },
+          "datePublished": "2022-11-03T16:37:37+00:00",
+          "dateModified": "2026-09-12T11:36:53+00:00",
+          "description": "Aktuelles aus unserem Handwerksbetrieb in Colditz: Neuigkeiten, Projektfortschritte, Lohnschnitt im Sägewerk und Kaminpellets direkt vom Meisterbetrieb.",
+          "breadcrumb": {
+            "@id": "https://bau-mueller.eu/aktuelles/#breadcrumb"
+          },
+          "inLanguage": "de",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bau-mueller.eu/aktuelles/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bau-mueller.eu/aktuelles/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Startseite",
+              "item": "https://bau-mueller.eu/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Aktuelles &#038; Einblicke"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bau-mueller.eu/#website",
+          "url": "https://bau-mueller.eu/",
+          "name": "Zimmerei &amp; Baugeschäft Müller",
+          "description": "Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz",
+          "publisher": {
+            "@id": "https://bau-mueller.eu/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bau-mueller.eu/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "de"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://bau-mueller.eu/#organization",
+          "name": "Zimmerei & Baugeschäft Arthur Müller e.K.",
+          "url": "https://bau-mueller.eu/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "de",
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/",
+            "url": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "contentUrl": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "width": 512,
+            "height": 384,
+            "caption": "Zimmerei & Baugeschäft Arthur Müller e.K."
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/comments?post=2012"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2582,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012/revisions/2582"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/media?parent=2012"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/2012"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

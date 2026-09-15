@@ -1,0 +1,489 @@
+{
+  "id": 541,
+  "date": "2018-11-27T09:17:08",
+  "date_gmt": "2018-11-27T09:17:08",
+  "guid": {
+    "rendered": "https://xn--bau-mller-u9a.eu/about/",
+    "raw": "https://xn--bau-mller-u9a.eu/about/"
+  },
+  "modified": "2026-09-12T13:18:49",
+  "modified_gmt": "2026-09-12T11:18:49",
+  "password": "",
+  "slug": "about",
+  "status": "publish",
+  "type": "page",
+  "link": "https://bau-mueller.eu/about/",
+  "title": {
+    "raw": "Über uns: Tradition in 4. Generation",
+    "rendered": "Über uns: Tradition in 4. Generation"
+  },
+  "content": {
+    "raw": "<h1>Baugeschäft Müller <br>Tradition Seit 1920</h1>\t\t\n\t\t\t<h2>Über Uns</h2>\t\t\n\t\t<p>Das Baugeschäft Müller wurde 1920 durch Arthur Müller gegründet. Zusammen mit einer handvoll engagierter Mitarbeiter gelang es ihm, sich durch ein hohes Maß an Fachkompetenz und Fleiß in der örtlichen Baubranche zu etablieren. Nach dem Krieg half er durch den Bau von Wohnhäusern und der Rekonstruktion von Kirchen sowie der Errichtung von landwirtschaftlichen und öffentlichen Gebäuden beim Wiederaufbau der Region.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg\" title=\"uberuns3\" alt=\"Baugeschäft Müller Hohnbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"560\" height=\"373\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1.jpg\" alt=\"Baugeschäft Müller Hohnbach\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>1952</h2>\t\t\n\t\t<p>übernahm Fridwald Müller das Geschäft und führte es erfolgreich weiter, dennoch wurde es 1972 verstaatlicht. Aber auch als VEB stand der Betrieb immer für hohe Qualität und handwerkliches Können. So überstand er auch die Wirren der Wendejahre und ging 1991 wieder in den Familienbesitz über.</p>\t\t\n\t\t\t<h2>Seit 1996 & heute in 4. Generation</h2>\t\t\n\t\t<p>wurde das Unternehmen durch Thomas Müller geleitet. Er führte das traditionelle Handwerk fort und verband es mit moderner Technik, um weiterhin hohe Qualität und guten Service garantieren zu können. Tobias Müller übernahm in 4. Generation im Jahr 2021 das Geschäft, um das traditionsreiche Familienunternehmen fortzuführen.</p> \t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"560\" height=\"373\" src=\"http://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg\" alt=\"\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Das können wir alles!</h4>\t\t\n\t\t<p>Mit unserem Meisterbetrieb haben Sie einen zuverlässigen und kompetenten Partner in Sachen Maurer-, Holzbau- und Betonarbeiten an Ihrer Seite. Ob Wohnungs- oder Gewerbebau, ob Neubau, Sanierung, Innenausbau oder Rekonstruktion - bei uns sind Sie genau richtig.</p>\t\t\n\t\t\t<h4>Qualität seit 1920</h4>\t\t\n\t\t<p>Wir betreuen Sie bei Ihrem Bauvorhaben von der Analyse der Ausgangssituation über eine individuelle Beratung bis hin zur fachgerechten Realisierung des Projekts. Dabei verbinden wir traditionelles Handwerk mit moderner Technik und werden so auch höchsten Ansprüchen gerecht.</p>",
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"541\" class=\"elementor elementor-541\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-bac6397 e-con-full e-flex e-con e-parent\" data-id=\"bac6397\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t<div class=\"elementor-element elementor-element-6ffc5b7 animated-slow e-flex e-con-boxed elementor-invisible e-con e-child\" data-id=\"6ffc5b7\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;animation&quot;:&quot;fadeInDown&quot;,&quot;animation_delay&quot;:200}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d9ccf91 elementor-widget elementor-widget-heading\" data-id=\"d9ccf91\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Baugeschäft Müller <br>Tradition Seit 1920</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-0886c06 e-flex e-con-boxed e-con e-parent\" data-id=\"0886c06\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-5c7b3d0 e-con-full e-flex e-con e-child\" data-id=\"5c7b3d0\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1b5f643 elementor-widget elementor-widget-heading\" data-id=\"1b5f643\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Über Uns</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-77f9f79 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"77f9f79\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f59def6 elementor-widget elementor-widget-text-editor\" data-id=\"f59def6\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Das Baugeschäft Müller wurde 1920 durch Arthur Müller gegründet. Zusammen mit einer handvoll engagierter Mitarbeiter gelang es ihm, sich durch ein hohes Maß an Fachkompetenz und Fleiß in der örtlichen Baubranche zu etablieren. Nach dem Krieg half er durch den Bau von Wohnhäusern und der Rekonstruktion von Kirchen sowie der Errichtung von landwirtschaftlichen und öffentlichen Gebäuden beim Wiederaufbau der Region.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-ce0a3ed animated-slow e-flex e-con-boxed elementor-invisible e-con e-child\" data-id=\"ce0a3ed\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;animation&quot;:&quot;fadeInRight&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4e8a95a elementor-widget elementor-widget-image\" data-id=\"4e8a95a\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg\" title=\"uberuns3\" alt=\"Baugeschäft Müller Hohnbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-b34eaf4 e-flex e-con-boxed e-con e-parent\" data-id=\"b34eaf4\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-3e6266f e-con-full animated-slow e-flex elementor-invisible e-con e-child\" data-id=\"3e6266f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;animation&quot;:&quot;fadeInLeft&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6079c87 elementor-widget elementor-widget-image\" data-id=\"6079c87\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"560\" height=\"373\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1.jpg\" class=\"attachment-full size-full wp-image-848\" alt=\"Baugeschäft Müller Hohnbach\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-ac97c64 e-con-full e-flex e-con e-child\" data-id=\"ac97c64\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0665916 elementor-widget elementor-widget-heading\" data-id=\"0665916\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">1952</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3c2e7b8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"3c2e7b8\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0e2f964 elementor-widget elementor-widget-text-editor\" data-id=\"0e2f964\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>übernahm Fridwald Müller das Geschäft und führte es erfolgreich weiter, dennoch wurde es 1972 verstaatlicht. Aber auch als VEB stand der Betrieb immer für hohe Qualität und handwerkliches Können. So überstand er auch die Wirren der Wendejahre und ging 1991 wieder in den Familienbesitz über.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-0bb5358 e-flex e-con-boxed e-con e-parent\" data-id=\"0bb5358\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-207d4a0 e-con-full e-flex e-con e-child\" data-id=\"207d4a0\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4e0a506 elementor-widget elementor-widget-heading\" data-id=\"4e0a506\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Seit 1996 &amp; heute in 4. Generation</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2e83aa6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"2e83aa6\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2a4adac elementor-widget elementor-widget-text-editor\" data-id=\"2a4adac\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>wurde das Unternehmen durch Thomas Müller geleitet. Er führte das traditionelle Handwerk fort und verband es mit moderner Technik, um weiterhin hohe Qualität und guten Service garantieren zu können. Tobias Müller übernahm in 4. Generation im Jahr 2021 das Geschäft, um das traditionsreiche Familienunternehmen fortzuführen.</p><div> </div>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2fc26b8 e-con-full animated-slow e-flex elementor-invisible e-con e-child\" data-id=\"2fc26b8\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;animation&quot;:&quot;fadeInRight&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-41e8c70 elementor-widget elementor-widget-image\" data-id=\"41e8c70\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"560\" height=\"373\" src=\"https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg\" class=\"attachment-full size-full wp-image-703\" alt=\"Acht Männer stehen in einer Reihe vor dem Baugeschäft Müller Colditz. Einige tragen traditionelle Handwerkerkleidung, andere sind leger gekleidet. Das Schwarz-Weiß-Bild verdeutlicht die Verbundenheit mit dem lokalen Handwerk.\" srcset=\"https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg 560w, https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw-300x200.jpg 300w\" sizes=\"(max-width: 560px) 100vw, 560px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-cb51164 e-flex e-con-boxed e-con e-parent\" data-id=\"cb51164\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-f03057b e-con-full e-flex e-con e-child\" data-id=\"f03057b\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1dbc737 elementor-widget elementor-widget-heading\" data-id=\"1dbc737\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h4 class=\"elementor-heading-title elementor-size-default\">Das können wir alles!</h4>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0b683c6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"0b683c6\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2dabf19 elementor-widget elementor-widget-text-editor\" data-id=\"2dabf19\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Mit unserem Meisterbetrieb haben Sie einen zuverlässigen und kompetenten Partner in Sachen Maurer-, Holzbau- und Betonarbeiten an Ihrer Seite. Ob Wohnungs- oder Gewerbebau, ob Neubau, Sanierung, Innenausbau oder Rekonstruktion – bei uns sind Sie genau richtig.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-cd79d69 e-con-full e-flex e-con e-child\" data-id=\"cd79d69\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-516d836 elementor-widget elementor-widget-heading\" data-id=\"516d836\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h4 class=\"elementor-heading-title elementor-size-default\">Qualität seit 1920</h4>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-48f11b3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"48f11b3\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1b9e93f elementor-widget elementor-widget-text-editor\" data-id=\"1b9e93f\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Wir betreuen Sie bei Ihrem Bauvorhaben von der Analyse der Ausgangssituation über eine individuelle Beratung bis hin zur fachgerechten Realisierung des Projekts. Dabei verbinden wir traditionelles Handwerk mit moderner Technik und werden so auch höchsten Ansprüchen gerecht.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-cta_about_section e-con-boxed e-flex e-con e-parent\" data-id=\"cta_about_section\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_about_h2 elementor-widget elementor-widget-heading\" data-id=\"cta_about_h2\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Möchten Sie Ihr Projekt mit uns besprechen?</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_about_p elementor-widget elementor-widget-text-editor\" data-id=\"cta_about_p\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p style=\"text-align: center; max-width: 600px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\">Lernen Sie uns und unsere Arbeitsweise persönlich kennen. Wir freuen uns auf Ihr Bauvorhaben in Colditz und Region.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cta_about_btn elementor-align-center elementor-widget elementor-widget-button\" data-id=\"cta_about_btn\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-md\" href=\"https://bau-mueller.eu/contact/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Jetzt Kontakt aufnehmen</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Baugeschäft Müller Tradition Seit 1920 Über Uns Das Baugeschäft Müller wurde 1920 durch Arthur Müller gegründet. Zusammen mit einer handvoll engagierter Mitarbeiter gelang es ihm, sich durch ein hohes Maß an Fachkompetenz und Fleiß in der örtlichen Baubranche zu etablieren. Nach dem Krieg half er durch den Bau von Wohnhäusern und der Rekonstruktion von Kirchen [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "postBodyCss": "",
+    "postBodyMargin": [],
+    "postBodyPadding": [],
+    "postBodyBackground": {
+      "backgroundType": "classic",
+      "gradient": ""
+    },
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "disabled",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "enabled",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "wp-post",
+    "_elementor_data": "[{\"id\": \"bac6397\", \"elType\": \"container\", \"settings\": {\"background_background\": \"classic\", \"background_image\": {\"id\": 848, \"url\": \"http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns1.jpg\", \"alt\": \"Baugeschäft Müller Hohnbach\", \"source\": \"library\", \"size\": \"\"}, \"background_position\": \"center center\", \"background_repeat\": \"no-repeat\", \"background_size\": \"cover\", \"background_overlay_background\": \"classic\", \"background_overlay_opacity\": {\"unit\": \"px\", \"size\": 0.25}, \"padding\": {\"unit\": \"px\", \"top\": \"230\", \"right\": \"0\", \"bottom\": \"230\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"100\", \"right\": \"50\", \"bottom\": \"100\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"90\", \"right\": \"20\", \"bottom\": \"90\", \"left\": \"20\", \"isLinked\": false}, \"__globals__\": {\"background_overlay_color\": \"globals/colors?id=astglobalcolor2\"}, \"boxed_width\": {\"unit\": \"px\", \"size\": 960, \"sizes\": []}, \"background_motion_fx_translateY_effect\": \"yes\", \"background_motion_fx_translateY_speed\": {\"unit\": \"px\", \"size\": 2.4, \"sizes\": []}, \"flex_direction\": \"column\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}, \"content_width\": \"full\", \"min_height_tablet\": {\"unit\": \"vh\", \"size\": \"\", \"sizes\": []}, \"min_height_mobile\": {\"unit\": \"vh\", \"size\": \"\", \"sizes\": []}, \"min_height\": {\"unit\": \"px\", \"size\": 400, \"sizes\": []}, \"flex_justify_content_mobile\": \"center\", \"flex_justify_content\": \"center\", \"flex_justify_content_tablet\": \"center\"}, \"elements\": [{\"id\": \"6ffc5b7\", \"elType\": \"container\", \"settings\": {\"_column_size\": 100, \"width\": {\"size\": 100, \"unit\": \"%\"}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"flex_gap\": {\"size\": 20, \"unit\": \"px\"}, \"animation\": \"fadeInDown\", \"animation_duration\": \"slow\", \"animation_delay\": 200, \"min_height\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"flex_justify_content\": \"center\", \"flex_align_items\": \"center\", \"_flex_align_self\": \"center\"}, \"elements\": [{\"id\": \"d9ccf91\", \"elType\": \"widget\", \"settings\": {\"title\": \"Baugeschäft Müller <br>Tradition Seit 1920\", \"header_size\": \"h1\", \"align\": \"center\", \"__globals__\": {\"title_color\": \"globals/colors?id=astglobalcolor5\"}, \"ha_floating_fx\": \"yes\"}, \"elements\": [], \"widgetType\": \"heading\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"0886c06\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"50\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"50\", \"bottom\": \"50\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"20\", \"bottom\": \"40\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"5c7b3d0\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"flex_justify_content\": \"center\", \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"100\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"1b5f643\", \"elType\": \"widget\", \"settings\": {\"title\": \"Über Uns\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"77f9f79\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 18}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"f59def6\", \"elType\": \"widget\", \"settings\": {\"editor\": \"<p>Das Baugeschäft Müller wurde 1920 durch Arthur Müller gegründet. Zusammen mit einer handvoll engagierter Mitarbeiter gelang es ihm, sich durch ein hohes Maß an Fachkompetenz und Fleiß in der örtlichen Baubranche zu etablieren. Nach dem Krieg half er durch den Bau von Wohnhäusern und der Rekonstruktion von Kirchen sowie der Errichtung von landwirtschaftlichen und öffentlichen Gebäuden beim Wiederaufbau der Region.</p>\", \"typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"typography_line_height\": {\"unit\": \"em\", \"size\": \"\"}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"typography_font_size_mobile\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}, {\"id\": \"ce0a3ed\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"min_height\": {\"unit\": \"px\", \"size\": 0, \"sizes\": []}, \"animation\": \"fadeInRight\", \"animation_duration\": \"slow\"}, \"elements\": [{\"id\": \"4e8a95a\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 857, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/03/uberuns3.jpg\", \"alt\": \"Baugeschäft Müller Hohnbach\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 64}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 105}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 74}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 347}, \"image_size\": \"custom\"}, \"elements\": [], \"widgetType\": \"image\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"b34eaf4\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"50\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"50\", \"bottom\": \"50\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"20\", \"bottom\": \"40\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"3e6266f\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\", \"animation\": \"fadeInLeft\", \"animation_duration\": \"slow\"}, \"elements\": [{\"id\": \"6079c87\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 848, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/03/uberuns1.jpg\", \"alt\": \"Baugeschäft Müller Hohnbach\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 100}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 105}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 74}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 347}, \"image_size\": \"full\"}, \"elements\": [], \"widgetType\": \"image\"}], \"isInner\": true}, {\"id\": \"ac97c64\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"flex_justify_content\": \"center\", \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"100\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"20\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"0665916\", \"elType\": \"widget\", \"settings\": {\"title\": \"1952\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\", \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"25\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"3c2e7b8\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 18}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"25\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"0e2f964\", \"elType\": \"widget\", \"settings\": {\"editor\": \"<p>übernahm Fridwald Müller das Geschäft und führte es erfolgreich weiter, dennoch wurde es 1972 verstaatlicht. Aber auch als VEB stand der Betrieb immer für hohe Qualität und handwerkliches Können. So überstand er auch die Wirren der Wendejahre und ging 1991 wieder in den Familienbesitz über.</p>\", \"align_mobile\": \"center\", \"_margin_mobile\": {\"unit\": \"px\", \"top\": \"-5\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"25\", \"isLinked\": false}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"0bb5358\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"50\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"50\", \"bottom\": \"50\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"60\", \"right\": \"20\", \"bottom\": \"40\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"207d4a0\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"flex_justify_content\": \"center\", \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"100\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"4e0a506\", \"elType\": \"widget\", \"settings\": {\"title\": \"Seit 1996 & heute in 4. Generation\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"2e83aa6\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 18}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"2a4adac\", \"elType\": \"widget\", \"settings\": {\"editor\": \"<p>wurde das Unternehmen durch Thomas Müller geleitet. Er führte das traditionelle Handwerk fort und verband es mit moderner Technik, um weiterhin hohe Qualität und guten Service garantieren zu können. Tobias Müller übernahm in 4. Generation im Jahr 2021 das Geschäft, um das traditionsreiche Familienunternehmen fortzuführen.</p><div> </div>\", \"typography_font_size\": {\"unit\": \"px\", \"size\": \"\"}, \"typography_line_height\": {\"unit\": \"em\", \"size\": \"\"}, \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"typography_font_size_mobile\": {\"unit\": \"px\", \"size\": \"\"}, \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}, {\"id\": \"2fc26b8\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"10\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"content_width\": \"full\", \"animation\": \"fadeInRight\", \"animation_duration\": \"slow\"}, \"elements\": [{\"id\": \"41e8c70\", \"elType\": \"widget\", \"settings\": {\"image\": {\"id\": 703, \"url\": \"https://bau-müller.eu/wp-content/uploads/2022/02/uberunssw.jpg\", \"alt\": \"\", \"source\": \"library\"}, \"width\": {\"unit\": \"%\", \"size\": 100}, \"css_filters_css_filter\": \"custom\", \"css_filters_brightness\": {\"unit\": \"px\", \"size\": 105}, \"css_filters_contrast\": {\"unit\": \"px\", \"size\": 96}, \"css_filters_saturate\": {\"unit\": \"px\", \"size\": 74}, \"image_border_radius\": {\"unit\": \"px\", \"top\": \"4\", \"right\": \"4\", \"bottom\": \"4\", \"left\": \"4\", \"isLinked\": true}, \"image_box_shadow_box_shadow_type\": \"yes\", \"image_box_shadow_box_shadow\": {\"horizontal\": 10, \"vertical\": 10, \"blur\": 0, \"spread\": 1, \"color\": \"rgba(0,0,0,0.07)\"}, \"css_filters_hue\": {\"unit\": \"px\", \"size\": 347}, \"image_size\": \"full\"}, \"elements\": [], \"widgetType\": \"image\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"cb51164\", \"elType\": \"container\", \"settings\": {\"structure\": \"20\", \"padding\": {\"unit\": \"px\", \"top\": \"50\", \"right\": \"0\", \"bottom\": \"100\", \"left\": \"0\", \"isLinked\": false}, \"margin_tablet\": {\"unit\": \"px\", \"top\": \"\", \"right\": 0, \"bottom\": \"\", \"left\": 0, \"isLinked\": true}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"50\", \"bottom\": \"55\", \"left\": \"50\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"40\", \"right\": \"20\", \"bottom\": \"60\", \"left\": \"20\", \"isLinked\": false}, \"flex_direction\": \"row\", \"flex_align_items\": \"stretch\", \"flex_gap\": {\"size\": 10, \"unit\": \"px\"}}, \"elements\": [{\"id\": \"f03057b\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"100\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"20\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"1dbc737\", \"elType\": \"widget\", \"settings\": {\"title\": \"Das können wir alles!\", \"header_size\": \"h4\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\", \"typography_line_height_tablet\": {\"unit\": \"em\", \"size\": \"\"}, \"typography_line_height_mobile\": {\"unit\": \"em\", \"size\": \"\"}}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"0b683c6\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"align\": \"left\", \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 15}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"2dabf19\", \"elType\": \"widget\", \"settings\": {\"editor\": \"<p>Mit unserem Meisterbetrieb haben Sie einen zuverlässigen und kompetenten Partner in Sachen Maurer-, Holzbau- und Betonarbeiten an Ihrer Seite. Ob Wohnungs- oder Gewerbebau, ob Neubau, Sanierung, Innenausbau oder Rekonstruktion – bei uns sind Sie genau richtig.</p>\", \"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"_padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": true}}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}, {\"id\": \"cd79d69\", \"elType\": \"container\", \"settings\": {\"_column_size\": 50, \"width\": {\"size\": null, \"unit\": \"%\"}, \"padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"100\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"margin_mobile\": {\"unit\": \"px\", \"top\": \"30\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"padding_tablet\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"20\", \"isLinked\": false}, \"padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"content_width\": \"full\"}, \"elements\": [{\"id\": \"516d836\", \"elType\": \"widget\", \"settings\": {\"title\": \"Qualität seit 1920\", \"header_size\": \"h4\", \"align\": \"left\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": \"\"}, \"align_mobile\": \"center\"}, \"elements\": [], \"widgetType\": \"heading\"}, {\"id\": \"48f11b3\", \"elType\": \"widget\", \"settings\": {\"weight\": {\"unit\": \"px\", \"size\": 3}, \"width\": {\"unit\": \"%\", \"size\": 10}, \"align\": \"left\", \"gap\": {\"unit\": \"px\", \"size\": 0}, \"width_mobile\": {\"unit\": \"%\", \"size\": 15}, \"align_mobile\": \"center\", \"text\": \"Divider\", \"__globals__\": {\"color\": \"globals/colors?id=astglobalcolor0\"}}, \"elements\": [], \"widgetType\": \"divider\"}, {\"id\": \"1b9e93f\", \"elType\": \"widget\", \"settings\": {\"_padding\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"align_mobile\": \"center\", \"_padding_mobile\": {\"unit\": \"px\", \"top\": \"0\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"editor\": \"<p>Wir betreuen Sie bei Ihrem Bauvorhaben von der Analyse der Ausgangssituation über eine individuelle Beratung bis hin zur fachgerechten Realisierung des Projekts. Dabei verbinden wir traditionelles Handwerk mit moderner Technik und werden so auch höchsten Ansprüchen gerecht.</p>\"}, \"elements\": [], \"widgetType\": \"text-editor\"}], \"isInner\": true}], \"isInner\": false}, {\"id\": \"cta_about_section\", \"elType\": \"container\", \"isInner\": false, \"settings\": {\"content_width\": \"boxed\", \"flex_direction\": \"column\", \"flex_align_items\": \"center\", \"flex_justify_content\": \"center\", \"padding\": {\"unit\": \"px\", \"top\": \"70\", \"right\": \"20\", \"bottom\": \"70\", \"left\": \"20\", \"isLinked\": false}, \"background_background\": \"classic\", \"background_color\": \"#f8f9fa\", \"border_border\": \"solid\", \"border_width\": {\"unit\": \"px\", \"top\": \"1\", \"right\": \"0\", \"bottom\": \"0\", \"left\": \"0\", \"isLinked\": false}, \"border_color\": \"#e9ecef\"}, \"elements\": [{\"id\": \"cta_about_h2\", \"elType\": \"widget\", \"widgetType\": \"heading\", \"isInner\": true, \"settings\": {\"title\": \"Möchten Sie Ihr Projekt mit uns besprechen?\", \"header_size\": \"h2\", \"align\": \"center\", \"title_color\": \"#212529\", \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\", \"typography_letter_spacing\": {\"unit\": \"px\", \"size\": -0.5}}, \"elements\": []}, {\"id\": \"cta_about_p\", \"elType\": \"widget\", \"widgetType\": \"text-editor\", \"isInner\": true, \"settings\": {\"editor\": \"<p style=\\\"text-align: center; max-width: 600px; margin: 15px auto 30px auto; color: #6c757d; font-size: 17px; line-height: 1.6;\\\">Lernen Sie uns und unsere Arbeitsweise persönlich kennen. Wir freuen uns auf Ihr Bauvorhaben in Colditz und Region.</p>\", \"align\": \"center\"}, \"elements\": []}, {\"id\": \"cta_about_btn\", \"elType\": \"widget\", \"widgetType\": \"button\", \"isInner\": true, \"settings\": {\"text\": \"Jetzt Kontakt aufnehmen\", \"link\": {\"url\": \"https://bau-mueller.eu/contact/\", \"is_external\": \"\", \"nofollow\": \"\", \"custom_attributes\": \"\"}, \"align\": \"center\", \"size\": \"md\", \"button_text_color\": \"#ffffff\", \"background_color\": \"#15779b\", \"border_radius\": {\"unit\": \"px\", \"top\": \"30\", \"right\": \"30\", \"bottom\": \"30\", \"left\": \"30\", \"isLinked\": true}, \"typography_typography\": \"custom\", \"typography_font_weight\": \"600\"}, \"elements\": []}]}]",
+    "_elementor_page_settings": {
+      "astra_sites_main_color": "var(--ast-global-color-0)",
+      "astra_sites_heading_base_color": "var(--ast-global-color-2)",
+      "astra_sites_link_color": "var(--ast-global-color-0)",
+      "astra_sites_link_hover_color": "var(--ast-global-color-1)",
+      "astra_sites_text_color": "var(--ast-global-color-3)",
+      "astra_sites_body_typography": "custom",
+      "astra_sites_body_font_size": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_body_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_body_line_height": {
+        "unit": "em",
+        "size": 1.7
+      },
+      "astra_sites_body_font_family": "Noto Sans",
+      "astra_sites_body_font_weight": "400",
+      "astra_sites_heading_1_typography": "custom",
+      "astra_sites_heading_1_font_size": {
+        "unit": "px",
+        "size": 64
+      },
+      "astra_sites_heading_1_font_size_tablet": {
+        "unit": "px",
+        "size": 44
+      },
+      "astra_sites_heading_1_font_size_mobile": {
+        "unit": "px",
+        "size": 30
+      },
+      "astra_sites_default_heading_font_family": "'Montserrat', sans-serif",
+      "astra_sites_heading_1_font_family": "'Montserrat'",
+      "astra_sites_heading_1_font_weight": "700",
+      "astra_sites_heading_1_text_transform": "uppercase",
+      "astra_sites_heading_2_typography": "custom",
+      "astra_sites_heading_2_font_size": {
+        "unit": "px",
+        "size": 34
+      },
+      "astra_sites_heading_2_font_size_tablet": {
+        "unit": "px",
+        "size": 32
+      },
+      "astra_sites_heading_2_font_size_mobile": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_2_line_height": {
+        "unit": "em",
+        "size": 1.4
+      },
+      "astra_sites_heading_2_font_family": "'Montserrat'",
+      "astra_sites_heading_2_font_weight": "700",
+      "astra_sites_heading_2_text_transform": "uppercase",
+      "astra_sites_heading_3_typography": "custom",
+      "astra_sites_heading_3_font_size": {
+        "unit": "px",
+        "size": 24
+      },
+      "astra_sites_heading_3_font_family": "'Montserrat'",
+      "astra_sites_heading_3_font_weight": "700",
+      "astra_sites_heading_4_typography": "custom",
+      "astra_sites_heading_4_font_size": {
+        "unit": "px",
+        "size": 20
+      },
+      "astra_sites_heading_4_font_size_mobile": {
+        "unit": "px",
+        "size": 19
+      },
+      "astra_sites_heading_4_font_family": "'Montserrat'",
+      "astra_sites_heading_4_font_weight": "700",
+      "astra_sites_heading_5_typography": "custom",
+      "astra_sites_heading_5_font_size": {
+        "unit": "px",
+        "size": 18
+      },
+      "astra_sites_heading_5_font_size_mobile": {
+        "unit": "px",
+        "size": 16
+      },
+      "astra_sites_heading_5_font_family": "'Montserrat'",
+      "astra_sites_heading_5_font_weight": "700",
+      "astra_sites_heading_6_typography": "custom",
+      "astra_sites_heading_6_font_size": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_size_mobile": {
+        "unit": "px",
+        "size": 15
+      },
+      "astra_sites_heading_6_font_family": "'Montserrat'",
+      "astra_sites_heading_6_font_weight": "700",
+      "astra_sites_page_setting_enable": "",
+      "ha_grid_number": "",
+      "ha_grid_zindex": "1000",
+      "eael_ext_toc_title": "Table of Contents"
+    },
+    "_elementor_conditions": []
+  },
+  "permalink_template": "https://bau-mueller.eu/%pagename%/",
+  "generated_slug": "ueber-uns-tradition-in-4-generation",
+  "class_list": [
+    "post-541",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Über uns: Tradition in 4. Generation | Baugeschäft Müller</title>\n<meta name=\"description\" content=\"100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit &amp; Fachkompetenz.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://bau-mueller.eu/about/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Über uns: Tradition in 4. Generation | Baugeschäft Müller\" />\n<meta property=\"og:description\" content=\"100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit &amp; Fachkompetenz.\" />\n<meta property=\"og:url\" content=\"https://bau-mueller.eu/about/\" />\n<meta property=\"og:site_name\" content=\"Zimmerei &amp; Baugeschäft Müller\" />\n<meta property=\"article:modified_time\" content=\"2026-09-12T11:18:49+00:00\" />\n<meta property=\"og:image\" content=\"http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Geschätzte Lesezeit\" />\n\t<meta name=\"twitter:data1\" content=\"2 Minuten\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/about\\/\",\"name\":\"Über uns: Tradition in 4. Generation | Baugeschäft Müller\",\"isPartOf\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/#primaryimage\"},\"thumbnailUrl\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/03\\/uberuns3.jpg\",\"datePublished\":\"2018-11-27T09:17:08+00:00\",\"dateModified\":\"2026-09-12T11:18:49+00:00\",\"description\":\"100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit & Fachkompetenz.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/#breadcrumb\"},\"inLanguage\":\"de\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/bau-mueller.eu\\/about\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/#primaryimage\",\"url\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/03\\/uberuns3.jpg\",\"contentUrl\":\"http:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/03\\/uberuns3.jpg\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/about\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https:\\/\\/bau-mueller.eu\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Über uns: Tradition in 4. Generation\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#website\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"name\":\"Zimmerei &amp; Baugeschäft Müller\",\"description\":\"Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz\",\"publisher\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/bau-mueller.eu\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"de\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#organization\",\"name\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\",\"url\":\"https:\\/\\/bau-mueller.eu\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"de\",\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"contentUrl\":\"https:\\/\\/bau-mueller.eu\\/wp-content\\/uploads\\/2022\\/04\\/logomueller.png\",\"width\":512,\"height\":384,\"caption\":\"Zimmerei & Baugeschäft Arthur Müller e.K.\"},\"image\":{\"@id\":\"https:\\/\\/bau-mueller.eu\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Über uns: Tradition in 4. Generation | Baugeschäft Müller",
+    "description": "100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit & Fachkompetenz.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://bau-mueller.eu/about/",
+    "og_locale": "de_DE",
+    "og_type": "article",
+    "og_title": "Über uns: Tradition in 4. Generation | Baugeschäft Müller",
+    "og_description": "100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit & Fachkompetenz.",
+    "og_url": "https://bau-mueller.eu/about/",
+    "og_site_name": "Zimmerei &amp; Baugeschäft Müller",
+    "article_modified_time": "2026-09-12T11:18:49+00:00",
+    "og_image": [
+      {
+        "url": "http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg",
+        "type": "",
+        "width": "",
+        "height": ""
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Geschätzte Lesezeit": "2 Minuten"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bau-mueller.eu/about/",
+          "url": "https://bau-mueller.eu/about/",
+          "name": "Über uns: Tradition in 4. Generation | Baugeschäft Müller",
+          "isPartOf": {
+            "@id": "https://bau-mueller.eu/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bau-mueller.eu/about/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/about/#primaryimage"
+          },
+          "thumbnailUrl": "http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg",
+          "datePublished": "2018-11-27T09:17:08+00:00",
+          "dateModified": "2026-09-12T11:18:49+00:00",
+          "description": "100+ Jahre Handwerkstradition in Colditz: Dipl.-Ing. Tobias Müller führt den Meisterbetrieb in 4. Generation. Qualität, Zuverlässigkeit & Fachkompetenz.",
+          "breadcrumb": {
+            "@id": "https://bau-mueller.eu/about/#breadcrumb"
+          },
+          "inLanguage": "de",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bau-mueller.eu/about/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "de",
+          "@id": "https://bau-mueller.eu/about/#primaryimage",
+          "url": "http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg",
+          "contentUrl": "http://bau-mueller.eu/wp-content/uploads/2022/03/uberuns3.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bau-mueller.eu/about/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Startseite",
+              "item": "https://bau-mueller.eu/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Über uns: Tradition in 4. Generation"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bau-mueller.eu/#website",
+          "url": "https://bau-mueller.eu/",
+          "name": "Zimmerei &amp; Baugeschäft Müller",
+          "description": "Meisterbetrieb für Holzbau, Sanierung &amp; Massivbau in Colditz",
+          "publisher": {
+            "@id": "https://bau-mueller.eu/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bau-mueller.eu/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "de"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://bau-mueller.eu/#organization",
+          "name": "Zimmerei & Baugeschäft Arthur Müller e.K.",
+          "url": "https://bau-mueller.eu/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "de",
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/",
+            "url": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "contentUrl": "https://bau-mueller.eu/wp-content/uploads/2022/04/logomueller.png",
+            "width": 512,
+            "height": 384,
+            "caption": "Zimmerei & Baugeschäft Arthur Müller e.K."
+          },
+          "image": {
+            "@id": "https://bau-mueller.eu/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/comments?post=541"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2576,
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541/revisions/2576"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/media?parent=541"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://bau-mueller.eu/wp-json/wp/v2/pages/541"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

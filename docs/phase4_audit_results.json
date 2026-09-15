@@ -4,8 +4,8 @@
     "h1": [
       "Präziser Holzbau & solide Handwerkskunst."
     ],
-    "h2_count": 6,
-    "h3_count": 9,
+    "h2_count": 7,
+    "h3_count": 12,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg",
@@ -52,8 +52,24 @@
         "alt": "Putzsanierung Kirchturm Zschirla"
       },
       {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "EU-Förderung Werkstatt der Zukunft"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg",
+        "alt": "Pellets und Holzbriketts aus Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2018/11/c3ea0d76-5cd2-4630-a414-be8fb83a1031.webp",
+        "alt": "Sägewerk Lohnschnitt Zuschnitt"
+      },
+      {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg",
         "alt": "Historisches Foto: Handwerker der Zimmerei Arthur Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
       }
     ],
     "images_missing_alt": [],
@@ -62,6 +78,7 @@
       "#werkstatt",
       "/projects/",
       "#nachhaltigkeit",
+      "/aktuelles/",
       "/about/",
       "/",
       "tel:+493438143336",
@@ -70,6 +87,7 @@
       "/leistungen/",
       "#werkstatt",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "#nachhaltigkeit",
       "tel:+493438143336",
@@ -81,15 +99,23 @@
       "#ueber-uns",
       "#kontakt",
       "#projekte",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/",
+      "/lohnschnitt-im-neuen-saegewerk/",
       "#kontakt",
       "tel:+493438143336",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/",
       "#"
     ],
     "tel_links": [
@@ -130,6 +156,10 @@
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
         "alt": "Holzreste werden zu Brennstoffen veredelt"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
       }
     ],
     "images_missing_alt": [],
@@ -138,6 +168,7 @@
       "/#werkstatt",
       "/projects/",
       "/#nachhaltigkeit",
+      "/aktuelles/",
       "/about/",
       "/",
       "tel:+493438143336",
@@ -146,6 +177,7 @@
       "/leistungen/",
       "/#werkstatt",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "/#nachhaltigkeit",
       "tel:+493438143336",
@@ -156,7 +188,17 @@
       "#kontakt",
       "#kontakt",
       "tel:+493438143336",
-      "somerville_prototype.html"
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -200,6 +242,10 @@
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachreiter-Neubau-Leipzig.jpeg",
         "alt": "Dachreiter Neubau Leipzig"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
       }
     ],
     "images_missing_alt": [],
@@ -208,6 +254,7 @@
       "/#werkstatt",
       "/projects/",
       "/#nachhaltigkeit",
+      "/aktuelles/",
       "/about/",
       "/",
       "tel:+493438143336",
@@ -216,12 +263,23 @@
       "/leistungen/",
       "/#werkstatt",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "/#nachhaltigkeit",
       "tel:+493438143336",
       "#kontakt",
       "tel:+493438143336",
-      "somerville_prototype.html"
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -257,6 +315,10 @@
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start2-768x513.jpg",
         "alt": "Traditionelle Werkstatt"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
       }
     ],
     "images_missing_alt": [],
@@ -273,12 +335,23 @@
       "/leistungen/",
       "/#werkstatt",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "/#nachhaltigkeit",
       "tel:+493438143336",
       "#kontakt",
       "tel:+493438143336",
-      "somerville_prototype.html"
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -310,6 +383,10 @@
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
         "alt": "Sägemaschinen Zuschnitt"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
       }
     ],
     "images_missing_alt": [],
@@ -317,6 +394,7 @@
       "/leistungen/",
       "/leistungen/zimmerei-holzbau/",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "/",
       "tel:+493438143336",
@@ -325,6 +403,7 @@
       "/leistungen/",
       "/leistungen/zimmerei-holzbau/",
       "/projects/",
+      "/aktuelles/",
       "/about/",
       "tel:+493438143336",
       "#kontakt",
@@ -332,7 +411,99 @@
       "#leistungen",
       "#kontakt",
       "tel:+493438143336",
-      "leistungen_prototype.html"
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  },
+  "aktuelles": {
+    "title": "NEU – Aktuelles",
+    "h1": [
+      "Aktuelles & Einblicke aus Meisterhand."
+    ],
+    "h2_count": 7,
+    "h3_count": 0,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "EFRE EU und Freistaat Sachsen Förderlogos Werkstatt der Zukunft"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg",
+        "alt": "Pellets und Holzbriketts aus eigener Produktion in Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2018/11/c3ea0d76-5cd2-4630-a414-be8fb83a1031.webp",
+        "alt": "Sägewerk Lohnschnitt Zuschnittservice Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Putzsanierung-Kirchturm-Zschirla.jpeg",
+        "alt": "Putz- und Holzarbeiten an historischem Kirchturm in Zschirla"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg",
+        "alt": "Präziser Holzbau und Binderkonstruktionen Zimmerei Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2024/06/aa704001-60a5-40bb-86b0-15f04b8ce571.webp",
+        "alt": "Energetische Sanierung und Fassadendämmung Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
+        "alt": "Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "/projects/",
+      "/aktuelles/",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "/projects/",
+      "/aktuelles/",
+      "/about/",
+      "tel:+493438143336",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/",
+      "/lohnschnitt-im-neuen-saegewerk/",
+      "/denkmalgerechte-altbausanierung-holzarbeiten-an-historischen-gebaeuden/",
+      "/binderdachstuhl/",
+      "/waermedaemmung-fuer-meine-fassade/",
+      "tel:+493438143336",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/leistungen/",
+      "/aktuelles/",
+      "/aktuelles/",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
+      "/impressum/",
+      "/datenschutz/"
     ],
     "tel_links": [
       "tel:+493438143336",

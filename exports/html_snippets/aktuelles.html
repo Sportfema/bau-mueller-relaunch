@@ -1,0 +1,592 @@
+<!-- SOMERVILLE ARCHITECTURAL CRAFT DESIGN: NEU – Aktuelles -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+body {
+      background-color: #F8F5EE;
+      color: #1A1918;
+      font-family: 'Inter', sans-serif;
+    }
+    .font-heading {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .btn-pill-dark {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      background-color: #1C1B1A;
+      color: #F8F5EE;
+      font-size: 0.875rem;
+      font-weight: 600;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-dark:hover {
+      background-color: #2D2A26;
+      transform: translateY(-1px);
+    }
+    .btn-pill-light {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      background-color: #F8F5EE;
+      color: #1C1B1A;
+      font-size: 0.875rem;
+      font-weight: 600;
+      transition: all 0.25s ease;
+    }
+    .btn-pill-light:hover {
+      background-color: #FFFFFF;
+      transform: translateY(-1px);
+    }
+    .filter-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.625rem 1.25rem;
+      border-radius: 9999px;
+      font-size: 0.875rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: 1px solid rgba(26, 25, 24, 0.12);
+      background-color: transparent;
+      color: #4A4641;
+    }
+    .filter-pill:hover {
+      border-color: #1A1918;
+      color: #1A1918;
+    }
+    .filter-pill.active {
+      background-color: #1C1B1A;
+      border-color: #1C1B1A;
+      color: #F8F5EE;
+    }
+</style>
+
+<div class="somerville-container w-full bg-[#F8F5EE] text-[#1A1918] antialiased" style="font-family: 'Inter', sans-serif;">
+<!-- TOP HEADER (MINIMALIST, ARCHITECTURAL SOMERVILLE) -->
+  <header class="sticky top-0 z-50 bg-[#F8F5EE]/95 backdrop-blur-md border-b border-[#E8E3D8] transition-all">
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+      
+      <!-- Left: Mobile Menu Toggle Button & Desktop Nav -->
+      <div class="flex items-center gap-6 sm:gap-8">
+        <button id="menu-toggle-btn" class="flex items-center gap-2.5 text-xs font-semibold tracking-wider uppercase text-[#1A1918] hover:text-[#E31936] transition-colors focus:outline-none" aria-label="Menü öffnen">
+          <span class="w-5 flex flex-col gap-1">
+            <span class="block w-5 h-0.5 bg-current transition-all"></span>
+            <span class="block w-3.5 h-0.5 bg-current transition-all"></span>
+          </span>
+          <span class="inline">Menü</span>
+        </button>
+        <nav class="hidden lg:flex items-center gap-7 text-sm font-medium text-[#4A4641]">
+          <a href="/leistungen/" class="hover:text-[#1A1918] transition-colors">Leistungen</a>
+          <a href="/projects/" class="hover:text-[#1A1918] transition-colors">Referenzen</a>
+          <a href="/aktuelles/" class="text-[#E31936] font-semibold">Aktuelles</a>
+          <a href="/about/" class="hover:text-[#1A1918] transition-colors">Über uns</a>
+        </nav>
+      </div>
+
+      <!-- Center: Architectural Brand Identity -->
+      <div class="text-center">
+        <a href="/" class="inline-block">
+          <span class="block font-heading font-extrabold text-lg sm:text-xl md:text-2xl tracking-tight text-[#1A1918] uppercase">
+            Arthur Müller
+          </span>
+          <span class="block text-[9px] sm:text-[10px] tracking-[0.25em] uppercase text-[#7A756E] font-medium mt-0.5">
+            Zimmerei & Baugeschäft · Seit 1920
+          </span>
+        </a>
+      </div>
+
+      <!-- Right: Direct Phone CTA & Project Button -->
+      <div class="flex items-center gap-3 sm:gap-4">
+        <a href="tel:+493438143336" class="hidden sm:inline-block text-xs font-semibold text-[#4A4641] hover:text-[#1A1918] transition-colors">
+          034381 43336
+        </a>
+        <a href="#kontakt" class="btn-pill-dark text-xs sm:text-sm">
+          <span>Projekt anfragen</span>
+          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- MOBILE NAVIGATION DRAWER -->
+  <div id="mobile-menu-drawer" class="fixed inset-0 z-[100] transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
+    <div id="mobile-menu-backdrop" class="absolute inset-0 bg-[#1C1B1A]/80 backdrop-blur-md"></div>
+    <div id="mobile-menu-panel" class="absolute top-0 left-0 bottom-0 w-full max-w-sm sm:max-w-md bg-[#1C1B1A] text-[#F8F5EE] shadow-2xl flex flex-col justify-between p-6 sm:p-8 transform -translate-x-full transition-transform duration-300 ease-out border-r border-white/10 overflow-y-auto">
+      <div>
+        <div class="flex items-center justify-between pb-6 border-b border-white/10">
+          <div>
+            <span class="block font-heading font-extrabold text-lg tracking-tight uppercase text-white">
+              Arthur Müller
+            </span>
+            <span class="block text-[10px] tracking-[0.2em] uppercase text-[#A39E93] mt-0.5 font-medium">
+              Zimmerei & Baugeschäft · 1920
+            </span>
+          </div>
+          <button id="mobile-menu-close" class="w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white transition-colors focus:outline-none" aria-label="Menü schließen">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
+
+        <nav class="mt-6 flex flex-col gap-2">
+          <a href="/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
+            <span>Startseite</span>
+            <span class="text-xs text-[#E31936]">01</span>
+          </a>
+          <a href="/leistungen/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
+            <span>Leistungen & Handwerk</span>
+            <span class="text-xs text-[#E31936]">02</span>
+          </a>
+          <a href="/projects/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
+            <span>Referenzen & Bauten</span>
+            <span class="text-xs text-[#E31936]">03</span>
+          </a>
+          <a href="/aktuelles/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
+            <span class="text-[#E31936]">Aktuelles & Magazin</span>
+            <span class="text-xs text-[#E31936]">04</span>
+          </a>
+          <a href="/about/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
+            <span>Über uns (4. Generation)</span>
+            <span class="text-xs text-[#E31936]">05</span>
+          </a>
+        </nav>
+      </div>
+
+      <div class="pt-8 border-t border-white/10 mt-8">
+        <a href="tel:+493438143336" class="btn-pill-light w-full justify-center mb-4 text-sm">
+          <span>034381-43336 anrufen</span>
+        </a>
+        <p class="text-xs text-center text-[#8E887E]">
+          Geithainer Str. 32 · 04680 Colditz<br>
+          Mo–Fr: 08:00 – 15:30 Uhr
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- HERO SECTION -->
+  <section class="pt-20 pb-16 max-w-[1340px] mx-auto px-6">
+    <div class="max-w-3xl">
+      <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+        Werkstatt · Sägewerk · Baustellen · Zukunft
+      </span>
+      <h1 class="font-heading font-extrabold text-4xl sm:text-6xl text-[#1A1918] tracking-tight leading-[1.1] mb-6">
+        Aktuelles & Einblicke aus Meisterhand.
+      </h1>
+      <p class="text-lg text-text-secondary leading-relaxed">
+        Neuigkeiten aus unserer Werkstatt in Colditz: Aktuelle Bauprojekte, Holzbau-Tipps, Wissenswertes zu Kaminpellets und unsere geförderte Zukunftsausstattung.
+      </p>
+    </div>
+
+    <!-- SOMERVILLE CATEGORY FILTER PILLS -->
+    <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 mt-12 pt-8 border-t border-[#1A1918]/10" id="filter-container">
+      <button class="filter-pill active" data-filter="all">Alle Beiträge (6)</button>
+      <button class="filter-pill" data-filter="foerderung">Förderung & Zukunft (1)</button>
+      <button class="filter-pill" data-filter="pellets">Pellets & Sägewerk (2)</button>
+      <button class="filter-pill" data-filter="holzbau">Holzbau & Handwerk (2)</button>
+      <button class="filter-pill" data-filter="denkmal">Denkmal & Sanierung (1)</button>
+    </div>
+  </section>
+
+  <!-- MAGAZINE GRID SECTION -->
+  <section class="pb-28 max-w-[1340px] mx-auto px-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="posts-grid">
+
+      <!-- Post 1: SAB / EU Förderung (Highlight) -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="foerderung">
+        <div>
+          <div class="aspect-[16/10] bg-[#F8F5EE] p-6 flex items-center justify-center relative overflow-hidden border-b border-[#1A1918]/5">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg" 
+              alt="EFRE EU und Freistaat Sachsen Förderlogos Werkstatt der Zukunft" 
+              class="max-h-full max-w-full object-contain transition-transform duration-500 group-hover:scale-105"
+            >
+            <div class="absolute top-4 left-4">
+              <span class="text-[10px] font-bold tracking-wider uppercase px-2.5 py-1 rounded-full bg-[#2563EB] text-white">
+                Offiziell gefördert
+              </span>
+            </div>
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#2563EB] font-semibold">EU & Freistaat Sachsen</span>
+              <span>·</span>
+              <time datetime="2026-03-02">02. März 2026</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Werkstatt der Zukunft – Präzision trifft Tradition
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Unser Projekt zur Modernisierung der Werkstatt wird durch die Europäische Union und den Freistaat Sachsen über die Sächsische Aufbaubank (SAB) gefördert.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/werkstatt-der-zukunft-praezision-trifft-tradition/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Artikel & Details lesen</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Post 2: Kaminpellets -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="pellets">
+        <div>
+          <div class="aspect-[16/10] bg-[#EAE5D9] relative overflow-hidden">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg" 
+              alt="Pellets und Holzbriketts aus eigener Produktion in Colditz" 
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            >
+            <div class="absolute top-4 left-4">
+              <span class="text-[10px] font-bold tracking-wider uppercase px-2.5 py-1 rounded-full bg-[#E31936] text-white">
+                Lagerware
+              </span>
+            </div>
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#E31936] font-semibold">Brennstoffe ab Werk</span>
+              <span>·</span>
+              <time datetime="2023-08-20">20. August 2023</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Wärme mit Stil – Unsere Pellets für Ihren Kamin
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Holen Sie sich hochwertige Holzpellets und Holzbriketts direkt ab Werk. 100% naturbelassen aus eigenen Spänen ohne Bindemittel – effizient heizen.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Preise & Abholung ansehen</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Post 3: Lohnschnitt Sägewerk -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="pellets">
+        <div>
+          <div class="aspect-[16/10] bg-[#EAE5D9] relative overflow-hidden">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2018/11/c3ea0d76-5cd2-4630-a414-be8fb83a1031.webp" 
+              alt="Sägewerk Lohnschnitt Zuschnittservice Colditz" 
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            >
+            <div class="absolute top-4 left-4">
+              <span class="text-[10px] font-bold tracking-wider uppercase px-2.5 py-1 rounded-full bg-[#1A1918] text-white">
+                Werkstattservice
+              </span>
+            </div>
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#1A1918] font-semibold">Sägewerk Colditz</span>
+              <span>·</span>
+              <time datetime="2022-11-04">04. November 2022</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Lohnschnitt im neuen Sägewerk
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Unser Sägewerk schneidet Stämme aller Holzarten zu Balken, Brettern, Dielen, Latten und Kanthölzern – millimetergenau nach Ihren Maßvorgaben.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/lohnschnitt-im-neuen-saegewerk/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Schnittanfrage stellen</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Post 4: Denkmalgerechte Altbausanierung -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="denkmal">
+        <div>
+          <div class="aspect-[16/10] bg-[#EAE5D9] relative overflow-hidden">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2022/04/Putzsanierung-Kirchturm-Zschirla.jpeg" 
+              alt="Putz- und Holzarbeiten an historischem Kirchturm in Zschirla" 
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            >
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#E31936] font-semibold">Denkmalpflege</span>
+              <span>·</span>
+              <time datetime="2024-06-03">03. Juni 2024</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Denkmalgerechte Altbausanierung: Holzarbeiten
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Besondere Sorgfalt und historisches Fachwissen: Wie wir historische Fachwerk- und Dachkonstruktionen originalgetreu ertüchtigen und erhalten.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/denkmalgerechte-altbausanierung-holzarbeiten-an-historischen-gebaeuden/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Fachbericht lesen</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Post 5: Binderdachstuhl -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="holzbau">
+        <div>
+          <div class="aspect-[16/10] bg-[#EAE5D9] relative overflow-hidden">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg" 
+              alt="Präziser Holzbau und Binderkonstruktionen Zimmerei Müller" 
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            >
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#E31936] font-semibold">Zimmerei & Holzbau</span>
+              <span>·</span>
+              <time datetime="2022-11-04">04. November 2022</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Binderdachstuhl – Maßgefertigte Dachkonstruktionen
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Wirtschaftlich, langlebig und flexibel einsetzbar: Warum der Nagelplattenbinder für Hallenbauten und weitgespannte Dächer die erste Wahl ist.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/binderdachstuhl/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Konstruktionsdetails</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+      <!-- Post 6: Wärmedämmung Fassade -->
+      <article class="post-card bg-white rounded-[28px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between border border-[#1A1918]/5 group" data-category="holzbau">
+        <div>
+          <div class="aspect-[16/10] bg-[#EAE5D9] relative overflow-hidden">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2024/06/aa704001-60a5-40bb-86b0-15f04b8ce571.webp" 
+              alt="Energetische Sanierung und Fassadendämmung Colditz" 
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            >
+          </div>
+          <div class="p-6 sm:p-8">
+            <div class="flex items-center gap-3 text-xs text-[#7A756E] mb-3 font-medium">
+              <span class="text-[#E31936] font-semibold">Energetisch Sanieren</span>
+              <span>·</span>
+              <time datetime="2022-11-03">03. November 2022</time>
+            </div>
+            <h2 class="font-heading font-bold text-xl sm:text-2xl text-[#1A1918] mb-3 leading-snug group-hover:text-[#E31936] transition-colors">
+              Was kostet eine Wärmedämmung für die Fassade?
+            </h2>
+            <p class="text-sm text-[#5C564F] leading-relaxed mb-6">
+              Kostenfaktoren, Fördermöglichkeiten und ökologische Dämmstoffe: Warum sich eine professionell ausgeführte Dämmung bereits nach wenigen Jahren rechnet.
+            </p>
+          </div>
+        </div>
+        <div class="px-6 sm:px-8 pb-6 sm:pb-8 pt-0">
+          <a href="/waermedaemmung-fuer-meine-fassade/" class="btn-pill-dark w-full justify-between text-xs sm:text-sm">
+            <span>Ratgeber lesen</span>
+            <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
+  <footer id="kontakt" class="bg-charcoal text-cream pt-20 pb-12 rounded-t-[40px]">
+    <div class="max-w-[1340px] mx-auto px-6 lg:px-10">
+      
+      <!-- Big Bold CTA Headline -->
+      <div class="pb-16 border-b border-white/10 flex flex-col md:flex-row md:items-end justify-between gap-8">
+        <div class="max-w-2xl">
+          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">
+            Kontakt & Vorhaben besprechen
+          </span>
+          <h2 class="font-heading font-bold text-3xl sm:text-5xl text-[#FFFCF5] leading-tight">
+            Bereit für Ihr nächstes Bauvorhaben? Sprechen Sie mit uns.
+          </h2>
+        </div>
+        <div>
+          <a href="tel:+493438143336" class="btn-pill-light text-base">
+            <span>034381-43336 anrufen</span>
+            <svg class="w-4 h-4 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- Offizieller Fördermittelhinweis (SAB & EU / EFRE) -->
+      <div class="my-12 p-6 sm:p-8 rounded-[24px] bg-white text-[#1A1918] shadow-2xl border border-white/20">
+        <div class="flex flex-col lg:flex-row items-center justify-between gap-8">
+          <!-- Offizielles Signet: EU & Freistaat Sachsen -->
+          <div class="w-full lg:w-5/12 flex-shrink-0 flex items-center justify-center lg:justify-start">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg" 
+              alt="Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – Sächsische Aufbaubank (SAB)" 
+              class="max-w-full h-auto max-h-[85px] object-contain"
+              loading="lazy"
+            >
+          </div>
+          
+          <!-- Fördertext & Button -->
+          <div class="w-full lg:w-7/12 flex flex-col sm:flex-row sm:items-center justify-between gap-6">
+            <p class="text-sm sm:text-[15px] italic text-[#3A3632] leading-relaxed">
+              „Unser Projekt <strong>„Werkstatt der Zukunft – Präzision trifft Tradition“</strong> wird durch die Europäische Union und den Freistaat Sachsen unterstützt. Die Maßnahme wird über die Sächsische Aufbaubank (SAB) gefördert.“
+            </p>
+            <a 
+              href="/werkstatt-der-zukunft-praezision-trifft-tradition/" 
+              class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-medium text-sm transition-all duration-200 shrink-0 shadow-md hover:shadow-lg"
+            >
+              <span>Hier geht es zum Artikel</span>
+              <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Navigation & Info Columns -->
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-10 py-16 text-sm">
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Standort</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Zimmerei & Baugeschäft Arthur Müller e.K.<br>
+            Geithainer Str. 32<br>
+            04680 Colditz<br>
+            Inhaber: Dipl.-Ing. Tobias Müller
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Gewerke</h4>
+          <ul class="space-y-2.5 text-muted-dark">
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Zimmerei & Holzbau</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Treppen- & Möbelbau</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Maurer- & Betonarbeiten</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Altbausanierung & Denkmal</a></li>
+            <li><a href="/leistungen/" class="hover:text-white transition-colors">Pellets & Holzbriketts</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Öffnungszeiten</h4>
+          <p class="text-muted-dark leading-relaxed">
+            Montag – Freitag: 08:00 – 15:30 Uhr<br>
+            Pellet-Verkauf & Abholung ab Werk.<br>
+            Telefon: 034381-43336
+          </p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-white text-base mb-4 uppercase tracking-wider text-xs">Aktuelles & Magazin</h4>
+          <ul class="space-y-2.5 text-muted-dark">
+            <li><a href="/aktuelles/" class="hover:text-white transition-colors">Werkstatt & Sägewerk</a></li>
+            <li><a href="/aktuelles/" class="hover:text-white transition-colors">Pellet-Verfügbarkeit</a></li>
+            <li><a href="/werkstatt-der-zukunft-praezision-trifft-tradition/" class="hover:text-white transition-colors">SAB-Förderprojekt</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Bottom Bar & Copyright -->
+      <div class="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-muted-dark">
+        <p>© 2026 Arthur Müller e.K. · Meisterbetrieb seit 1920</p>
+        <div class="flex items-center gap-6">
+          <a href="/impressum/" class="hover:text-white transition-colors">Impressum</a>
+          <a href="/datenschutz/" class="hover:text-white transition-colors">Datenschutz</a>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <script>
+    // MOBILE MENU DRAWER TOGGLE
+    const toggleBtn = document.getElementById('menu-toggle-btn');
+    const drawer = document.getElementById('mobile-menu-drawer');
+    const backdrop = document.getElementById('mobile-menu-backdrop');
+    const panel = document.getElementById('mobile-menu-panel');
+    const closeBtn = document.getElementById('mobile-menu-close');
+    const navLinks = document.querySelectorAll('.mobile-nav-link');
+
+    function openMenu() {
+      drawer.classList.remove('opacity-0', 'pointer-events-none');
+      drawer.classList.add('opacity-100', 'pointer-events-auto');
+      panel.classList.remove('-translate-x-full');
+      panel.classList.add('translate-x-0');
+      toggleBtn.setAttribute('aria-expanded', 'true');
+      drawer.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeMenu() {
+      drawer.classList.remove('opacity-100', 'pointer-events-auto');
+      drawer.classList.add('opacity-0', 'pointer-events-none');
+      panel.classList.remove('translate-x-0');
+      panel.classList.add('-translate-x-full');
+      toggleBtn.setAttribute('aria-expanded', 'false');
+      drawer.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+
+    toggleBtn.addEventListener('click', openMenu);
+    closeBtn.addEventListener('click', closeMenu);
+    backdrop.addEventListener('click', closeMenu);
+    navLinks.forEach(link => link.addEventListener('click', closeMenu));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && drawer.getAttribute('aria-hidden') === 'false') {
+        closeMenu();
+      }
+    });
+
+    // CATEGORY FILTER PILLS
+    const filterButtons = document.querySelectorAll('.filter-pill');
+    const postCards = document.querySelectorAll('.post-card');
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const filter = btn.getAttribute('data-filter');
+
+        postCards.forEach(card => {
+          if (filter === 'all' || card.getAttribute('data-category') === filter) {
+            card.style.display = 'flex';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
+  </script>
+</div>

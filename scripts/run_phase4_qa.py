@@ -9,7 +9,7 @@ PAGES = [
         "title": "NEU – Startseite",
         "post_id": 2595,
         "prototype": r"C:\Users\THOMASPC\.gemini\antigravity\scratch\bau-mueller-relaunch\prototypes\somerville_prototype.html",
-        "preview_url": "https://bau-mueller.eu/?elementor_preview_token=eyJwIjoyNTk1LCJyIjoyNjAwLCJlIjoxNzg5NDUwMzE3fQ.GN9WaZzx-vLdM9NbY8Ld7l0ZYJDEaX9zMRsHwsmbOqU"
+        "preview_url": "https://bau-mueller.eu/?elementor_preview_token=eyJwIjoyNTk1LCJyIjoyNjA5LCJlIjoxNzg5NDUxNzk0fQ.b_4twYw_3caQBrPI5Hncrnq6XFAasf20P2HOtjaMCvg"
     },
     {
         "key": "leistungen",
@@ -38,6 +38,13 @@ PAGES = [
         "post_id": 2604,
         "prototype": r"C:\Users\THOMASPC\.gemini\antigravity\scratch\bau-mueller-relaunch\prototypes\zimmerei_prototype.html",
         "preview_url": "https://bau-mueller.eu/?elementor_preview_token=eyJwIjoyNjA0LCJyIjoyNjA4LCJlIjoxNzg5NDUwMzI5fQ.hihWCWj88dAh884xaoi7p4Pu9eAHtj3O9Uvy7Ezeo-w"
+    },
+    {
+        "key": "aktuelles",
+        "title": "NEU – Aktuelles",
+        "post_id": 2613,
+        "prototype": r"C:\Users\THOMASPC\.gemini\antigravity\scratch\bau-mueller-relaunch\prototypes\aktuelles_prototype.html",
+        "preview_url": "https://bau-mueller.eu/?elementor_preview_token=eyJwIjoyNjEzLCJyIjoyNjE1LCJlIjoxNzg5NDUxNzkwfQ.6CXWUb1zQwz-5TUsiqys3tQsR_SdW8jIb9rB0tWAKZw"
     }
 ]
 

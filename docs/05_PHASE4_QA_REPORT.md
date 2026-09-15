@@ -59,27 +59,39 @@ Im Zuge von Phase 4 wurden alle 111 Links der Prototypen und Templates systemati
   - Schließt per `✕`-Button, Klick auf den transluzenten Frosted-Glass-Hintergrund oder Druck auf die `Escape`-Taste.
   - Unterbindet bei geöffnetem Menü das Hintergrund-Scrolling (`body.overflow = hidden`).
 
+### E. Offizieller SAB / EU Fördermittelhinweis (Rechtssicherheit)
+- Vollständige Integration des offiziellen Fördermittel-Banners gemäß Vorgabe (`media_1789450794532.png`) im Somerville-Footer auf **allen 6 Seiten**:
+  - Hochauflösendes Original-Signet (`EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg`).
+  - Offizieller Fördertext: *„Unser Projekt „Werkstatt der Zukunft – Präzision trifft Tradition“ wird durch die Europäische Union und den Freistaat Sachsen unterstützt. Die Maßnahme wird über die Sächsische Aufbaubank (SAB) gefördert.“*
+  - Direktlink per Pill-Button auf `/werkstatt-der-zukunft-praezision-trifft-tradition/`.
+  - Strikte Einhaltung der EFRE- und Landesrichtlinien bezüglich Schutzzone und Mindestkontrast.
+
+### F. Zero-Destructive Rollback-Sicherheitsnetz
+- Vollständige JSON-Sicherung aller 8 bisherigen Live-Seiten (IDs 540, 541, 542, 7, 543, 2012, 802, 810) in `backups/live_pages_original/`.
+- 1-Klick-Rollback-Skript `scripts/rollback_live.py` und manuelle 2-Klick-Revert-Dokumentation im WordPress-Backend bereitgestellt.
+
 ---
 
-## 3. Multi-Viewport Responsive Matrix (20 Renders)
+## 3. Multi-Viewport Responsive Matrix (24 Renders)
 
-Über Microsoft Edge Headless wurden für alle 5 Seiten strukturierte Screenshots auf 4 Referenzauflösungen erstellt und unter `docs/screenshots/qa_matrix/` archiviert:
+Über Microsoft Edge Headless wurden für alle 6 Seiten strukturierte Screenshots auf Referenzauflösungen erstellt und unter `docs/screenshots/qa_matrix/` archiviert:
 
 1. **375px (Mobile Standard – z. B. iPhone 13/14 Mini, SE)**:
    - Saubere Lesbarkeit der Typografie, kein horizontaler Scrollbalken.
    - Minimalistischer Header mit Menü-Button, zentriertem Markenschriftzug und Pill-Button.
-   - Am unteren Bildschirmrand schwebt die transluzente Frosted-Glass-Actionbar (`034381-43336` & `Projekt anfragen`).
+   - Vertikale Stapelung des SAB-Förderbanners mit idealen Touch-Zielen.
 2. **768px (Tablet Portrait – z. B. Apple iPad)**:
-   - Großzügige Zwischenabstände, zweispaltiges Grid der Leistungskarten.
+   - Großzügige Zwischenabstände, zweispaltiges Grid der Leistungskarten und Beitrags-Karten.
 3. **1024px (Tablet Landscape / Laptop)**:
    - Horizontale Ausrichtung der Navigationsleiste, perfekt zentrierte Wortmarke.
 4. **1440px (Desktop Standard)**:
-   - Volle Pracht der architektonischen Slabs (32px Corner Radius) und des Ken-Burns-Tor-Zooms.
+   - Volle Pracht der architektonischen Slabs (32px Corner Radius), des Ken-Burns-Tor-Zooms und der Magazin-Filter-Pills.
 
 ---
 
 ## 4. Fazit & Empfehlung für Phase 5 (Go-Live)
 
-Die Qualitätssicherung ist **ohne offene Mängel abgeschlossen**. Die 5 Entwurfsseiten sind technisch, optisch und inhaltlich vollständig produktionsreif.
+Die Qualitätssicherung ist **ohne offene Mängel zu 100 % abgeschlossen**. Alle 6 Entwurfsseiten sind technisch, optisch, rechtlich und inhaltlich vollständig produktionsreif.
 
 **Empfehlung**: Freigabe für Phase 5 (Go-Live: Schaltung der Entwürfe auf die Live-Slugs, Einrichten der 301-Weiterleitungen und finale Google-Search-Console-Prüfung).
+

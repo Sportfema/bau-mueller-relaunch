@@ -1,365 +1,192 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zimmerei & Holzbau – Arthur Müller e.K. Colditz</title>
-  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background-color: #F8F5EE;
-      color: #1A1918;
-      -webkit-font-smoothing: antialiased;
-    }
-    h1, h2, h3, h4, .font-heading {
-      font-family: 'Plus Jakarta Sans', sans-serif;
-      letter-spacing: -0.028em;
-    }
-    .bg-cream { background-color: #F8F5EE; }
-    .bg-charcoal { background-color: #1C1B1A; }
-    .bg-charcoal-card { background-color: #262523; }
-    .text-charcoal { color: #1A1918; }
-    .text-cream { color: #FAF7F2; }
-    .text-muted-dark { color: #9C968F; }
-    .accent-red { color: #E31936; }
-
-    .btn-pill-dark {
-      background-color: #1C1B1A;
-      color: #FAF7F2;
-      border-radius: 9999px;
-      padding: 12px 26px;
-      font-size: 14px;
-      font-weight: 600;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      transition: all 0.25s ease;
-    }
-    .btn-pill-dark:hover {
-      background-color: #2F2E2C;
-      transform: translateY(-1px);
-    }
-    .btn-pill-light {
-      background-color: #FAF7F2;
-      color: #1C1B1A;
-      border-radius: 9999px;
-      padding: 12px 26px;
-      font-size: 14px;
-      font-weight: 600;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      transition: all 0.25s ease;
-    }
-    .btn-pill-light:hover {
-      background-color: #FFFFFF;
-      transform: translateY(-1px);
-    }
-  </style>
-</head>
-<body class="selection:bg-[#1C1B1A] selection:text-white">
-
-  <!-- TOP HEADER (MINIMALIST, ARCHITECTURAL SOMERVILLE) -->
-  <header class="sticky top-0 z-50 bg-[#F8F5EE]/95 backdrop-blur-md border-b border-[#E8E3D8] transition-all">
-    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+<!DOCTYP
+  <!-- ARTICLE CONTENT (SOMERVILLE CRAFT EDITORIAL) -->
+  <main class="pt-10 pb-20">
+    <div class="max-w-[1040px] mx-auto px-6">
       
-      <!-- Left: Mobile Menu Toggle Button & Desktop Nav -->
-      <div class="flex items-center gap-6 sm:gap-8">
-        <button id="menu-toggle-btn" class="flex items-center gap-2.5 text-xs font-semibold tracking-wider uppercase text-[#1A1918] hover:text-[#E31936] transition-colors focus:outline-none" aria-label="Menü öffnen">
-          <span class="w-5 flex flex-col gap-1">
-            <span class="block w-5 h-0.5 bg-current transition-all"></span>
-            <span class="block w-3.5 h-0.5 bg-current transition-all"></span>
-          </span>
-          <span class="inline">Menü</span>
-        </button>
-        <nav class="hidden lg:flex items-center gap-7 text-sm font-medium text-[#4A4641]">
-          <a href="/leistungen/" class="hover:text-[#1A1918] transition-colors">Alle Leistungen</a>
-          <a href="/leistungen/zimmerei-holzbau/" class="text-[#1A1918] font-bold border-b-2 border-[#1A1918] pb-0.5">Zimmerei & Holzbau</a>
-          <a href="/projects/" class="hover:text-[#1A1918] transition-colors">Referenzen</a>
-          <a href="/aktuelles/" class="hover:text-[#1A1918] transition-colors">Aktuelles</a>
-          <a href="/about/" class="hover:text-[#1A1918] transition-colors">Über uns</a>
-        </nav>
-      </div>
-
-      <!-- Center: Architectural Brand Identity -->
-      <div class="text-center">
-        <a href="/" class="inline-block">
-          <span class="block font-heading font-extrabold text-lg sm:text-xl md:text-2xl tracking-tight text-[#1A1918] uppercase">
-            Arthur Müller
-          </span>
-          <span class="block text-[9px] sm:text-[10px] tracking-[0.25em] uppercase text-[#7A756E] font-medium mt-0.5">
-            Zimmerei & Baugeschäft · Seit 1920
-          </span>
-        </a>
-      </div>
-
-      <!-- Right: Direct Phone CTA & Project Button -->
-      <div class="flex items-center gap-3 sm:gap-4">
-        <a href="tel:+493438143336" class="hidden sm:inline-block text-xs font-semibold text-[#4A4641] hover:text-[#1A1918] transition-colors">
-          034381 43336
-        </a>
-        <a href="#kontakt" class="btn-pill-dark text-xs sm:text-sm">
-          <span>Dachstuhl anfragen</span>
-          <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+      <!-- Back Link & Breadcrumb -->
+      <div class="mb-8 flex items-center justify-between">
+        <a href="/aktuelles/" class="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-[#6E6963] hover:text-[#E31936] transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
           </svg>
+          <span>Zurück zur Magazin-Übersicht</span>
         </a>
+        <span class="text-xs text-[#A39E93]">EU-Förderprojekt · März 2026</span>
       </div>
-    </div>
-  </header>
 
-  <!-- MOBILE / OFF-CANVAS NAVIGATION DRAWER -->
-  <div id="mobile-menu-drawer" class="fixed inset-0 z-[100] transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
-    <div id="mobile-menu-backdrop" class="absolute inset-0 bg-[#1C1B1A]/80 backdrop-blur-md"></div>
-    <div id="mobile-menu-panel" class="absolute top-0 left-0 bottom-0 w-full max-w-sm sm:max-w-md bg-[#1C1B1A] text-[#F8F5EE] shadow-2xl flex flex-col justify-between p-6 sm:p-8 transform -translate-x-full transition-transform duration-300 ease-out border-r border-white/10 overflow-y-auto">
-      <div>
-        <div class="flex items-center justify-between pb-6 border-b border-white/10">
-          <div>
-            <span class="block font-heading font-extrabold text-lg tracking-tight uppercase text-white">
-              Arthur Müller
-            </span>
-            <span class="block text-[10px] tracking-[0.2em] uppercase text-[#A39E93] mt-0.5 font-medium">
-              Zimmerei & Baugeschäft · 1920
-            </span>
-          </div>
-          <button id="mobile-menu-close" class="w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white transition-colors focus:outline-none" aria-label="Menü schließen">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-            </svg>
-          </button>
+      <!-- Offizieller Fördermittel-Kopfhinweis (SAB & EU / EFRE Pflichtangabe) -->
+      <div class="mb-10 p-6 rounded-[24px] bg-white border border-[#1A1918]/10 shadow-sm flex flex-col sm:flex-row items-center justify-between gap-6">
+        <div class="flex items-center gap-4 shrink-0">
+          <img 
+            src="https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg" 
+            alt="Kofinanziert von der Europäischen Union und dem Freistaat Sachsen – SAB" 
+            class="max-w-[280px] h-auto max-h-[65px] object-contain"
+          >
         </div>
-
-        <nav class="mt-6 flex flex-col gap-2">
-          <a href="/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
-            <span>Startseite</span>
-            <span class="text-xs text-[#E31936]">01</span>
-          </a>
-          <a href="/leistungen/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
-            <span>Alle Leistungen</span>
-            <span class="text-xs text-[#E31936]">02</span>
-          </a>
-          <a href="/leistungen/zimmerei-holzbau/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
-            <span>Zimmerei & Holzbau</span>
-            <span class="text-xs text-[#E31936]">03</span>
-          </a>
-          <a href="/projects/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
-            <span>Referenzen & Bauten</span>
-            <span class="text-xs text-[#E31936]">04</span>
-          </a>
-          <a href="/aktuelles/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors"><span>Aktuelles & Magazin</span><span class="text-xs text-[#E31936]">04</span></a>
-          <a href="/about/" class="mobile-nav-link text-base sm:text-lg font-semibold text-white/90 hover:text-white py-2.5 flex items-center justify-between border-b border-white/5 transition-colors">
-            <span>Über uns (4. Generation)</span>
-            <span class="text-xs text-[#E31936]">05</span>
-          </a>
-        </nav>
-      </div>
-
-      <div class="pt-6 border-t border-white/10 space-y-4 mt-6">
-        <a href="tel:+493438143336" class="w-full py-3 px-4 rounded-full bg-white/10 hover:bg-white/15 text-white flex items-center justify-center gap-2 text-sm font-semibold transition-colors">
-          <svg class="w-4 h-4 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
-          </svg>
-          <span>034381 43336</span>
-        </a>
-        <a href="#kontakt" class="btn-pill-light w-full justify-center text-sm py-3 mobile-nav-link">
-          <span>Dachstuhl anfragen</span>
-          <svg class="w-4 h-4 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
-          </svg>
-        </a>
-        <div class="text-[11px] text-center text-[#A39E93] leading-relaxed">
-          Geithainer Str. 32 · 04680 Colditz<br>
-          Mo–Fr: 08:00 – 15:30 Uhr
+        <div class="text-xs text-[#4A4641] leading-relaxed">
+          <span class="font-bold text-[#1A1918] block mb-1">Gefördert durch die Europäische Union & den Freistaat Sachsen</span>
+          Die Maßnahme wird mit Mitteln des Europäischen Fonds für regionale Entwicklung (EFRE) über die Sächsische Aufbaubank (SAB) unterstützt.
         </div>
       </div>
-    </div>
-  </div>
 
-  <script>
-    (function() {
-      var toggleBtn = document.getElementById('menu-toggle-btn');
-      var drawer = document.getElementById('mobile-menu-drawer');
-      var panel = document.getElementById('mobile-menu-panel');
-      var backdrop = document.getElementById('mobile-menu-backdrop');
-      var closeBtn = document.getElementById('mobile-menu-close');
-      var navLinks = document.querySelectorAll('.mobile-nav-link');
-
-      function openMenu() {
-        if (!drawer) return;
-        drawer.classList.remove('opacity-0', 'pointer-events-none');
-        drawer.classList.add('opacity-100', 'pointer-events-auto');
-        panel.classList.remove('-translate-x-full');
-        panel.classList.add('translate-x-0');
-        document.body.style.overflow = 'hidden';
-      }
-
-      function closeMenu() {
-        if (!drawer) return;
-        drawer.classList.remove('opacity-100', 'pointer-events-auto');
-        drawer.classList.add('opacity-0', 'pointer-events-none');
-        panel.classList.remove('translate-x-0');
-        panel.classList.add('-translate-x-full');
-        document.body.style.overflow = '';
-      }
-
-      if (toggleBtn) toggleBtn.addEventListener('click', openMenu);
-      if (closeBtn) closeBtn.addEventListener('click', closeMenu);
-      if (backdrop) backdrop.addEventListener('click', closeMenu);
-      navLinks.forEach(function(link) {
-        link.addEventListener('click', closeMenu);
-      });
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape') closeMenu();
-      });
-    })();
-  </script>
-
-  <!-- HERO SECTION -->
-  <section class="py-20 px-6 max-w-[1340px] mx-auto border-b border-[#E8E3D8]">
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-      <div class="lg:col-span-7">
-        <span class="text-xs uppercase tracking-[0.2em] font-semibold text-[#E31936] block mb-3">
-          Gewerk 01 · Meisterqualität seit 1920
-        </span>
-        <h1 class="font-heading font-extrabold text-4xl sm:text-6xl text-[#1A1918] leading-[1.1] tracking-tight">
-          Zimmerei, Dachstühle & präzise Abbundtechnik.
+      <!-- Article Header -->
+      <header class="mb-10">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#E31936]/10 text-[#E31936] text-xs font-bold uppercase tracking-wider mb-4">
+          <span class="w-2 h-2 rounded-full bg-[#E31936]"></span>
+          Investition & Werkstatt-Modernisierung
+        </div>
+        <h1 class="font-heading font-extrabold text-3xl sm:text-5xl text-[#1A1918] tracking-tight leading-tight mb-6">
+          Werkstatt der Zukunft – Präzision trifft Tradition
         </h1>
-        <p class="mt-6 text-lg text-[#6E6963] max-w-xl leading-relaxed">
-          Von traditionellen Kehlbalkendächern über moderne Pultdächer bis zu weitgespannten Hallenkonstruktionen. Vorgefertigt im eigenen Werkstattabbund in Colditz für reibungslose Montage auf der Baustelle.
+        <p class="text-lg sm:text-xl text-[#4A4641] leading-relaxed font-light">
+          Wie gezielte Investitionen in modernste Holzbearbeitungstechnik die Angebotsqualität, Maßhaltigkeit und Wettbewerbsfähigkeit unseres Colditzer Meisterbetriebs auf ein neues Niveau heben.
         </p>
-        <div class="mt-8 flex items-center gap-4 flex-wrap">
-          <a href="#kontakt" class="btn-pill-dark">
-            <span>Dachstuhl anfragen</span>
+      </header>
+
+      <!-- Featured Image Banner -->
+      <div class="relative rounded-[32px] overflow-hidden aspect-[21/9] mb-12 shadow-lg bg-[#EAE5D9]">
+        <img 
+          src="https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg" 
+          alt="Modernisierte Werkstatt und Holzbearbeitung Arthur Müller" 
+          class="w-full h-full object-cover"
+        >
+        <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+        <div class="absolute bottom-6 left-6 right-6 text-white text-xs flex justify-between items-end">
+          <span>Werkstatt & Sägewerk Arthur Müller e.K. · Colditz</span>
+          <span class="bg-black/40 backdrop-blur px-3 py-1 rounded-full">Investitionsphase 2026</span>
+        </div>
+      </div>
+
+      <!-- Editorial Article Content -->
+      <div class="bg-white rounded-[32px] p-8 sm:p-12 border border-[#1A1918]/10 shadow-sm space-y-8 text-base text-[#3A3632] leading-relaxed">
+        
+        <p class="text-lg text-[#1A1918] font-medium leading-relaxed">
+          Wer im anspruchsvollen Holzbau langfristig verlässliche Spitzenqualität liefern will, muss in modernste Technik investieren – in Maschinen, handwerkliches Können und präzise Prozesse. Genau diesen Schritt hat die <strong>Zimmerei &amp; das Baugeschäft Arthur Müller e.K.</strong> vollzogen: Mit Unterstützung der Europäischen Union (EFRE) und des Freistaats Sachsen, vermittelt über die Sächsische Aufbaubank (SAB), haben wir unseren Maschinenpark grundlegend modernisiert.
+        </p>
+
+        <div>
+          <h2 class="font-heading font-bold text-2xl text-[#1A1918] mb-4 pb-2 border-b border-[#1A1918]/10">
+            Das Projekt: „Werkstatt der Zukunft – Präzision trifft Tradition“
+          </h2>
+          <p>
+            Traditionelles Handwerk lebt von gewachsenem Erfahrungswissen – und von den optimalen Werkzeugen. Unser Projekt verbindet über 100 Jahre handwerkliche Meisterschaft im Holzbau mit industrieller Schnitt- und Hobelgenauigkeit. Die Förderung durch die EU und den Freistaat Sachsen hat diese zukunftsweisende Investition erst ermöglicht – ein Vertrauensbeweis, für den wir außerordentlich dankbar sind.
+          </p>
+        </div>
+
+        <!-- Machine Cards Grid -->
+        <div>
+          <h3 class="font-heading font-bold text-xl text-[#1A1918] mb-4">
+            Vier neue Hochleistungsmaschinen im Einsatz:
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 not-prose">
+            <div class="p-6 rounded-2xl bg-[#F8F5EE] border border-[#1A1918]/10 hover:border-[#E31936] transition-colors">
+              <span class="text-2xl mb-2 block">🪵</span>
+              <h4 class="font-heading font-bold text-base text-[#1A1918] mb-1">Formatkreissäge</h4>
+              <p class="text-xs text-[#6E6963] leading-relaxed">
+                Millimetergenauer Plattenzuschnitt und exakte Gehrungsschnitte – unverzichtbare Grundlage für passgenaue Holzkonstruktionen und modernen Holzrahmenbau.
+              </p>
+            </div>
+            <div class="p-6 rounded-2xl bg-[#F8F5EE] border border-[#1A1918]/10 hover:border-[#E31936] transition-colors">
+              <span class="text-2xl mb-2 block">⚙️</span>
+              <h4 class="font-heading font-bold text-base text-[#1A1918] mb-1">Doppelbesäumer</h4>
+              <p class="text-xs text-[#6E6963] leading-relaxed">
+                Schnelles und paralleles beidseitiges Besäumen unbesäumter Holzbohlen – steigert den Durchsatz im Sägewerk und minimiert Holzverschnitt nachhaltig.
+              </p>
+            </div>
+            <div class="p-6 rounded-2xl bg-[#F8F5EE] border border-[#1A1918]/10 hover:border-[#E31936] transition-colors">
+              <span class="text-2xl mb-2 block">🔩</span>
+              <h4 class="font-heading font-bold text-base text-[#1A1918] mb-1">Tischfräse</h4>
+              <p class="text-xs text-[#6E6963] leading-relaxed">
+                Höchste Wiederholgenauigkeit bei Nut-, Feder- und Profilfräsungen für historische Restaurierungen, Wangentreppen und Maßinnenausbau.
+              </p>
+            </div>
+            <div class="p-6 rounded-2xl bg-[#F8F5EE] border border-[#1A1918]/10 hover:border-[#E31936] transition-colors">
+              <span class="text-2xl mb-2 block">✂️</span>
+              <h4 class="font-heading font-bold text-base text-[#1A1918] mb-1">Abrichthobelmaschine</h4>
+              <p class="text-xs text-[#6E6963] leading-relaxed">
+                Absolut planebene Oberflächen und winklige Bezugskanten als makellose Basis für alle anschließenden Füge- und Verbindungsschritte.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <h2 class="font-heading font-bold text-2xl text-[#1A1918] mb-4 pb-2 border-b border-[#1A1918]/10">
+            Konkrete Vorteile für unsere Bauherren & Partner
+          </h2>
+          <div class="space-y-4">
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 rounded-full bg-[#E31936] text-white flex items-center justify-center shrink-0 font-bold text-sm mt-0.5">1</div>
+              <div>
+                <h4 class="font-heading font-bold text-base text-[#1A1918]">Höhere Fertigungsqualität &amp; Spezialisierung</h4>
+                <p class="text-sm text-[#5A554E] mt-1">Holzbauteile können nun in Toleranzbereichen gefertigt werden, die sonst nur in der industriellen Vorfertigung üblich sind. Das ermöglicht anspruchsvollste Sonderkonstruktionen, filigrane Treppen und denkmalgerechte Holzprofile.</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 rounded-full bg-[#E31936] text-white flex items-center justify-center shrink-0 font-bold text-sm mt-0.5">2</div>
+              <div>
+                <h4 class="font-heading font-bold text-base text-[#1A1918]">Kürzere Rüstzeiten &amp; schnellere Projektumsetzung</h4>
+                <p class="text-sm text-[#5A554E] mt-1">Die ergonomische und moderne Maschinenführung reduziert Umrüstzeiten auf ein Minimum. Für unsere Auftraggeber bedeutet das: verlässlichere Zeitpläne, zügige Vorfertigung und termingerechte Montage vor Ort.</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 rounded-full bg-[#E31936] text-white flex items-center justify-center shrink-0 font-bold text-sm mt-0.5">3</div>
+              <div>
+                <h4 class="font-heading font-bold text-base text-[#1A1918]">Regionale Wertschöpfung &amp; Arbeitsplatzsicherung</h4>
+                <p class="text-sm text-[#5A554E] mt-1">Die Förderung stärkt unser Handwerksunternehmen dauerhaft im Landkreis Leipzig und Mittelsachsen. Wir halten die Wertschöpfungskette – vom Rundholz im Sägewerk bis zur fertigen Treppe – komplett in der Region.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Pull-Quote -->
+        <div class="p-8 rounded-2xl bg-charcoal text-[#FFFCF5] my-8 relative overflow-hidden">
+          <div class="text-4xl text-[#E31936] font-serif mb-2">„</div>
+          <blockquote class="font-heading font-bold text-lg sm:text-xl leading-snug mb-4">
+            Gutes Handwerk braucht erstklassige Werkzeuge – und manchmal den entscheidenden Impuls, um den nächsten Zukunftsschritt zu gehen. Die EFRE-Förderung war genau dieser Impuls. Wir sind stolz darauf, was wir damit für unsere Kunden und unsere Region aufgebaut haben.
+          </blockquote>
+          <cite class="text-xs text-[#A39E93] not-italic block uppercase tracking-wider">
+            — Dipl.-Ing. Tobias Müller · Inhaber &amp; Zimmermeister, Arthur Müller e.K.
+          </cite>
+        </div>
+
+        <!-- EU Publizitätspflicht Box -->
+        <div class="p-6 sm:p-8 rounded-2xl bg-[#EEF4FF] border-2 border-[#2563EB]/30 text-xs text-[#1E3A8A] leading-relaxed">
+          <div class="flex items-center gap-2 mb-3">
+            <span class="text-lg">🇪🇺</span>
+            <span class="font-bold uppercase tracking-wider text-[#1D4ED8]">Förderkennzeichnung gemäß EU-Publizitätsvorschriften</span>
+          </div>
+          <p class="mb-4">
+            Unser Projekt <strong>„Werkstatt der Zukunft – Präzision trifft Tradition“</strong> wird kofinanziert von der Europäischen Union (Europäischer Fonds für regionale Entwicklung – EFRE) und dem Freistaat Sachsen auf Grundlage des von den Abgeordneten des Sächsischen Landtags beschlossenen Haushaltes. Die Fördermaßnahme wird administriert über die Sächsische Aufbaubank – Förderbank – (SAB).
+          </p>
+          <div class="flex flex-wrap items-center gap-6 pt-3 border-t border-[#2563EB]/20">
+            <img 
+              src="https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg" 
+              alt="EU, Freistaat Sachsen & SAB Logo" 
+              class="max-w-[260px] h-auto object-contain"
+            >
+          </div>
+        </div>
+
+        <!-- Call to Action -->
+        <div class="pt-8 border-t border-[#1A1918]/10 flex flex-col sm:flex-row items-center justify-between gap-6">
+          <div>
+            <h4 class="font-heading font-bold text-lg text-[#1A1918]">Planen Sie ein Bau- oder Holzbauvorhaben?</h4>
+            <p class="text-xs text-[#6E6963] mt-1">Lassen Sie sich unverbindlich von Zimmermeister Tobias Müller beraten.</p>
+          </div>
+          <a href="#kontakt" class="btn-pill-dark shrink-0">
+            <span>Projekt anfragen</span>
             <svg class="w-3.5 h-3.5 text-[#E31936]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
             </svg>
           </a>
-          <a href="#leistungen" class="btn-pill-light border border-[#D8D2C5]">
-            <span>Leistungsspektrum ↓</span>
-          </a>
-        </div>
-      </div>
-
-      <div class="lg:col-span-5">
-        <div class="relative rounded-[28px] overflow-hidden bg-[#EAE5D9] shadow-xl aspect-[4/3]">
-          <img 
-            src="https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg" 
-            alt="Kirchendachstuhl Sanierung Wildenhain" 
-            class="w-full h-full object-cover"
-          >
-          <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
-          <div class="absolute bottom-5 left-5 right-5 text-white text-xs font-semibold">
-            Referenz: Dachstuhlsanierung Kirche Wildenhain
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- LEISTUNGSSPEKTRUM -->
-  <section id="leistungen" class="py-24 max-w-[1340px] mx-auto px-6">
-    <div class="max-w-2xl mb-16">
-      <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-2">Konstruktion & Montage</span>
-      <h2 class="font-heading font-bold text-3xl sm:text-5xl text-[#1A1918]">
-        Unser Leistungsspektrum im Holzbau
-      </h2>
-    </div>
-
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      
-      <div class="p-8 rounded-[24px] bg-[#F2EDE2]">
-        <h3 class="font-heading font-bold text-xl text-[#1A1918] mb-3">Dachstühle Neubau & Sanierung</h3>
-        <p class="text-sm text-[#6E6963] leading-relaxed mb-4">
-          Klassische Satteldächer, Walmdächer, Pultdächer und komplexe Mansarddächer. Wetterfeste und sturmsichere Konstruktionen nach DIN-Vorgaben.
-        </p>
-        <span class="text-xs font-semibold text-[#E31936]">Sattel- · Walm- · Pultdächer</span>
-      </div>
-
-      <div class="p-8 rounded-[24px] bg-[#F2EDE2]">
-        <h3 class="font-heading font-bold text-xl text-[#1A1918] mb-3">Gauben & Dachausbau</h3>
-        <p class="text-sm text-[#6E6963] leading-relaxed mb-4">
-          Schleppgauben, Fledermausgauben und Dreiecksgauben für mehr Licht und Stehhöhe im Dachgeschoss – optisch perfekt auf das Bestandsdach abgestimmt.
-        </p>
-        <span class="text-xs font-semibold text-[#E31936]">Schlepp- · Spitz- · Trapezgauben</span>
-      </div>
-
-      <div class="p-8 rounded-[24px] bg-[#F2EDE2]">
-        <h3 class="font-heading font-bold text-xl text-[#1A1918] mb-3">Carports, Balkone & Hallen</h3>
-        <p class="text-sm text-[#6E6963] leading-relaxed mb-4">
-          Individuell geplante Carports, langlebige Holzbalkone aus witterungsfester Lärche sowie gewerbliche und landwirtschaftliche Holz-Hallenbauten.
-        </p>
-        <span class="text-xs font-semibold text-[#E31936]">Carports · Balkone · Hallen</span>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- WERKSTATTABBUND & SÄGEWERK SLAB (CHARCOAL) -->
-  <section class="px-4 sm:px-6 lg:px-8 py-6">
-    <div class="bg-charcoal text-cream rounded-[36px] px-8 sm:px-14 py-20 max-w-[1380px] mx-auto">
-      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-        
-        <div class="lg:col-span-6">
-          <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-3">Der Bauherren-Vorteil</span>
-          <h2 class="font-heading font-bold text-3xl sm:text-4xl text-[#FFFCF5] leading-tight mb-4">
-            Trockener Vorabbund & millimetergenauer Zuschnitt.
-          </h2>
-          <p class="text-muted-dark text-base leading-relaxed mb-4">
-            In unserer Werkstatt in Colditz schneiden und verblatten wir alle Bauteile trocken und passgenau vor. Das bedeutet für Sie: minimalste Montagezeiten vor Ort auf der Baustelle und ein Dachstuhl, der in Rekordzeit regensicher steht.
-          </p>
-          <p class="text-muted-dark text-sm leading-relaxed mb-6">
-            Zusätzlich bieten wir privaten Waldbesitzern und Bauherren mit eigenem Holz Lohnschnitt in unserem modernen Sägewerk (bis 80 cm Stammdurchmesser und 9 m Länge).
-          </p>
-          <a href="#kontakt" class="btn-pill-light">
-            <span>Beratung anfordern</span>
-            <svg class="w-3.5 h-3.5 text-[#1C1B1A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
-            </svg>
-          </a>
-        </div>
-
-        <div class="lg:col-span-6 grid grid-cols-2 gap-4">
-          <div class="rounded-[20px] overflow-hidden aspect-[4/3] bg-charcoal-card">
-            <img src="https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg" alt="Sägewerk Colditz" class="w-full h-full object-cover">
-          </div>
-          <div class="rounded-[20px] overflow-hidden aspect-[4/3] bg-charcoal-card">
-            <img src="https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg" alt="Sägemaschinen Zuschnitt" class="w-full h-full object-cover">
-          </div>
         </div>
 
       </div>
-    </div>
-  </section>
 
-  <!-- FAQ SECTION -->
-  <section class="py-24 max-w-[1000px] mx-auto px-6">
-    <div class="text-center mb-16">
-      <span class="text-xs font-semibold tracking-widest text-[#E31936] uppercase block mb-2">Häufige Fragen</span>
-      <h2 class="font-heading font-bold text-3xl sm:text-4xl text-[#1A1918]">FAQ zu Zimmerei & Dachstühlen</h2>
     </div>
-
-    <div class="space-y-6">
-      <div class="p-6 rounded-[20px] bg-[#F2EDE2]">
-        <h4 class="font-heading font-bold text-lg text-[#1A1918] mb-2">Wie lange dauert das Aufrichten eines Dachstuhls?</h4>
-        <p class="text-sm text-[#6E6963] leading-relaxed">Durch unseren präzisen Vorabbund im Werk Colditz steht ein Standard-Einfamilienhaus-Dachstuhl meist innerhalb von 1 bis 2 Werktagen regensicher auf dem Bauwerk.</p>
-      </div>
-      <div class="p-6 rounded-[20px] bg-[#F2EDE2]">
-        <h4 class="font-heading font-bold text-lg text-[#1A1918] mb-2">Welche Hölzer kommen zum Einsatz?</h4>
-        <p class="text-sm text-[#6E6963] leading-relaxed">Wir verwenden güteüberwachtes Konstruktionsvollholz (KVH) und Brettschichtholz (BSH) nach DIN-Normen aus nachhaltiger, regionaler Forstwirtschaft.</p>
-      </div>
-      <div class="p-6 rounded-[20px] bg-[#F2EDE2]">
-        <h4 class="font-heading font-bold text-lg text-[#1A1918] mb-2">Übernehmen Sie auch die Entsorgung alter Dächer?</h4>
-        <p class="text-sm text-[#6E6963] leading-relaxed">Ja, im Zuge einer Sanierung übernehmen wir den fachgerechten Rückbau und die ordnungsgemäße Entsorgung des alten Dachstuhls und der Eindeckung.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-    <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
+  </main>
+  <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
     <!-- 7. FOOTER (SOMERVILLE STYLE ARCHITECTURAL SLAB) -->
   <footer id="kontakt" class="bg-charcoal text-cream pt-20 pb-12 rounded-t-[40px]">
     <div class="max-w-[1340px] mx-auto px-6 lg:px-10">

@@ -58,6 +58,14 @@ pages = [
         "slug": "zimmerei-holzbau-neu",
         "prototype": "prototypes/zimmerei_prototype.html",
         "desc": "Einzelleistung Zimmerei & Holzbau mit Dachstuhlkonstruktionen, Werkstattabbund & Sägewerk Vorteil und Holzbau-FAQ."
+    },
+    {
+        "key": "post-2496",
+        "id": 2496,
+        "title": "Werkstatt der Zukunft – Präzision trifft Tradition",
+        "slug": "werkstatt-der-zukunft-praezision-trifft-tradition",
+        "prototype": "prototypes/post_2496_prototype.html",
+        "desc": "SAB/EFRE-Förderprojekt Einzelbeitrag im Somerville Design mit Fördersignet, 4 Maschinenkarten und Meisterzitat."
     }
 ]
 

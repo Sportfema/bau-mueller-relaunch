@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Werkstatt der Zukunft – Modernisierung mit EU-Förderung | Zimmerei Müller</title>
+  <meta name="description" content="Zimmerei Müller investiert mit EU-Förderung (EFRE Sachsen) in modernste Holzbearbeitungsmaschinen – für mehr Qualität, Präzision und Spezialisierung im Holzbau." />
+  <meta name="keywords" content="Zimmerei Müller, Holzbau Sachsen, EU-Förderung EFRE, Zimmerei modernisierung, Holzbearbeitung, Formatkreissäge, Doppelbesäumer, Qualitätsholzbau, SAB Sachsen" />
+  <meta property="og:title" content="Werkstatt der Zukunft – Zimmerei Müller mit EU-Förderung" />
+  <meta property="og:description" content="Mit Unterstützung der EU und des Freistaats Sachsen investiert Zimmerei Müller in präzise Holzbearbeitungstechnik und setzt damit neue Standards im regionalen Holzbau." />
+  <meta property="og:url" content="https://bau-mueller.eu/eu-foerderung" />
+  <meta property="og:type" content="article" />
+  <style>
+    /* ── Reset & Basis ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary:   #2C4A2E;
+      --accent:    #D4820A;
+      --light:     #F7F4EF;
+      --text:      #1E1E1E;
+      --muted:     #5A5A5A;
+      --border:    #D8D0C4;
+      --eu-blue:   #003399;
+      --logo-height: 64px;  /* ← Logohöhe hier zentral ändern */
+    }
+    body {
+      font-family: 'Georgia', serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.75;
+    }
+    a { color: var(--primary); }
+    /* ── EU-Förder-Leiste ── */
+    .eu-banner {
+      background: var(--light);
+      border-bottom: 3px solid var(--eu-blue);
+      padding: 20px 24px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+    }
+    .eu-banner img {
+      height: var(--logo-height);
+      object-fit: contain;
+    }
+    .eu-banner .eu-text {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.82rem;
+      color: var(--eu-blue);
+      max-width: 520px;
+      text-align: left;
+    }
+    .eu-banner .eu-text strong { display: block; margin-bottom: 2px; font-size: 0.88rem; }
+    /* ── HERO ── */
+    .hero {
+      background: var(--primary);
+      color: #fff;
+      padding: 56px 24px 48px;
+      text-align: center;
+    }
+    .hero .eyebrow {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #b8d4b8;
+      margin-bottom: 14px;
+    }
+    .hero h1 {
+      font-size: clamp(1.7rem, 4vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 18px;
+    }
+    .hero h1 span { color: var(--accent); }
+    .hero p {
+      max-width: 640px;
+      margin: 0 auto;
+      font-size: 1.05rem;
+      color: #d4e6d4;
+    }
+    /* ── Artikel-Container ── */
+    .article-wrap {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 52px 24px 72px;
+    }
+    /* ── Meta ── */
+    .meta {
+      font-family: 'Arial', sans-serif;
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 36px;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .meta span::before { content: '📅 '; }
+    .meta span.cat::before { content: '🏷 '; }
+    /* ── Zwischenüberschriften ── */
+    .article-wrap h2 {
+      font-size: 1.45rem;
+      color: var(--primary);
+      margin: 44px 0 14px;
+      padding-left: 14px;
+      border-left: 4px solid var(--accent);
+    }
+    .article-wrap h3 {
+      font-size: 1.1rem;
+      color: var(--primary);
+      margin: 28px 0 8px;
+    }
+    .article-wrap p {
+      margin-bottom: 18px;
+      font-size: 1.02rem;
+    }
+    /* ── Maschinen-Kacheln ── */
+    .machines {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 24px 0 36px;
+    }
+    .machine-card {
+      background: var(--light);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 18px 20px;
+      font-family: 'Arial', sans-serif;
+    }
+    .machine-card .icon { font-size: 1.6rem; margin-bottom: 8px; display: block; }
+    .machine-card .name { font-weight: 700; font-size: 0.95rem; color: var(--primary); }
+    .machine-card .desc { font-size: 0.82rem; color: var(--muted); margin-top: 4px; }
+    /* ── Zitat-Box ── */
+    .quote-box {
+      background: var(--primary);
+      color: #fff;
+      border-radius: 10px;
+      padding: 30px 36px;
+      margin: 40px 0;
+      font-size: 1.1rem;
+      font-style: italic;
+      line-height: 1.7;
+    }
+    .quote-box cite {
+      display: block;
+      margin-top: 14px;
+      font-style: normal;
+      font-size: 0.85rem;
+      color: #b8d4b8;
+      font-family: 'Arial', sans-serif;
+    }
+    /* ── Förderhinweis (Pflichttext) ── */
+    .foerder-box {
+      background: #EEF3FF;
+      border: 2px solid var(--eu-blue);
+      border-radius: 8px;
+      padding: 24px 28px;
+      margin: 44px 0 0;
+      font-family: 'Arial', sans-serif;
+      font-size: 0.9rem;
+      color: var(--eu-blue);
+    }
+    .foerder-box strong { display: block; margin-bottom: 6px; font-size: 0.95rem; }
+    .foerder-logos {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      align-items: center;
+      margin-top: 18px;
+    }
+    .foerder-logos img { height: var(--logo-height); object-fit: contain; }
+    /* ── Responsiv ── */
+    @media (max-width: 540px) {
+      .eu-banner { flex-direction: column; text-align: center; }
+      .eu-banner .eu-text { text-align: center; }
+      .foerder-logos { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <!-- EU-FÖRDER-LEISTE – direkt im ersten Sichtfeld -->
+    <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/EU_Logo.webp"
+         alt="Europäische Union – EFRE" />
+    <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/Sachen.webp"
+         alt="Freistaat Sachsen" />
+    <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/Saechsische_Aufbaubank_201x_logo.svg.webp"
+         alt="Sächsische Aufbaubank SAB" />
+    <p>
+      <strong>Gefördert durch die Europäische Union</strong>
+      Unser Projekt <em>„Werkstatt der Zukunft"</em> wird durch die Europäische Union
+      und den Freistaat Sachsen unterstützt. Die Maßnahme wird über die
+      Sächsische Aufbaubank (SAB) gefördert.
+    </p>
+  <!-- HERO -->
+  <header>
+    <p>Projekt · EU-Förderung · Zimmerei Müller</p>
+    <h1>Werkstatt der Zukunft –<br>Präzision trifft Tradition</h1>
+    <p>Wie gezielte Investitionen in moderne Holzbearbeitungstechnik
+       die Angebotsqualität und Wettbewerbsfähigkeit unserer Zimmerei
+       auf ein neues Niveau heben.</p>
+  </header>
+  <!-- ARTIKEL -->
+  <main>
+    <article>
+        März 2026
+        Unternehmen &amp; Projekte
+        EU-Förderung
+      <p>
+        Wer im Holzbau langfristig erfolgreich sein will, muss in Qualität investieren –
+        in Maschinen, in Können und in Prozesse. Genau das hat die Zimmerei Müller
+        getan: Mit Unterstützung der Europäischen Union (EFRE) und des Freistaats
+        Sachsen, vermittelt über die Sächsische Aufbaubank (SAB), haben wir unsere
+        Werkstatt grundlegend erweitert und modernisiert. Das Ergebnis ist ein Quantensprung in
+        Präzision, Effizienz und Angebotsspezialisierung.
+      </p>
+      <h2>Das Projekt: „Werkstatt der Zukunft – Präzision trifft Tradition"</h2>
+      <p>
+        Handwerk lebt von Erfahrung – und von den richtigen Werkzeugen. Unser Projekt
+        trägt den Titel <strong>„Werkstatt der Zukunft – Präzision trifft Tradition"</strong>
+        und beschreibt genau das: eine Investition, die unsere jahrzehntelange Kompetenz
+        im Holzbau mit modernster Fertigungstechnologie verbindet. Die Förderung durch
+        die EU und den Freistaat Sachsen hat diese Investition überhaupt erst ermöglicht –
+        dafür sind wir außerordentlich dankbar.
+      </p>
+      <h2>Welche Maschinen wurden beschafft?</h2>
+      <p>
+        Im Mittelpunkt der Investition stehen vier hochwertige Holzbearbeitungsmaschinen,
+        die unsere Produktionskette von Grund auf verbessern:
+      </p>
+          🪵
+          Formatkreissäge
+          Präziser Plattenzuschnitt auf den Millimeter genau – Grundlage für passgenaue Holzkonstruktionen.
+          ⚙️
+          Doppelbesäumer
+          Schnelles und exaktes beidseitiges Besäumen von Holzbohlen – mehr Durchsatz, weniger Ausschuss.
+          🔩
+          Tischfräse
+          Profilierung und Fräsarbeiten mit höchster Wiederholgenauigkeit für individuelle Holzprofile.
+          ✂️
+          Abrichthobelmaschine
+          Planebene Oberflächen als Basis für alle weiteren Bearbeitungsschritte – unverzichtbar für maßhaltigen Holzbau.
+      <h2>Was hat sich für unsere Kunden verbessert?</h2>
+      <h3>1. Höhere Angebotsqualität durch Spezialisierung</h3>
+      <p>
+        Durch die neuen Maschinen können wir Holzkomponenten in einer Präzision und
+        Geschwindigkeit fertigen, die vorher nicht möglich war. Das eröffnet uns die
+        Möglichkeit, uns stärker zu spezialisieren: auf anspruchsvolle Dachkonstruktionen,
+        individuelle Sonderprofile und maßgenaue Holzbauteile, die höchste Anforderungen
+        erfüllen.
+      </p>
+      <h3>2. Effizientere Prozesse – weniger Wartezeit für Sie</h3>
+      <p>
+        Moderne Maschinen bedeuten nicht nur bessere Ergebnisse, sondern auch
+        reibungslosere Abläufe in der Werkstatt. Kürzere Rüstzeiten, präzisere
+        Vorarbeit und eine sauberere Arbeitsumgebung tragen dazu bei, dass Aufträge
+        schneller und termingerechter abgewickelt werden. Für unsere Kunden bedeutet
+        das: kürzere Wartezeiten und zuverlässigere Projektplanung.
+      </p>
+      <h3>3. Investition, die ohne Förderung nicht möglich gewesen wäre</h3>
+      <p>
+        Wir möchten an dieser Stelle transparent sein: Diese Investition in Höhe und
+        Breite wäre ohne die EU-Förderung aus dem EFRE-Programm des Freistaats
+        Sachsen in dieser Form nicht realisierbar gewesen. Die SAB hat uns dabei
+        kompetent begleitet. Diese öffentliche Unterstützung erlaubt es uns, als
+        regional verwurzeltes Handwerksunternehmen wettbewerbsfähig zu bleiben und
+        gleichzeitig Arbeitsplätze in der Region zu sichern.
+      </p>
+        „Gutes Handwerk braucht gute Werkzeuge – und manchmal den richtigen
+        Schub, um den nächsten Schritt zu wagen. Die EU-Förderung war genau
+        dieser Schub. Wir sind stolz darauf, was wir damit für unsere Kunden
+        und unseren Betrieb aufgebaut haben."
+        <cite>— Zimmerei Müller, Geschäftsführung</cite>
+      <h2>Warum regionale Förderung Sinn ergibt</h2>
+      <p>
+        Der Europäische Fonds für regionale Entwicklung (EFRE) zielt darauf ab,
+        wirtschaftliche Unterschiede innerhalb der EU auszugleichen und die
+        Wettbewerbsfähigkeit kleiner und mittlerer Unternehmen zu stärken. Handwerksbetriebe
+        wie die Zimmerei Müller sind das Rückgrat der regionalen Wirtschaft: Sie schaffen
+        Arbeitsplätze, halten Wertschöpfung in der Region und prägen das Bild
+        unserer Dörfer und Städte durch qualitätsvolle Bausubstanz. Eine Investition
+        in unsere Werkstatt ist deshalb auch eine Investition in die Region Sachsen.
+      </p>
+      <h2>Was bedeutet das für zukünftige Projekte?</h2>
+      <p>
+        Mit unserer modernisierten Werkstatt sind wir bereit für die Anforderungen
+        der kommenden Jahre: nachhaltiger Holzbau, energieeffiziente Konstruktionen,
+        maßgeschneiderte Lösungen für private Bauherren wie für gewerbliche Auftraggeber.
+        Wenn Sie planen, in nächster Zeit ein Holzbauprojekt zu realisieren –
+        ob Dachstuhl, Carport, Holzrahmenbau oder Sonderkonstruktion – sprechen
+        Sie uns gerne an. Wir freuen uns darauf, Ihnen die Möglichkeiten unserer
+        neu aufgestellten Zimmerei zu zeigen.
+      </p>
+      <!-- PFLICHT-FÖRDERHINWEIS -->
+        <strong>🇪🇺 Förderkennzeichnung gemäß EU-Publizitätspflicht</strong>
+        Unser Projekt <em>„Werkstatt der Zukunft – Präzision trifft Tradition"</em> wird
+        durch die Europäische Union und den Freistaat Sachsen unterstützt.
+        Die Maßnahme wird über die Sächsische Aufbaubank (SAB) gefördert.
+          <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/EU_Logo.webp"
+               alt="Europäische Union – EFRE" />
+          <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/Sachen.webp"
+               alt="Freistaat Sachsen" />
+          <img src="https://bau-mueller.eu/wp-content/uploads/2026/03/Saechsische_Aufbaubank_201x_logo.svg.webp"
+               alt="Sächsische Aufbaubank SAB" />
+    </article>
+  </main>
+</body>
+</html>

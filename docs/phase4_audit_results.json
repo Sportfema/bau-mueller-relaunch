@@ -5,7 +5,7 @@
       "Präziser Holzbau & solide Handwerkskunst."
     ],
     "h2_count": 7,
-    "h3_count": 13,
+    "h3_count": 14,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg",
@@ -98,13 +98,18 @@
       "#leistungen",
       "#ueber-uns",
       "#kontakt",
-      "#projekte",
+      "/projects/",
+      "/projects/",
+      "/projects/",
+      "/projects/",
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/",
       "/lohnschnitt-im-neuen-saegewerk/",
       "#kontakt",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -124,7 +129,9 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
     "has_esc_listener": true
@@ -135,7 +142,7 @@
       "Handwerkliche Meisterschaft vom Holzbau bis zum Massivbau."
     ],
     "h2_count": 6,
-    "h3_count": 1,
+    "h3_count": 2,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
@@ -183,11 +190,17 @@
       "tel:+493438143336",
       "#kontakt",
       "#kontakt",
+      "/zimmerei-holzbau/",
       "#kontakt",
+      "/projects/",
       "#kontakt",
+      "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "#kontakt",
+      "/projects/",
       "#kontakt",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -198,7 +211,8 @@
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/impressum/",
-      "/datenschutz/"
+      "/datenschutz/",
+      "#"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -206,7 +220,9 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
     "has_esc_listener": true
@@ -217,7 +233,7 @@
       "Unsere Referenzen: Handwerkskunst in Bildern."
     ],
     "h2_count": 1,
-    "h3_count": 7,
+    "h3_count": 8,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
@@ -269,6 +285,8 @@
       "tel:+493438143336",
       "#kontakt",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -279,7 +297,8 @@
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/impressum/",
-      "/datenschutz/"
+      "/datenschutz/",
+      "#"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -287,7 +306,9 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
     "has_esc_listener": true
@@ -298,7 +319,7 @@
       "Handwerkliche Beständigkeit über vier Generationen."
     ],
     "h2_count": 3,
-    "h3_count": 8,
+    "h3_count": 9,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg",
@@ -341,6 +362,8 @@
       "tel:+493438143336",
       "#kontakt",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -351,7 +374,8 @@
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/impressum/",
-      "/datenschutz/"
+      "/datenschutz/",
+      "#"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -359,7 +383,9 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
     "has_esc_listener": true
@@ -370,7 +396,7 @@
       "Zimmerei, Dachstühle & präzise Abbundtechnik."
     ],
     "h2_count": 4,
-    "h3_count": 4,
+    "h3_count": 5,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
@@ -411,6 +437,8 @@
       "#leistungen",
       "#kontakt",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -421,7 +449,8 @@
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/impressum/",
-      "/datenschutz/"
+      "/datenschutz/",
+      "#"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -429,7 +458,9 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
     "has_esc_listener": true
@@ -440,7 +471,7 @@
       "Aktuelles & Einblicke aus Meisterhand."
     ],
     "h2_count": 7,
-    "h3_count": 1,
+    "h3_count": 2,
     "images": [
       {
         "src": "https://bau-mueller.eu/wp-content/uploads/2026/03/EFRE-ESF_LO_Kombination_EU-Logo_SachsenSignet-klassisch_HF_RGB_300dpi.jpg",
@@ -493,6 +524,8 @@
       "/binderdachstuhl/",
       "/waermedaemmung-fuer-meine-fassade/",
       "tel:+493438143336",
+      "mailto:info@bau-mueller.eu",
+      "/datenschutz/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/leistungen/",
       "/leistungen/",
@@ -503,7 +536,8 @@
       "/aktuelles/",
       "/werkstatt-der-zukunft-praezision-trifft-tradition/",
       "/impressum/",
-      "/datenschutz/"
+      "/datenschutz/",
+      "#"
     ],
     "tel_links": [
       "tel:+493438143336",
@@ -511,9 +545,11 @@
       "tel:+493438143336"
     ],
     "invalid_tel_links": [],
-    "mailto_links": [],
+    "mailto_links": [
+      "mailto:info@bau-mueller.eu"
+    ],
     "drawer_present": true,
     "has_menu_btn": true,
-    "has_esc_listener": true
+    "has_esc_listener": false
   }
 }

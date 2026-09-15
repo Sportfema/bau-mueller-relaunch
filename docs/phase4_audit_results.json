@@ -1,0 +1,348 @@
+{
+  "startseite": {
+    "title": "NEU – Startseite",
+    "h1": [
+      "Präziser Holzbau & solide Handwerkskunst."
+    ],
+    "h2_count": 6,
+    "h3_count": 9,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2025/08/Tor-Zimmerei-Mueller.jpeg",
+        "alt": "Eingangstor Zimmerei Arthur Müller Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
+        "alt": "Dachstuhlsanierung Kirche Wildenhain - Zimmerei Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg",
+        "alt": "Maßgefertigte Holztreppe Koltzschen - Zimmerei Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Sichtmauerwerk-Röhrsdorf.jpeg",
+        "alt": "Sichtmauerwerk und Naturstein - Baugeschäft Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg",
+        "alt": "Baumstamm-Zuschnitt im neuen Sägewerk Arthur Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
+        "alt": "Präzisions-Zuschnitt an der Sägemaschine"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start2-768x513.jpg",
+        "alt": "Werkstatt der Zimmerei Müller in Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start4-1025x1536.jpg",
+        "alt": "Sägespäne und Holzverwertung ab Werk Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
+        "alt": "Dachstuhlsanierung Kirche Wildenhain"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg",
+        "alt": "Massivholztreppe Koltzschen"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Putzsanierung-Kirchturm-Zschirla.jpeg",
+        "alt": "Putzsanierung Kirchturm Zschirla"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg",
+        "alt": "Historisches Foto: Handwerker der Zimmerei Arthur Müller"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "#werkstatt",
+      "/projects/",
+      "#nachhaltigkeit",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "#werkstatt",
+      "/projects/",
+      "/about/",
+      "#nachhaltigkeit",
+      "tel:+493438143336",
+      "#kontakt",
+      "#leistungen",
+      "#leistungen",
+      "#leistungen",
+      "#leistungen",
+      "#ueber-uns",
+      "#kontakt",
+      "#projekte",
+      "#kontakt",
+      "tel:+493438143336",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  },
+  "leistungen": {
+    "title": "NEU – Leistungen",
+    "h1": [
+      "Handwerkliche Meisterschaft vom Holzbau bis zum Massivbau."
+    ],
+    "h2_count": 6,
+    "h3_count": 0,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
+        "alt": "Zimmerei & Dachstühle"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg",
+        "alt": "Treppenbau & Möbelbau"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg",
+        "alt": "Sägewerk und Lohnschnitt Arthur Müller"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Sichtmauerwerk-Röhrsdorf.jpeg",
+        "alt": "Maurer- & Betonarbeiten"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
+        "alt": "Holzreste werden zu Brennstoffen veredelt"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/#nachhaltigkeit",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/about/",
+      "/#nachhaltigkeit",
+      "tel:+493438143336",
+      "#kontakt",
+      "#kontakt",
+      "#kontakt",
+      "#kontakt",
+      "#kontakt",
+      "#kontakt",
+      "tel:+493438143336",
+      "somerville_prototype.html"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  },
+  "referenzen": {
+    "title": "NEU – Referenzen",
+    "h1": [
+      "Unsere Referenzen: Handwerkskunst in Bildern."
+    ],
+    "h2_count": 1,
+    "h3_count": 6,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
+        "alt": "Dachstuhlsanierung Kirche Wildenhain"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Wangentreppe-viertelgewendelt-Koltzschen.jpeg",
+        "alt": "Viertelgewendelte Holztreppe Koltzschen"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Sichtmauerwerk-Röhrsdorf.jpeg",
+        "alt": "Sichtmauerwerk Röhrsdorf"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Putzsanierung-Kirchturm-Zschirla.jpeg",
+        "alt": "Putzsanierung Kirchturm Zschirla"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Bild-7-1.jpeg",
+        "alt": "Massivholz-Wendeltreppe Leipzig"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachreiter-Neubau-Leipzig.jpeg",
+        "alt": "Dachreiter Neubau Leipzig"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/#nachhaltigkeit",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/about/",
+      "/#nachhaltigkeit",
+      "tel:+493438143336",
+      "#kontakt",
+      "tel:+493438143336",
+      "somerville_prototype.html"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  },
+  "ueberuns": {
+    "title": "NEU – Über uns",
+    "h1": [
+      "Handwerkliche Beständigkeit über vier Generationen."
+    ],
+    "h2_count": 3,
+    "h3_count": 7,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/uberunssw.jpg",
+        "alt": "Historische Zimmerer-Mannschaft Arthur Müller Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg",
+        "alt": "Sägewerk Baumstammzuschnitt"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
+        "alt": "Tischkreissäge Werkstatt"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start2-768x513.jpg",
+        "alt": "Traditionelle Werkstatt"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/#nachhaltigkeit",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "/#werkstatt",
+      "/projects/",
+      "/about/",
+      "/#nachhaltigkeit",
+      "tel:+493438143336",
+      "#kontakt",
+      "tel:+493438143336",
+      "somerville_prototype.html"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  },
+  "zimmerei": {
+    "title": "NEU – Zimmerei & Holzbau",
+    "h1": [
+      "Zimmerei, Dachstühle & präzise Abbundtechnik."
+    ],
+    "h2_count": 4,
+    "h3_count": 3,
+    "images": [
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/04/Dachstuhl-Sanierung-Kirche-Wildenhain.jpeg",
+        "alt": "Kirchendachstuhl Sanierung Wildenhain"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start4-768x1151.jpg",
+        "alt": "Sägewerk Colditz"
+      },
+      {
+        "src": "https://bau-mueller.eu/wp-content/uploads/2022/02/start3-768x513.jpg",
+        "alt": "Sägemaschinen Zuschnitt"
+      }
+    ],
+    "images_missing_alt": [],
+    "links": [
+      "/leistungen/",
+      "/leistungen/zimmerei-holzbau/",
+      "/projects/",
+      "/about/",
+      "/",
+      "tel:+493438143336",
+      "#kontakt",
+      "/",
+      "/leistungen/",
+      "/leistungen/zimmerei-holzbau/",
+      "/projects/",
+      "/about/",
+      "tel:+493438143336",
+      "#kontakt",
+      "#kontakt",
+      "#leistungen",
+      "#kontakt",
+      "tel:+493438143336",
+      "leistungen_prototype.html"
+    ],
+    "tel_links": [
+      "tel:+493438143336",
+      "tel:+493438143336",
+      "tel:+493438143336"
+    ],
+    "invalid_tel_links": [],
+    "mailto_links": [],
+    "drawer_present": true,
+    "has_menu_btn": true,
+    "has_esc_listener": true
+  }
+}

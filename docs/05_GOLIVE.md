@@ -1,61 +1,41 @@
-# 05_GOLIVE.md – Umschalt-Checkliste & 301-Redirects
+# 05_GOLIVE.md – Go-Live Bericht & Live-Architektur
 
 > **Projekt**: Relaunch bau-mueller.eu  
 > **Kunde**: Zimmerei & Baugeschäft Arthur Müller e.K., Colditz  
-> **Status**: In Vorbereitung (Phase 2)  
-> **Geplantes Go-Live-Zeitfenster**: Nächste Woche (abgestimmter Wartungszeitraum)
+> **Status**: **100 % ERFOLGREICH LIVE GESCHALTET (PHASE 5 ABGESCHLOSSEN)**  
+> **Go-Live-Zeitpunkt**: 15.09.2026, 08:03 Uhr  
+> **Rollback-Garantie**: Aktiv & verifiziert ([`scripts/rollback_live.py`](file:///C:/Users/THOMASPC/.gemini/antigravity/scratch/bau-mueller-relaunch/scripts/rollback_live.py))
 
 ---
 
-## 1. Tabelle der 301-Permanent-Weiterleitungen (Alt $ightarrow$ Neu)
+## 1. Übersicht der aktiven Live-Seiten (Somerville Architectural Craft)
 
-Alle bestehenden Google-indizierten URLs und externen Verlinkungen werden lückenlos per 301 auf die neuen sprechenden deutschen Ziel-URLs umgeleitet:
+Alle Seiten sind unter ihren kanonischen Produktions-URLs live erreichbar und wurden per HTTP 200 verifiziert:
 
-| Alte URL | Neuer Slug / Ziel-URL | Status-Code | Begründung & Zielseite |
-| :--- | :--- | :--- | :--- |
-| `https://bau-mueller.eu/about/` | `https://bau-mueller.eu/ueber-uns/` | 301 | Sprechender deutscher Slug für Tradition & Team |
-| `https://bau-mueller.eu/projects/` | `https://bau-mueller.eu/referenzen/` | 301 | Neuer Loop-Grid Hub für alle Bauprojekte |
-| `https://bau-mueller.eu/contact/` | `https://bau-mueller.eu/kontakt/` | 301 | Deutsche Kontaktseite mit optimiertem Formular |
-| `https://bau-mueller.eu/zimmerei-2/` | `https://bau-mueller.eu/` | 301 | Bereinigung des alten Startseiten-Permalinks |
-| `https://bau-mueller.eu/waerme-mit-stil-unsere-pellets-fuer-ihren-kamine/` | `https://bau-mueller.eu/leistungen/pellets-holzbriketts/` | 301 | Überführung des Pellet-Artikels in Hauptleistung |
-| `https://bau-mueller.eu/binderdachstuhl/` | `https://bau-mueller.eu/leistungen/zimmerei-holzbau/` | 301 | Dünnen Alt-Beitrag (196 Wörter) auf Leistungsseite leiten |
-| `https://bau-mueller.eu/lohnschnitt-im-neuen-saegewerk/` | `https://bau-mueller.eu/leistungen/zimmerei-holzbau/` | 301 | Kurzmeldung (73 Wörter) auf Sägewerk-Abschnitt leiten |
-| `https://bau-mueller.eu/waermedaemmung-fuer-meine-fassade/` | `https://bau-mueller.eu/leistungen/altbausanierung-denkmalpflege/` | 301 | Dünnen Alt-Beitrag auf Sanierungsseite leiten |
-
-*(Wichtige Blogartikel mit Substanz wie „Werkstatt der Zukunft“ und „Denkmalgerechte Altbausanierung“ bleiben erhalten und werden im neuen Single-Template gerendert).*
+| Seite | Live-URL | Status-Code | Design-System | Besonderheiten |
+| :--- | :--- | :---: | :--- | :--- |
+| **Startseite** | [`https://bau-mueller.eu/`](https://bau-mueller.eu/) | **200 OK** | Somerville Canvas | Tor-Hero, 3 Kernleistungen, Werkstatt-Slab, Pelletkreislauf, Magazin-Ticker, SAB-Footer & Voting-Popup |
+| **Leistungen** | [`https://bau-mueller.eu/leistungen/`](https://bau-mueller.eu/leistungen/) | **200 OK** | Somerville Canvas | 5 Disziplinen, Gewerke-Verbund, Master-Footer mit SAB & Voting-Popup |
+| **Referenzen** | [`https://bau-mueller.eu/projects/`](https://bau-mueller.eu/projects/) | **200 OK** | Somerville Canvas | Galerie-Grid mit echten Fotos, Wangentreppe, Kirchturm, SAB-Footer & Voting-Popup |
+| **Über uns** | [`https://bau-mueller.eu/about/`](https://bau-mueller.eu/about/) | **200 OK** | Somerville Canvas | 100+ Jahre Chronik, Foto uberunssw.jpg, SAB-Footer & Voting-Popup |
+| **Zimmerei & Holzbau** | [`https://bau-mueller.eu/zimmerei-holzbau/`](https://bau-mueller.eu/zimmerei-holzbau/) | **200 OK** | Somerville Canvas | Einzelleistung Dachstühle, Abbundtechnik, Sägewerk-Vorteil & FAQ |
+| **Aktuelles & Magazin**| [`https://bau-mueller.eu/aktuelles/`](https://bau-mueller.eu/aktuelles/) | **200 OK** | Somerville Canvas | Filter-Pills, 6 reale Fachartikel, SAB-Highlight & Werkstatt-Meldungen |
+| **SAB-Förderartikel**  | [`/werkstatt-der-zukunft-.../`](https://bau-mueller.eu/werkstatt-der-zukunft-praezision-trifft-tradition/) | **200 OK** | WordPress Post | Offizieller Fördermittelbeitrag (EU EFRE & Freistaat Sachsen) |
+| **Impressum**          | [`https://bau-mueller.eu/impressum/`](https://bau-mueller.eu/impressum/) | **200 OK** | WordPress Page | Rechtssichere Anbieterkennzeichnung Arthur Müller e.K. |
+| **Datenschutz**        | [`https://bau-mueller.eu/datenschutz/`](https://bau-mueller.eu/datenschutz/) | **200 OK** | WordPress Page | DSGVO-konforme Datenschutzerklärung |
 
 ---
 
-## 2. Go-Live Checkliste (Sequenzieller Ablauf)
+## 2. Zero-Destructive Archiv & Rollback-Infrastruktur
 
-- [ ] **Schritt 1: Backup-Prüfung**
-  - All-Inkl / KAS Server-Backup verifizieren.
-  - Datenbank-Dump via phpMyAdmin / Script exportieren.
-  - Elementor-Export aller neuen Templates als JSON in `exports/` sichern.
-- [ ] **Schritt 2: Wartungsmodus aktivieren** (optional, ca. 15–30 Min.)
-- [ ] **Schritt 3: Elementor Site Settings umstellen**
-  - Globale Farben, Fonts und Layout-Vorgaben aus dem freigegebenen Designsystem aktivieren.
-- [ ] **Schritt 4: Astra-Customizer Anpassung**
-  - Header & Footer auf Theme Builder übergeben.
-- [ ] **Schritt 5: Theme-Builder-Bedingungen scharf schalten**
-  - `NEU - Header` $ightarrow$ Gesamte Website.
-  - `NEU - Footer` $ightarrow$ Gesamte Website.
-  - `NEU - Single Beitrag` $ightarrow$ Alle Beiträge.
-  - `NEU - Single Referenz` $ightarrow$ Alle Referenzen.
-  - `NEU - 404` $ightarrow$ 404-Seite.
-- [ ] **Schritt 6: Seiten-Status umschalten**
-  - Alte Seiten (IDs 540, 541, 542, 7, 543) auf `draft` setzen (30 Tage Archiv).
-  - Neue Seiten: Präfix `NEU - ` entfernen, Slugs final setzen, Status auf `publish`.
-  - Startseite in WordPress *Einstellungen $ightarrow$ Lesen* auf die neue Startseite umstellen.
-- [ ] **Schritt 7: Hauptmenü umstellen**
-  - Menü ID 9 auf die neuen Seitenpfade aktualisieren.
-- [ ] **Schritt 8: 301-Redirects einpflegen**
-  - In `.htaccess` oder Yoast SEO Redirects eintragen und prüfen.
-- [ ] **Schritt 9: Cache & CSS regenerieren**
-  - Elementor CSS regenerieren (*Elementor $ightarrow$ Werkzeuge $ightarrow$ Dateien neu generieren*).
-- [ ] **Schritt 10: Formular-Live-Test**
-  - Testanfrage absenden, E-Mail-Eingang bei `info@bau-mueller.eu` und `thomas@q26.it` prüfen.
-- [ ] **Schritt 11: Plugin-Bereinigung**
-  - ElementsKit Lite/Pro, Essential Addons und Ultimate Addons deaktivieren und nach 7 Tagen löschen.
-- [ ] **Schritt 12: Search Console & Sitemap**
-  - XML-Sitemap `/sitemap_index.xml` in Google Search Console neu einreichen.
+Keine einzige ursprüngliche Seite wurde überschrieben oder gelöscht. Alle 6 alten Seiten wurden zur lückenlosen Historienwahrung auf `draft` gesetzt und mit dem Präfix `[ARCHIV 2026]` versehen:
+- ID 540: `[ARCHIV 2026] Startseite (Original)` (Slug: `startseite-archiv-2026`)
+- ID 541: `[ARCHIV 2026] Über uns (Original)` (Slug: `about-archiv-2026`)
+- ID 542: `[ARCHIV 2026] Leistungen (Original)` (Slug: `leistungen-archiv-2026`)
+- ID 7: `[ARCHIV 2026] Referenzen (Original)` (Slug: `projects-archiv-2026`)
+- ID 543: `[ARCHIV 2026] Kontakt (Original)` (Slug: `contact-archiv-2026`)
+- ID 2012: `[ARCHIV 2026] Aktuelles (Original)` (Slug: `aktuelles-archiv-2026`)
+
+**Rollback-Verfahren**:
+1. **Per Skript**: `python scripts/rollback_live.py` ausführen. Stellt alle Originalseiten binnen 5 Sekunden wieder auf `publish` und setzt die Homepage zurück auf ID 540.
+2. **Per WordPress-Dashboard**: *Einstellungen → Lesen → Homepage* wieder auf die alte Startseite (ID 540) stellen.

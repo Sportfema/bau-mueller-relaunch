@@ -64,20 +64,12 @@ for p in pages:
     html = html.replace("tel:03438143370", "tel:+493438143336")
     html = html.replace("034381 43370", "034381 43336")
 
-    body_content = html
-    if "</header>" in body_content:
-        body_content = body_content.split("</header>", 1)[1]
-    elif "<nav" in body_content and "</nav>" in body_content:
-        body_content = body_content.split("</nav>", 1)[1]
-
-    if "<footer" in body_content:
-        body_content = body_content.split("<footer", 1)[0]
-    elif "<!-- 7. FOOTER" in body_content:
-        body_content = body_content.split("<!-- 7. FOOTER", 1)[0]
-    elif "<!-- FOOTER" in body_content:
-        body_content = body_content.split("<!-- FOOTER", 1)[0]
-
-    body_content = re.sub(r"</body>\s*</html>\s*$", "", body_content.strip())
+    # Extract full body content preserving Somerville header, mobile drawer, sections and footer
+    body_match = re.search(r"<body[^>]*>(.*?)</body>", html, re.DOTALL)
+    if body_match:
+        body_content = body_match.group(1).strip()
+    else:
+        body_content = re.sub(r"</body>\s*</html>\s*$", "", html.strip())
 
     full_snippet = f"""<!-- SOMERVILLE ARCHITECTURAL CRAFT DESIGN: {p['title']} -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,7 +97,7 @@ for p in pages:
         "slug": p["slug"],
         "status": "draft",
         "type": "page",
-        "template": "elementor_header_footer",
+        "template": "elementor_canvas",
         "comment_status": "closed",
         "ping_status": "closed",
         "content": {
@@ -137,7 +129,7 @@ for p in pages:
         "title": p["title"],
         "type": "page",
         "page_settings": {
-            "template": "elementor_header_footer",
+            "template": "elementor_canvas",
             "hide_title": "yes"
         },
         "content": [

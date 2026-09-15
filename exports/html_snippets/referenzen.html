@@ -3,6 +3,27 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          heading: ['"Plus Jakarta Sans"', 'sans-serif'],
+          sans: ['Inter', 'sans-serif']
+        },
+        colors: {
+          cream: '#F8F5EE',
+          charcoal: '#1C1B1A',
+          'charcoal-card': '#242321',
+          muted: '#6E6963',
+          'muted-dark': '#A39E93',
+          'text-primary': '#1A1918',
+          'text-secondary': '#4A4641'
+        }
+      }
+    }
+  }
+</script>
 <style>
 body {
       font-family: 'Inter', sans-serif;
@@ -94,6 +115,31 @@ body {
       transform: scale(1.1);
       background-color: #FAF7F2;
     }
+
+/* Critical Somerville Color Fallbacks */
+.bg-charcoal, footer#kontakt {
+  background-color: #1C1B1A !important;
+  color: #F8F5EE !important;
+}
+.text-cream {
+  color: #F8F5EE !important;
+}
+.bg-charcoal-card {
+  background-color: #242321 !important;
+}
+.bg-cream {
+  background-color: #F8F5EE !important;
+}
+footer#kontakt h2, footer#kontakt h3, footer#kontakt h4 {
+  color: #FFFFFF !important;
+}
+footer#kontakt p, footer#kontakt span, footer#kontakt li, footer#kontakt label {
+  color: #E2DDD5;
+}
+footer#kontakt .btn-pill-light {
+  background-color: #FFFFFF !important;
+  color: #1C1B1A !important;
+}
 </style>
 
 <div class="somerville-container w-full bg-[#F8F5EE] text-[#1A1918] antialiased" style="font-family: 'Inter', sans-serif;">

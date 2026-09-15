@@ -66,6 +66,46 @@ pages = [
         "slug": "werkstatt-der-zukunft-praezision-trifft-tradition",
         "prototype": "prototypes/post_2496_prototype.html",
         "desc": "SAB/EFRE-Förderprojekt Einzelbeitrag im Somerville Design mit Fördersignet, 4 Maschinenkarten und Meisterzitat."
+    },
+    {
+        "key": "post-2370",
+        "id": 2370,
+        "title": "Denkmalgerechte Altbausanierung: Holzarbeiten an historischen Gebäuden",
+        "slug": "denkmalgerechte-altbausanierung-holzarbeiten-an-historischen-gebaeuden",
+        "prototype": "prototypes/post_2370_prototype.html",
+        "desc": "Denkmal-Fachbeitrag im Somerville Design."
+    },
+    {
+        "key": "post-2218",
+        "id": 2218,
+        "title": "Wärme mit Stil – Unsere Pellets für Ihren Kamin",
+        "slug": "waerme-mit-stil-unsere-pellets-fuer-ihren-kamine",
+        "prototype": "prototypes/post_2218_prototype.html",
+        "desc": "Pellet-Fachbeitrag im Somerville Design."
+    },
+    {
+        "key": "post-2112",
+        "id": 2112,
+        "title": "Binderdachstuhl – Maßgefertigte Dachkonstruktionen",
+        "slug": "binderdachstuhl",
+        "prototype": "prototypes/post_2112_prototype.html",
+        "desc": "Binderdachstuhl-Fachbeitrag im Somerville Design."
+    },
+    {
+        "key": "post-2060",
+        "id": 2060,
+        "title": "Lohnschnitt im neuen Sägewerk",
+        "slug": "lohnschnitt-im-neuen-saegewerk",
+        "prototype": "prototypes/post_2060_prototype.html",
+        "desc": "Lohnschnitt-Fachbeitrag im Somerville Design."
+    },
+    {
+        "key": "post-2023",
+        "id": 2023,
+        "title": "Was kostet eine Wärmedämmung für meine Fassade?",
+        "slug": "waermedaemmung-fuer-meine-fassade",
+        "prototype": "prototypes/post_2023_prototype.html",
+        "desc": "Dämmungs-Fachbeitrag im Somerville Design."
     }
 ]
 
@@ -92,8 +132,54 @@ for p in pages:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {{
+    theme: {{
+      extend: {{
+        fontFamily: {{
+          heading: ['"Plus Jakarta Sans"', 'sans-serif'],
+          sans: ['Inter', 'sans-serif']
+        }},
+        colors: {{
+          cream: '#F8F5EE',
+          charcoal: '#1C1B1A',
+          'charcoal-card': '#242321',
+          muted: '#6E6963',
+          'muted-dark': '#A39E93',
+          'text-primary': '#1A1918',
+          'text-secondary': '#4A4641'
+        }}
+      }}
+    }}
+  }}
+</script>
 <style>
 {style_content}
+
+/* Critical Somerville Color Fallbacks */
+.bg-charcoal, footer#kontakt {{
+  background-color: #1C1B1A !important;
+  color: #F8F5EE !important;
+}}
+.text-cream {{
+  color: #F8F5EE !important;
+}}
+.bg-charcoal-card {{
+  background-color: #242321 !important;
+}}
+.bg-cream {{
+  background-color: #F8F5EE !important;
+}}
+footer#kontakt h2, footer#kontakt h3, footer#kontakt h4 {{
+  color: #FFFFFF !important;
+}}
+footer#kontakt p, footer#kontakt span, footer#kontakt li, footer#kontakt label {{
+  color: #E2DDD5;
+}}
+footer#kontakt .btn-pill-light {{
+  background-color: #FFFFFF !important;
+  color: #1C1B1A !important;
+}}
 </style>
 
 <div class="somerville-container w-full bg-[#F8F5EE] text-[#1A1918] antialiased" style="font-family: 'Inter', sans-serif;">
